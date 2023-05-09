@@ -1,0 +1,49 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Cagdas Dedeoglu
+  photo: CD2022_low.jpg
+  info: Director, The Posthuman Lab
+  email: cdedeoglu@yorkvilleu.ca
+  number_educ: 2
+  education1: University of Florida (Postdoc)
+  education2: Istanbul University (PhD)
+  education3:
+  education4:
+
+- name: Paridhi Gupta
+  photo: ParidhiGupta.jpg
+  info: Swiss Excellence Postdoctoral Fellow, Institute of Social Anthropology and Empirical Cultural Studies, University of Zurich
+  email: 
+  number_educ: 3
+  education1: PhD Gender Studies at the Centre for Women's Studies, Jawaharlal Nehru University, New Delhi, India
+  education2: MPhil Women's Studies at the Centre for Women's Studies, Jawaharlal Nehru University, New Delhi, India
+  education3: MA Sociology at the Centre for Study of Social Systems, Jawaharlal Nehru University, New Delhi, India
+  education4:
+
+- name: Janna Akimova
+  photo: Janna.jpeg
+  info: Research Assistant working on Information & Communication Technology Use, Diasporas and Grassroots Movements
+  email: 
+  number_educ: 2
+  education1: Bachelor of Liberal Arts (BLA), focus on Visual Studies & Psychology, The Schools of Public Engagement, The New School, NYC, USA
+  education2: APP in Documentary Film, focus on Visual Theory, The Film and TV School of the Academy of Performing Arts (FAMU), Prague, Czech Republic
+  education3:
+  education4:
+
+- name: Isabella Jaimes Rodríguez
+  photo: IsabellaRodriguez.jpg
+  info: Research Assistant working on the tech-mediated labour project to understand how technology is used to mediate the work of latinx housekeepers in Toronto.
+  email: 
+  number_educ: 1
+  education1: Sociology and Political Science undergraduate at Universidad del Rosario, in Bogotá, Colombia
+  education2: 
+  education3:
+  education4:

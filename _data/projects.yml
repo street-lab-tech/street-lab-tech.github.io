@@ -1,0 +1,86 @@
+- title: "Technology Use in Social Movements"
+  image: 
+  description: How are social movements using technologies?
+  authors: Priyank Chandra, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Adrian Petterson, Beth Zabib, Janna Akimova, Ashique Ali T
+  link:
+    url: /research/SocialMovements
+    display: More details
+  highlight: 1
+  subprojects: 3
+  subprojects1: 
+    name: Turkey Bogazici Protests
+    url: /research/SocialMovements/TurkeyBogaziciProtests.html
+  subprojects2: 
+    name: Indian Farmer Protests
+    url: /research/SocialMovements/IndianFarmersProtests.html
+  subprojects3: 
+    name: Belarussian Social Movement
+    url: /research/SocialMovements/BelarussianSocialMovement.html
+  # subprojects4: 
+  #   name: Russia, Resistance, and Archives
+  #   url: /research/SocialMovements/ResistanceArchives.html
+  news1: CHI 2023 Workshop - Supporting Social Movements through HCI and Design Research
+  news2: 
+
+- title: "Tech-mediated Labour Practices"
+  image: 
+  description: How does algorithmic management shape labour experiences in digital marketplaces?
+  authors: Priyank Chandra, Isabella Rodriguez, Adrian Petterson, Olivia Doggett, Ashique Ali T
+  link:
+    url: /research/TechMediatedLabour
+    display: More Details
+  highlight: 1
+  subprojects: 2
+  subprojects1: 
+    name: Delivery Work and Unions
+    url: /research/TechMediatedLabour/GigWorkUnions.html
+  subprojects2: 
+    name: Housecleaners in Toronto
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+  news1: 
+  news2:
+
+- title: "Accessibility-related Research"
+  image: 
+  description: How can we more more inclusive systems and processes?
+  authors: Priyank Chandra, Adrian Petterson, Carolyn Ly, Trevor Cross, Ishani Pandey, Alexander Parent
+  link:
+    url: /research/Accessibility
+    display: More Details
+  highlight: 1
+  subprojects: 3
+  subprojects1: 
+    name: Accessibility Infrastructure in Universities
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+  subprojects2: 
+    name: Accessible and Inclusive Data sciencE (AIDE)
+    url: /research/Accessibility/AIDE.html
+  subprojects3: 
+    name: Visual Impairment and Risk Communication
+    url: /research/Accessibility/VIRisk.html
+  news1: 
+  news2:
+
+
+- title: "Posthumanism, Design, and HCI"
+  image: 
+  description: How are notions of the Posthuman used in the the HCI and Design fields?
+  authors: Cagdas Dedeoglu, Kit Haehnal, Priyank Chandra
+  link:
+    url: /research/PostHumanAndHCI/
+    display: More Details
+  highlight: 1
+  news1: 
+  news2:
+
+
+- title: "Caste and Technology"
+  image: 
+  description: 
+  authors: Azhagu Meena, Ashique Ali T, Priyank Chandra
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news1: 
+  news2:
