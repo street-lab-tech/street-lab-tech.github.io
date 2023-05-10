@@ -25,7 +25,7 @@
   education2: Honours BSc Mathematics and Statistics, Art History, McMaster University, Hamilton, Canada
   number_proj: 1
   link_project1: 
-    url: http://localhost:4000/research/AccessibilityInfrastructure/
+    url: /research/AccessibilityInfrastructure/
     display: Accessiblity Infrastructure in Universities
 
 - name: Trevor Cross
@@ -39,7 +39,7 @@
   education2: BCom Information Systems from McGill University, Montreal, Canada
   number_proj: 1
   link_project1: 
-    url: http://localhost:4000/research/AccessibilityInfrastructure/
+    url: /research/AccessibilityInfrastructure/
     display: Accessiblity Infrastructure in Universities
 
 - name: Kit Haehnal
@@ -51,6 +51,9 @@
   number_educ: 2
   education1: Master of Information in Culture and Technology at the University of Toronto, Toronto, Canada
   education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
+  link_project1: 
+    url: /research/PostHumanAndHCI/
+    display: Posthumanism, Design, and HCI
 
 #- name: Bethlehem Zebib
 #  photo: 
@@ -72,7 +75,7 @@
   education2: Honours BA, Specializing in Peace, Conflict and Justice Studies, University of Toronto, Toronto, Canada
   number_proj: 1
   link_project1: 
-    url: http://localhost:4000/research/AccessibilityInfrastructure/
+    url: /research/AccessibilityInfrastructure/
     display: Accessiblity Infrastructure in Universities
 
 - name: Ishani Pandey
@@ -86,5 +89,5 @@
   education2: Bachelor of Design, CEPT University, Ahmedabad, India
   number_proj: 1
   link_project1: 
-    url: http://localhost:4000/research/AccessibilityInfrastructure/
+    url: /research/AccessibilityInfrastructure/
     display: Accessiblity Infrastructure in Universities

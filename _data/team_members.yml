@@ -15,7 +15,7 @@
 
 
 - name: Adrian Petterson
-  photo: adrian_headshot.jpeg
+  photo: adrian_headshot.jeg
   info: PhD student (1st Year) - Faculty of Information, University of Toronto
   topics: Disability, carework, design
   email: a.petterson@mail.utoronto.ca
@@ -86,9 +86,7 @@
   education2: BA Political Science and International Relations at Bogazici University, Istanbul, Turkey 
   education3:
   education4:
-  number_proj: 2
+  number_proj: 1
   link_project1: 
     url: /research/SocialMovements/
     display: Technology Use in Social Movements
-  link_project2:
-    url: /research/TurkeyBogaziciProtests/
