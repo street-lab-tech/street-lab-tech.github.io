@@ -8,7 +8,7 @@
 #  education3:
 #  education4:
 
-- name: Cagdas Dedeoglu
+- name: Dr. Cagdas Dedeoglu
   photo: CD2022_low.jpg
   info: Director, The Posthuman Lab
   email: cdedeoglu@yorkvilleu.ca
@@ -17,8 +17,15 @@
   education2: Istanbul University (PhD)
   education3:
   education4:
+  number_proj: 2
+  link_project1: 
+    url: /research/PostHumanAndHCI.html
+    display: Posthumanism, Design, and HCI
+  link_project2: 
+    url: /research/SocialMovements/TurkeyBogaziciProtests.html
+    display: Turkey Bogazici Protests
 
-- name: Paridhi Gupta
+- name: Dr. Paridhi Gupta
   photo: ParidhiGupta.jpg
   info: Swiss Excellence Postdoctoral Fellow, Institute of Social Anthropology and Empirical Cultural Studies, University of Zurich
   email: 
@@ -27,23 +34,35 @@
   education2: MPhil Women's Studies at the Centre for Women's Studies, Jawaharlal Nehru University, New Delhi, India
   education3: MA Sociology at the Centre for Study of Social Systems, Jawaharlal Nehru University, New Delhi, India
   education4:
+  number_proj: 1
+  link_project1: 
+    url: /research/SocialMovements/IndianFarmersProtests.html
+    display: Indian Farmer Protests
 
 - name: Janna Akimova
   photo: Janna.jpeg
-  info: Research Assistant working on Information & Communication Technology Use, Diasporas and Grassroots Movements
+  info: RA studying the Belarussian Social Movement
   email: 
   number_educ: 2
   education1: Bachelor of Liberal Arts (BLA), focus on Visual Studies & Psychology, The Schools of Public Engagement, The New School, NYC, USA
   education2: APP in Documentary Film, focus on Visual Theory, The Film and TV School of the Academy of Performing Arts (FAMU), Prague, Czech Republic
   education3:
   education4:
+  number_proj: 1
+  link_project1: 
+    url: /research/SocialMovements/BelarussianSocialMovement.html
+    display: Belarussian Social Movement
 
 - name: Isabella Jaimes Rodríguez
   photo: IsabellaRodriguez.jpg
-  info: Research Assistant working on the tech-mediated labour project to understand how technology is used to mediate the work of latinx housekeepers in Toronto.
+  info: RA working on project to understand how technology is used to mediate the work of latinx housekeepers in Toronto.
   email: 
   number_educ: 1
   education1: Sociology and Political Science undergraduate at Universidad del Rosario, in Bogotá, Colombia
   education2: 
   education3:
   education4:
+  number_proj: 1
+  link_project1: 
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto

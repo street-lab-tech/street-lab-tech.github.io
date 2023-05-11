@@ -220,8 +220,8 @@ Jump to [researchers](#researchers), [PhD students](#phd-students), [Collaborato
   <li> {{ member.education4 }} </li>
   {% endif %}
 
-  {% if member.number_proj == 1 %}
   <h5><strong>Projects</strong></h5>
+  {% if member.number_proj == 1 %}
   <p><strong><a href="{{ member.link_project1.url }}">{{ member.link_project1.display }}</a></strong></p>
   {% endif %}
 
