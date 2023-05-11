@@ -16,10 +16,15 @@ echo "Adding changes to Git..."
 echo "Committing changes to Git..."
 %git% commit -m "Update site at %timestamp%"
 
+pause
+
+
 echo "Pushing changes to GitHub..."
 %git% push
+
+pause
+
 
 echo "Site updated at %timestamp%"
 
 endlocal
-pause
