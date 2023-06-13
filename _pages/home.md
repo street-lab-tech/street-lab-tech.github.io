@@ -11,3 +11,5 @@ STREET Lab is an interdisciplinary research collective at the [Faculty of Inform
 Our research is influenced by Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Social Computing, Development Studies, Political Science, Feminist and Queer theories, Postcolonial Studies, and Critical Theory. 
 
  **We are looking for students to join STREET Lab** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
+
+ **We have an opening for a postdoctoral fellow** [(more info)]({{ site.url }}{{ site.baseurl }}/postdoc)
