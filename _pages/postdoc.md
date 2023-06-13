@@ -27,10 +27,10 @@ permalink: /postdoc
 
 <div class=" col-sm-12">
   <h3>Summary</h3>
-[STREET Lab](http://www.streetlab.tech) is seeking a researcher to join our interdisciplinary team as a Postdoctoral Scholar in the field of Human-Computer Interaction (HCI) with a focus on accessibility, inclusive design, and data science. This position is part of a project in collaboration with the [Campbell Lab](https://www.camlab.ca) based at the Lunenfeld-Tanenbaum Research Institute of Sinai Health System and the Departments of Molecular Genetics and Statistical Sciences, University of Toronto. The project aims at leveraging inclusive design principles and machine learning to enhance accessibility and reduce barriers to entry with respect to data science.
+[STREET Lab](http://www.streetlab.tech) at the Faculty of Information, University of Toronto is seeking a researcher to join our interdisciplinary team as a Postdoctoral Scholar in the field of Human-Computer Interaction (HCI) with a focus on accessibility, inclusive design, and data science. This position is part of a project in collaboration with the [Campbell Lab](https://www.camlab.ca). The project aims at leveraging inclusive design principles and machine learning to enhance accessibility and reduce barriers to entry with respect to data science.
 
   <h3>About Us</h3>
-STREET Lab is an interdisciplinary research collective at the Faculty of Information, University of Toronto, and housed at the Knowledge Media Design Institute (KMDI). The lab is focused on understanding and supporting the sociotechnical practices of marginalized communities around the world, with an emphasis in resistance, informality, and social justice.
+STREET Lab is an interdisciplinary research collective at the Faculty of Information, University of Toronto, and housed at the Knowledge Media Design Institute (KMDI). The lab is focused on understanding and supporting the sociotechnical practices of marginalized communities around the world, with an emphasis on resistance, informality, and social justice.
   
   <h3>Responsibilities</h3>
   * Conduct HCI research to identify accessibility requirements and challenges.
