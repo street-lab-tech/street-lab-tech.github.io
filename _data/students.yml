@@ -92,3 +92,58 @@
   link_project1: 
     url: /research/Accessibility/AccessibilityInfrastructure.html
     display: Accessiblity Infrastructure in Universities
+
+- name: Christina Dinh
+  photo: 
+  info: Bachelor's student in Political Science and Women and Gender Studies (3rd Year) - Faculty of Arts and Sciences, University of Toronto
+  topics: Accessibility
+  bio: Christina (she/her) is a Bachelor's student in Political Science and Women and Gender Studies at the Faculty Arts and Sciences. Her research is focused on topics of equity. In the STREET Lab, she is assisting with the Accessibility Infrastructure in Universities project. 
+  email: christina.dinh@mail.utoronto.ca
+  number_educ: 1
+  education1: Honours BA, Political Science and Women and Gender Studies, University of Toronto, Toronto, Canada
+  number_proj: 1
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+
+- name: Carmen Chau
+  photo: carmen_chau_img.jpg
+  info: Bachelor's student in Computer Science and Statistical Science (2nd Year) - Faculty of Arts and Sciences, University of Toronto
+  topics: Russian Resistance Movement
+  bio: Carmen is an undergraduate student studying Computer Science and Statistical Science at the Faculty Arts and Sciences. In the STREET Lab, she is assisting with streamlining data scraping and analysis processes for the Russian Resistance Movement project. She is also working on developing a standalone Whisper app that can optimize interview transcription and translation processes.
+  email: carmenj.chau@mail.utoronto.ca
+  number_educ: 1
+  education1: Honours Bsc, Computer Science and Statistical Science, University of Toronto, Toronto, Canada
+  number_proj: 1
+  link_project1: 
+    url: TBD
+    display: Russian Resistance Movement Project
+
+- name: Laura Moldoveanu
+  photo: Laura.jpeg
+  info: Bachelor's student in International Relations and Peace, Conflict & Justice (3rd Year) - Faculty of Arts and Sciences, University of Toronto
+  topics: Worker Resistance
+  bio: Laura (she/her) is an undergraduate student studying International Relations and Peace, Conflict & Justice at the Faculty Arts and Sciences. Her research is focused on human rights, insurgency, and policy. In the STREET Lab, she is assisting with the Worker Resistance project.
+  email: laura.moldoveanu@mail.utoronto.ca
+  number_educ: 1
+  education1: Honours BA, International Relations and Peace, Conflict & Justice, University of Toronto, Toronto, Canada
+  number_proj: 1
+  link_project1: 
+    url: TBD
+    display: Worker Resistance
+
+- name: Emily Su
+  photo: emily_su.jpeg
+  info: Bachelor's student in Statistical Science, Computer Science, and Computational Cognitive Science (3rd Year) - Faculty of Arts and Sciences, University of Toronto
+  topics: Social Media and Social Movements, User-Friendly Applications
+  bio: Emily is an undergraduate student studying statistical science, computer science, and computational cognitive science. She is currently working on the Russian Resistance Movement Project and the Whisper App Project. On the Russian Resistance Movement project, she is streamlining data scraping by developing a data pipeline with a team and she is also assisting with data analysis. On the Whisper App project, she is working on developing a desktop app that integrates Whisper to translate and transcribe audio interviews.
+  email: em.su@mail.utoronto.ca
+  number_educ: 1
+  education1: Honours BSc, Statistical Science, Computer Science, and Computational Cognitive Science, University of Toronto, Toronto, Canada
+  number_proj: 2
+  link_project1: 
+    url: TBD
+    display: Russian Resistance Movement
+  link_project2: 
+    url: TBD
+    display: Whisper App

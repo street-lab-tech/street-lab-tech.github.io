@@ -49,7 +49,7 @@ STREET Lab is an interdisciplinary research collective at the Faculty of Informa
 
   The successful candidate will have the freedom to shape their research and contribute to the field of HCI and accessibility research.
 
-  To apply, please submit the following documents to [Prof. Priyank Chandra](mailto:priyank.chandra@utoronto.ca) by June 30, 2023:
+  To apply, please submit the following documents to [Prof. Priyank Chandra](mailto:priyank.chandra@utoronto.ca):
 
   * Curriculum vitae (CV) highlighting your educational background, research experience, and relevant publications.
   * A cover letter describing your research interests and relevant experience

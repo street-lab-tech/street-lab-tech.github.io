@@ -1,7 +1,7 @@
 - title: "Technology Use in Social Movements"
   image: 
   description: How are social movements using technologies? How can we support them?
-  authors: Priyank Chandra, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Adrian Petterson, Beth Zabib, Janna Akimova, Ashique Ali T
+  authors: Priyank Chandra, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Adrian Petterson, Beth Zabib, Janna Akimova, Ashique Ali T, Emily Su
   link:
     url: /research/SocialMovements
     display: More details
@@ -61,7 +61,6 @@
   news1: 
   news2:
 
-
 - title: "Posthumanism, Design, and HCI"
   image: 
   description: How are notions of the Posthuman used in HCI and Design fields?
@@ -73,11 +72,35 @@
   news1: 
   news2:
 
+- title: "Design Equity"
+  image: 
+  description: How can we help designers shift systems of oppression?
+  authors: Adrian Petterson, Azhagu Meena, Samar Sabie, Priyank Chandra
+  link:
+    url: /research/EquityToolkits/EquityToolkits.html
+    display: More Details
+  highlight: 1
+  subprojects: 1
+  subprojects1: 
+    name: Design Equity Resources
+    url: /research/EquityToolkits/EquityToolkits.html
+
 
 - title: "Caste and Technology"
   image: 
   description: 
   authors: Azhagu Meena, Ashique Ali T, Priyank Chandra
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news1: 
+  news2:
+
+  - title: "Sex Ed Creators' Strategies of Circumventing Censorship"
+  image: 
+  description: What strategies do creators on the social media platform TikTok use to circumvent censorship when producing sex ed content?
+  authors: Emily Weckend, Priyank Chandra
   link:
     url: 
     display: 
