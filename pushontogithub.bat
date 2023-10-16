@@ -1,30 +1,30 @@
 @echo off
 
-setlocal enabledelayedexpansion
-
-set repo=street-lab-tech/street-lab-tech.github.io
-set folder=street-lab
-set git=git
 set timestamp=%date:/=-%_%time::=-%
 
-echo "Building site..."
-jekyll build
+echo "About to build site..."
+call jekyll build > build_output.txt 2>&1
+echo Exit Code: %errorlevel%
+echo "Build command executed."
+
+pause
 
 echo "Adding changes to Git..."
-%git% add --all
+git add --all
+echo "Add command executed."
+
+pause
 
 echo "Committing changes to Git..."
-%git% commit -m "Update site at %timestamp%"
+git commit -m "Update site at %timestamp%"
+echo "Commit command executed."
 
 pause
-
 
 echo "Pushing changes to GitHub..."
-%git% push
+git push
+echo "Push command executed."
 
 pause
 
-
 echo "Site updated at %timestamp%"
-
-endlocal
