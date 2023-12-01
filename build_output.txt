@@ -1,7 +1,10 @@
-Configuration file: C:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io/_config.yml
-            Source: C:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io
-       Destination: C:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io/_site
- Incremental build: disabled. Enable with --incremental
-      Generating... 
-                    done in 0.394 seconds.
- Auto-regeneration: disabled. Use --watch to enable.
+Resolving dependencies...
+C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.4.5/lib/bundler/definition.rb:524:in `materialize': Could not find rouge-4.1.0, rouge-4.1.0 in locally installed gems (Bundler::GemNotFound)
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.4.5/lib/bundler/definition.rb:197:in `specs'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.4.5/lib/bundler/definition.rb:254:in `specs_for'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.4.5/lib/bundler/runtime.rb:18:in `setup'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.4.5/lib/bundler.rb:170:in `setup'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.3.2/lib/jekyll/plugin_manager.rb:52:in `require_from_bundler'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.3.2/exe/jekyll:11:in `<top (required)>'
+	from C:/Ruby31-x64/bin/jekyll:25:in `load'
+	from C:/Ruby31-x64/bin/jekyll:25:in `<main>'

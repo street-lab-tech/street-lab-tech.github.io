@@ -315,11 +315,13 @@ Jump to [researchers](#researchers), [PhD students](#phd-students), [Collaborato
   {% endif %}
 
   {% if member.number_proj == 2 %}
+   <h5><strong>Projects</strong></h5>
   <p><strong><a href="{{ member.link_project1.url }}">{{ member.link_project1.display }}</a></strong></p>
   <p><strong><a href="{{ member.link_project2.url }}">{{ member.link_project2.display }}</a></strong></p>
   {% endif %}
 
   {% if member.number_proj == 3 %}
+   <h5><strong>Projects</strong></h5>
   <p><strong><a href="{{ member.link_project1.url }}">{{ member.link_project1.display }}</a></strong></p>
   <p><strong><a href="{{ member.link_project2.url }}">{{ member.link_project2.display }}</a></strong></p>
   <p><strong><a href="{{ member.link_project3.url }}">{{ member.link_project3.display }}</a></strong></p>
