@@ -44,20 +44,21 @@
   link_project2: 
     url: /research/Accessibility/AIDE.html
     display: Accessible & Inclusive Data Science (AIDE)
+    
 
-- name: Kit Haehnal
-  photo: 
-  info: Masters student in Culture and Technology (2nd Year) - Faculty of Information, University of Toronto
-  topics: Transgender technologies, crip technoscience, STS, posthumanism
-  bio: Kit (they/them) is a Masters student in the Culture and Technology concentration With a primary focus on transgender technologies and crip technoscience. Kit is currently working towards completing their thesis project titled Proximal Intimacies that details the use and history of needles within the transgender community. In the STREET Lab they are currently part of the 'Posthumanism' project that looks to detail the use of the term 'posthuman' within design papers.
-  email: kit.haehnel@mail.utoronto.ca
-  number_educ: 2
-  education1: Master of Information in Culture and Technology at the University of Toronto, Toronto, Canada
-  education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
-  number_proj: 1
-  link_project1: 
-    url: /research/PostHumanAndHCI.html
-    display: Posthumanism, Design, and HCI
+#- name: Kit Haehnal
+#  photo: 
+#  info: Masters student in Culture and Technology (2nd Year) - Faculty of Information, University of Toronto
+#  topics: Transgender technologies, crip technoscience, STS, posthumanism
+#  bio: Kit (they/them) is a Masters student in the Culture and Technology concentration With a primary focus on transgender technologies and crip technoscience. Kit is currently working towards completing their thesis project titled Proximal Intimacies that details the use and history of needles within the transgender community. In the STREET Lab they are currently part of the 'Posthumanism' project that looks to detail the use of the term 'posthuman' within design papers.
+#  email: kit.haehnel@mail.utoronto.ca
+#  number_educ: 2
+#  education1: Master of Information in Culture and Technology at the University of Toronto, Toronto, Canada
+#  education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
+#  number_proj: 1
+#  link_project1: 
+#    url: /research/PostHumanAndHCI.html
+#    display: Posthumanism, Design, and HCI
 
 #- name: Bethlehem Zebib
 #  photo: 
@@ -68,20 +69,6 @@
 #  number_educ: 0
 #  education1:
 
-- name: Alexander Kuzyk-Parent
-  photo: alex.jpeg
-  info: Masters student in User Experience Design (1st Year) - Faculty of Information, University of Toronto
-  topics: Assistive devices, user-empowered design, accessibility
-  bio: Alexander's research broadly focuses on the application of User-Empowered Design and Ability-Based Design approaches to the design of medical devices. At STREET Lab, he is currently working with communities with different access needs to redesign orthotic devices. He is also assisting with a long-term project that examines accessibility in Ontario higher education. As a Research Assistant with the Knowledge Media Design Institute's MakerSpace, Alexander is examining modes of accessible resistance through the creation of new forms of music-making.
-  email: alex.parent@mail.utoronto.ca
-  number_educ: 2
-  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
-  education2: Honours BA, Specializing in Peace, Conflict and Justice Studies, University of Toronto, Toronto, Canada
-  number_proj: 1
-  link_project1: 
-    url: 
-    display: 
-
 - name: Ishani Pandey
   photo: Ishani.jpg
   info: Masters student in User Experience Design (1st Year) - Faculty of Information, University of Toronto
@@ -91,19 +78,6 @@
   number_educ: 2
   education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
   education2: Bachelor of Design, CEPT University, Ahmedabad, India
-  number_proj: 1
-  link_project1: 
-    url: /research/Accessibility/AccessibilityInfrastructure.html
-    display: Accessiblity Infrastructure in Universities
-
-- name: Christina Dinh
-  photo: 
-  info: Bachelor's student in Political Science and Women and Gender Studies (3rd Year) - Faculty of Arts and Sciences, University of Toronto
-  topics: Accessibility
-  bio: Christina (she/her) is a Bachelor's student in Political Science and Women and Gender Studies at the Faculty Arts and Sciences. Her research is focused on topics of equity. In the STREET Lab, she is assisting with the Accessibility Infrastructure in Universities project. 
-  email: christina.dinh@mail.utoronto.ca
-  number_educ: 1
-  education1: Honours BA, Political Science and Women and Gender Studies, University of Toronto, Toronto, Canada
   number_proj: 1
   link_project1: 
     url: /research/Accessibility/AccessibilityInfrastructure.html
