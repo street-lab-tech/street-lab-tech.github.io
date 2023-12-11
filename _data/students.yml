@@ -111,12 +111,12 @@
 
 - name: Emily Su
   photo: emily_su.jpeg
-  info: Bachelor's student in Statistical Science, Computer Science (3rd Year) - Faculty of Arts and Sciences, University of Toronto
+  info: Bachelor's student in Statistical Science (3rd Year) - Faculty of Arts and Sciences, University of Toronto
   topics: Social Media and Social Movements, User-Friendly Applications
-  bio: Emily is an undergraduate student studying statistical science and computer science. She is currently working on the Russian Resistance Movement Project and the Whisper App Project. On the Russian Resistance Movement project, she is streamlining data scraping by developing a data pipeline with a team and she is also assisting with data analysis. On the Whisper App project, she is working on developing a desktop app that integrates Whisper to translate and transcribe audio interviews.
+  bio: Emily is an undergraduate student majoring in statistical science with a minor in computer science at the Faculty of Arts and Sciences. She is currently working on the Russian Resistance Movement Project and the Whisper App Project. On the Russian Resistance Movement project, she is streamlining data scraping by developing a data pipeline with a team and she is also assisting with data analysis. On the Whisper App project, she is working on developing a desktop app that integrates Whisper to translate and transcribe audio interviews.
   email: em.su@mail.utoronto.ca
   number_educ: 1
-  education1: Honours BSc, Statistical Science, Computer Science, University of Toronto, Toronto, Canada
+  education1: Honours BSc, Statistical Science, University of Toronto, Toronto, Canada
   number_proj: 2
   link_project1: 
     url: TBD
