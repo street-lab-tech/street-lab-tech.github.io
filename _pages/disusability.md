@@ -7,7 +7,10 @@ permalink: /disusability.html
 ---
 
 # Dis/Usability Speaker and Workshop Series
+Details: 
 
-Every last Wednesday
+## Past Talks
 
-05.09.2023
+
+## Upcoming Talks
+

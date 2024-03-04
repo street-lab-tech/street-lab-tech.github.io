@@ -39,8 +39,11 @@ In Ontario, severe weather events are becoming increasingly frequent and intense
   
 <h4>Updates</h4>
 <b>May 2023 Status Update</b><br>Analyzing interview data from pwVI
+<b>January 2024 Status Update</b><br>Conducting second round of interviews with PwVI to prepare for a co-design research workshop
   
 <h2>Papers</h2>
-Jit, S., Spinney, J., Chandra, P., & Soden, R. (2023, April). Semi-Automated Approach for Evaluating Severe Weather Risk Communication. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-8).
+1) Jit, S., Spinney, J., Chandra, P., Chilton, L. and Soden, R. (2024). Writing out the Storm: Designing and Evaluating Tools for Weather Risk Messaging. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. (CHI 2024)
+
+2) Jit, S., Spinney, J., Chandra, P., & Soden, R. (2023). Semi-Automated Approach for Evaluating Severe Weather Risk Communication. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-8). (CHI 2023)
 <br />
 

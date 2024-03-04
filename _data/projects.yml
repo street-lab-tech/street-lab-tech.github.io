@@ -1,7 +1,7 @@
 - title: "Technology Use in Social Movements"
   image: 
   description: How are social movements using technologies? How can we support them?
-  authors: Priyank Chandra, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Adrian Petterson, Beth Zabib, Janna Akimova, Ashique Ali T, Emily Su
+  authors: Ashique Ali T, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Janna Akimova,  Emily Su, Carmen Chau, Jaydon Brown, Marco Chan
   link:
     url: /research/SocialMovements
     display: More details
@@ -16,37 +16,43 @@
   subprojects3: 
     name: Belarussian Social Movement
     url: /research/SocialMovements/BelarussianSocialMovement.html
-  # subprojects4: 
-  #   name: Russia, Resistance, and Archives
-  #   url: /research/SocialMovements/ResistanceArchives.html
-  news1: CHI 2023 Workshop - Supporting Social Movements through HCI and Design Research
+  subprojects4:
+    name: Russia, Resistance, and Archives
+    url: /research/SocialMovements/ResistanceArchives.html
+  subprojects5:
+    name: HongKong Protests
+    url: /research/SocialMovements/HongkongProtests.html
+  news1: FoI 2023-24 SSHRC Institutional Grant (SIG) for "Repertoires of Contention in the Digital Labour Platforms (DLPs)"
   news2: 
 
 - title: "Tech-mediated Labour Practices"
   image: 
   description: How does technologies (and algorithmic management) shape labour experiences in digital marketplaces?
-  authors: Priyank Chandra, Isabella Rodriguez, Adrian Petterson, Olivia Doggett, Ashique Ali T
+  authors: Ashique Ali T, Adrian Petterson, Isabella Rodriguez, Olivia Doggett
   link:
     url: /research/TechMediatedLabour
     display: More Details
   highlight: 1
-  subprojects: 2
+  subprojects: 3
   subprojects1: 
-    name: Delivery Work and Unions
+    name: Gig Work and Unions
     url: /research/TechMediatedLabour/GigWorkUnions.html
   subprojects2: 
-    name: Housecleaners in Toronto
+    name: Latinx Housecleaners in Toronto
     url: /research/TechMediatedLabour/HousecleanersToronto.html
-  news1: 
-  news2:
+  subprojects3: 
+    name: Gig Worker Resistance Lit Review
+    url: /research/TechMediatedLabour/GigWorkersResistance.html
+  news1: Paper “Networks of care in digital domestic labour economies” in CHI2024
+  news2: 
 
 - title: "Accessibility-related Research"
   image: 
   description: How can we build more inclusive systems and processes?
-  authors: Priyank Chandra, Adrian Petterson, Carolyn Ly, Trevor Cross, Ishani Pandey, Alexander Parent
+  authors: Carolyn Ly, Trevor Cross, Ishani Pandey, Adrian Petterson, Jocelyn Mattka, Selin Naz Tasman
   link:
-    url: /research/Accessibility
-    display: More Details
+    url: 
+    display: 
   highlight: 1
   subprojects: 3
   subprojects1: 
@@ -61,49 +67,92 @@
   news1: 
   news2:
 
-- title: "Posthumanism, Design, and HCI"
+- title: "Designing Sustainable Reproductive Justice Futures "
   image: 
-  description: How are notions of the Posthuman used in HCI and Design fields?
-  authors: Cagdas Dedeoglu, Kit Haehnal, Priyank Chandra
+  description: Exploring and supporting the strategies employed by abortion care organizations to coordinate reproductive health services
+  authors: Adrian Petterson
   link:
-    url: /research/PostHumanAndHCI.html
+    url: /research/AAOCare.html
     display: More Details
   highlight: 1
+  subprojects: 0
   news1: 
   news2:
 
 - title: "Design Equity"
   image: 
   description: How can we help designers shift systems of oppression?
-  authors: Adrian Petterson, Azhagu Meena, Samar Sabie, Priyank Chandra
+  authors: Adrian Petterson
   link:
     url: /research/EquityToolkits/EquityToolkits.html
     display: More Details
   highlight: 1
-  subprojects: 1
+  subprojects: 0
   subprojects1: 
     name: Design Equity Resources
     url: /research/EquityToolkits/EquityToolkits.html
 
-
-- title: "Caste and Technology"
+- title: "Posthumanism, Design, and HCI"
   image: 
-  description: 
-  authors: Azhagu Meena, Ashique Ali T, Priyank Chandra
+  description: How are notions of the Posthuman used in HCI and Design fields?
+  authors: Cagdas Dedeoglu, Kit Haehnal
   link:
-    url: 
-    display: 
-  highlight: 0
+    url: /research/PostHumanAndHCI.html
+    display: More Details
+  highlight: 1
+  subprojects: 0
   news1: 
   news2:
 
-  - title: "Sex Ed Creators' Strategies of Circumventing Censorship"
+- title: "Sex Ed Creators' Strategies of Circumventing Censorship"
   image: 
   description: What strategies do creators on the social media platform TikTok use to circumvent censorship when producing sex ed content?
-  authors: Emily Weckend, Priyank Chandra
+  authors: Emily Weckend
+  link:
+    url: /research/SexEdCensorship.html
+    display: More Details
+  highlight: 1
+  subprojects: 0
+  news1: 
+  news2:
+
+# - title: "Russian Resistance Movement Project"
+#   image: 
+#   description: A Telegram scraping project that automates the collection and analysis of Telegram message data for Russian resistance movement research.
+#   authors: Carmen Chau, Emily Su, Priyank Chandra
+#   link:
+#     url: /research/SocialMovements/RussianResProj.html
+#     display: More Details
+#   highlight: 1
+#   subprojects: 1
+#   subprojects1: 
+#     name: Russian Resistance Movement Project
+#     url: /research/SocialMovements/RussianResProj.html
+
+
+- title: "Research Tools "
+  image: 
+  description: Designing research tools to help qualitative researchers
+  authors: Emily Su, Carmen Chau
   link:
     url: 
     display: 
-  highlight: 0
-  news1: 
-  news2:
+  highlight: 1
+  subprojects: 0
+  subprojects1: 
+    name: Whisper Transcription and Translation App
+    url: /research/Applications/WhisperTranscription.html
+
+
+# - title: "Whisper Interview Interpretation App"
+#   image: 
+#   description: A standalone, offline application that does audio translation and transcription using Whisper AI. Utilized for interview interpretation. 
+#   authors: Emily Su, Carmen Chau, Priyank Chandra
+#   link:
+#     url: /research/Applications/WhisperInterviewApp.html
+#     display: More Details
+#   highlight: 1
+#   subprojects: 1
+#   subprojects1: 
+#     name: Whisper Interview Interpretation App
+#     url: /research/Applications/WhisperInterviewApp.html

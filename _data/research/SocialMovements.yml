@@ -27,6 +27,13 @@
   subprojects3: 
     name: Belarussian Social Movement
     url: /research/SocialMovements/BelarussianSocialMovement.html
+  subprojects4: 
+    name: Hong Kong Protests
+    url: /research/SocialMovements/HongKongProtests.html
+  subprojects5: 
+    name: ICTs and Coalition-Building
+    url: /research/SocialMovements/CoalitionBuilding.html
+
 
   number_papers: 2
   paper1: "Moitra, A., Ahmed, S. I., & Chandra, P. (2021). Parsing the 'Me'in #MeToo: Sexual Harassment, Social Media, and Justice Infrastructures. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), 1-34."

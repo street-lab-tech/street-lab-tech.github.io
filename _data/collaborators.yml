@@ -38,31 +38,3 @@
   link_project1: 
     url: /research/SocialMovements/IndianFarmersProtests.html
     display: Indian Farmer Protests
-
-- name: Janna Akimova
-  photo: Janna.jpeg
-  info: RA studying the Belarussian Social Movement
-  email: 
-  number_educ: 2
-  education1: Bachelor of Liberal Arts (BLA), focus on Visual Studies & Psychology, The Schools of Public Engagement, The New School, NYC, USA
-  education2: APP in Documentary Film, focus on Visual Theory, The Film and TV School of the Academy of Performing Arts (FAMU), Prague, Czech Republic
-  education3:
-  education4:
-  number_proj: 1
-  link_project1: 
-    url: /research/SocialMovements/BelarussianSocialMovement.html
-    display: Belarussian Social Movement
-
-- name: Isabella Jaimes Rodríguez
-  photo: IsabellaRodriguez.jpg
-  info: RA working on project to understand how technology is used to mediate the work of latinx housekeepers in Toronto.
-  email: 
-  number_educ: 1
-  education1: Sociology and Political Science undergraduate at Universidad del Rosario, in Bogotá, Colombia
-  education2: 
-  education3:
-  education4:
-  number_proj: 1
-  link_project1: 
-    url: /research/TechMediatedLabour/HousecleanersToronto.html
-    display: Latinx Housecleaners in Toronto

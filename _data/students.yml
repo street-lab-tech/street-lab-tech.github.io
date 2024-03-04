@@ -45,30 +45,6 @@
     url: /research/Accessibility/AIDE.html
     display: Accessible & Inclusive Data Science (AIDE)
     
-
-#- name: Kit Haehnal
-#  photo: 
-#  info: Masters student in Culture and Technology (2nd Year) - Faculty of Information, University of Toronto
-#  topics: Transgender technologies, crip technoscience, STS, posthumanism
-#  bio: Kit (they/them) is a Masters student in the Culture and Technology concentration With a primary focus on transgender technologies and crip technoscience. Kit is currently working towards completing their thesis project titled Proximal Intimacies that details the use and history of needles within the transgender community. In the STREET Lab they are currently part of the 'Posthumanism' project that looks to detail the use of the term 'posthuman' within design papers.
-#  email: kit.haehnel@mail.utoronto.ca
-#  number_educ: 2
-#  education1: Master of Information in Culture and Technology at the University of Toronto, Toronto, Canada
-#  education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
-#  number_proj: 1
-#  link_project1: 
-#    url: /research/PostHumanAndHCI.html
-#    display: Posthumanism, Design, and HCI
-
-#- name: Bethlehem Zebib
-#  photo: 
-#  info: 
-#  topics:
-#  bio: Masters
-#  email: 
-#  number_educ: 0
-#  education1:
-
 - name: Ishani Pandey
   photo: Ishani.jpg
   info: Masters student in User Experience Design (1st Year) - Faculty of Information, University of Toronto
@@ -82,6 +58,23 @@
   link_project1: 
     url: /research/Accessibility/AccessibilityInfrastructure.html
     display: Accessiblity Infrastructure in Universities
+
+- name: Alana Boisvert
+  photo: Alana_img.jpg
+  info: Bachelor's student in Political Science and Economics (4th Year) - Faculty of Arts and Science 
+  topics: Resistance, coalition building,  accessibility
+  bio: Alana (She/her) is a bachelor's student studying Political Science and Economics with a minor in History. In the STREET Lab, she is mapping transnational protest movements and analyzing literature on forms of resistance in the gig economy. She also assists the STREET Lab in facilitating accessibility related interviews due to her background as a student journalist.
+  email: alana.boisvert@mail.utoronto.ca
+  number_educ: 1
+  education1: Honours Ba, Economics and Political Science, University of Toronto, Toronto, Canada
+  education2: 
+  number_proj: 3
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+  link_project2: 
+    url: TBD
+    display: 
 
 - name: Carmen Chau
   photo: carmen_chau_img.jpg
@@ -124,3 +117,79 @@
   link_project2: 
     url: TBD
     display: Whisper App
+
+- name: Moria (Masha) Piroshkova
+  photo:
+  info: Critical information Policy Studies, Master of Information (2nd year)
+  topics: informality
+  bio: Moria (she/her) is a 2nd year Masters of Information Student. Within KMDI, she is working on an exploratory research review on informality and its definition across various disciplines and contexts. 
+  email: m.piroshkova@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: Honour Specialization in Media, Information and TechnoCulture from Western University,  London, Canada
+  link_project1:
+    url: TBD
+    display: informality
+
+- name: Emily Weckend
+  photo:
+  info: Critical Information Policy Studies, Master of Information (2nd year)
+  topics: Sex Education, Censorship, TikTok
+  bio: Emily (she/her) is a 2nd year Masters of Information Student who is currently being supervised by Professor Priyank Chandra for her thesis regarding how sex ed creators on TikTok circumvent censorship.
+  email: emily.weckend@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: BA English Literature and Modern Languages and Cultural Studies, University of Alberta, Edmonton, AB, Canada
+  link_project1:
+    url: TBD
+    display: 
+    
+
+- name: Jaydon Brown 
+  photo:  Jaydon Brown_Photo.jpg
+  info: Masters Student in Information Systems and Design (1st Year)
+  topics: Transnational Social Movements, Resistance, Coalition Building
+  bio: Jaydon (He/Him) is a first year Master of Information Student in the Information Systems and Design concentration. His research interest include transnational social movements, resistance, and coalition building. Currently working on the Mapping Solidarity Project.
+  email: jaydon.brown@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: BA in Sociology, University of Illinois at Urbana Champaign, Champaign, Il
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Univers
+
+# - name: Marco Chan
+# photo:  
+# info: Masters Student in Information Systems and Design (1st Year)
+# topics: Transnational Social Movements, Resistance
+# bio: Marco (He/Him) is a first year Master of Information Student 
+# email: jaydon.brown@mail.utoronto.ca
+# number_educ: 2
+# education1: Master of Information at the University of Toronto, Toronto, Canada
+# education2: 
+# link project1: 
+#     url: TBD
+#     display: 
+
+#- name: Kit Haehnal
+#  photo: 
+#  info: Masters student in Culture and Technology (2nd Year) - Faculty of Information, University of Toronto
+#  topics: Transgender technologies, crip technoscience, STS, posthumanism
+#  bio: Kit (they/them) is a Masters student in the Culture and Technology concentration With a primary focus on transgender technologies and crip technoscience. Kit is currently working towards completing their thesis project titled Proximal Intimacies that details the use and history of needles within the transgender community. In the STREET Lab they are currently part of the 'Posthumanism' project that looks to detail the use of the term 'posthuman' within design papers.
+#  email: kit.haehnel@mail.utoronto.ca
+#  number_educ: 2
+#  education1: Master of Information in Culture and Technology at the University of Toronto, Toronto, Canada
+#  education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
+#  number_proj: 1
+#  link_project1: 
+#    url: /research/PostHumanAndHCI.html
+#    display: Posthumanism, Design, and HCI
+
+#- name: Bethlehem Zebib
+#  photo: 
+#  info: 
+#  topics:
+#  bio: Masters
+#  email: 
+#  number_educ: 0
+#  education1:
