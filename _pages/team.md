@@ -265,7 +265,7 @@ Jump to [researchers](#researchers), [PhD students](#phd-students), [master and 
 
 ## External Researchers
 {% assign number_printed = 0 %}
-{% for member in site.data.externalra %}
+{% for member in site.data.externalras %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
