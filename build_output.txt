@@ -3,5 +3,5 @@ Configuration file: C:/Users/priya/OneDrive - University of Toronto/Website/stre
        Destination: C:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io/_site
  Incremental build: disabled. Enable with --incremental
       Generating... 
-                    done in 0.771 seconds.
+                    done in 0.768 seconds.
  Auto-regeneration: disabled. Use --watch to enable.

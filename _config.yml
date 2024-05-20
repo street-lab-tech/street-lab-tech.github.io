@@ -11,7 +11,7 @@ email: steetlab.ischool@utoronto.ca
 description: > # this means to ignore newlines until "baseurl:"
   STREET Lab
 baseurl: ""
-url: "http://streetlab.tech"
+url: ""
 
 include:
   - .htaccess
