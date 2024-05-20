@@ -97,7 +97,7 @@ Jump to [researchers](#researchers), [PhD students](#phd-students), [master and 
 <div class="col-sm-6 clearfix">
   <div class="row" style="margin-bottom:0px;  margin-right:0%">
   {% if member.photo != null %}   
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" alt="{{ member.alt_text }}" />
   {% endif %} 
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>

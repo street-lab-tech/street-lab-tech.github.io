@@ -14,37 +14,6 @@
 #    url: 
 #    display:
 
-- name: Carolyn Kim Ly
-  photo: Carolyn.jpg
-  info: Masters student in User Experience Design (2nd Year) - Faculty of Information, University of Toronto
-  topics: Design thinking and race, accessibility
-  bio: Carolyn (she/her) is a Masters student in the User Experience Design concentration at the Faculty of Information. Her research is critical of Design Thinking with respect to racialized dynamics of labor competition and its role in culture and knowledge production. In the STREET Lab, Carolyn is working on the Accessibility Infrastructure in Universities project.
-  email: ck.ly@mail.utoronto.ca
-  number_educ: 2
-  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
-  education2: Honours BSc Mathematics and Statistics, Art History, McMaster University, Hamilton, Canada
-  number_proj: 1
-  link_project1: 
-    url: /research/Accessibility/AccessibilityInfrastructure.html
-    display: Accessiblity Infrastructure in Universities
-
-- name: Trevor Cross
-  photo: trevor_img.jpg
-  info: Masters student in User Experience Design (2nd Year) - Faculty of Information, University of Toronto
-  topics: Gerontology, participatory design, accessibility
-  bio: Trevor is a Masters student studying User Experience Design at the Faculty of Information. He is currently conducting his thesis project on designing website structures for older adults under the supervision of Dr. Olivier St-Cyr. In the STREET Lab, he is part of the Accessibility Infrastructure in Universities project.
-  email: trevor.cross@mail.utoronto.ca
-  number_educ: 2
-  education1: Master of Information in User Experience Design at the University of Toronto, Toronto, Canada
-  education2: BCom Information Systems from McGill University, Montreal, Canada
-  number_proj: 2
-  link_project1: 
-    url: /research/Accessibility/AccessibilityInfrastructure.html
-    display: Accessiblity Infrastructure in Universities
-  link_project2: 
-    url: /research/Accessibility/AIDE.html
-    display: Accessible & Inclusive Data Science (AIDE)
-    
 - name: Ishani Pandey
   photo: Ishani.jpg
   info: Masters student in User Experience Design (1st Year) - Faculty of Information, University of Toronto
@@ -124,19 +93,6 @@
     url: 
     display: Whisper Transcription App
 
-- name: Moria (Masha) Piroshkova
-  photo: masha.jpg
-  info: Critical information Policy Studies, Master of Information (2nd year)
-  topics: informality
-  bio: Moria (she/her) is a 2nd year Masters of Information Student. Within KMDI, she is working on an exploratory research review on informality and its definition across various disciplines and contexts. 
-  email: m.piroshkova@mail.utoronto.ca
-  number_educ: 2
-  education1: Master of Information at the University of Toronto, Toronto, Canada
-  education2: Honour Specialization in Media, Information and TechnoCulture from Western University,  London, Canada
-  link_project1:
-    url:
-    display: 
-
 - name: Emily Weckend
   photo:
   info: Critical Information Policy Studies, Master of Information (2nd year)
@@ -163,38 +119,28 @@
     url:
     display: Coalition Building and ICTs
 
-# - name: Marco Chan
-# photo:  
-# info: Masters Student in Information Systems and Design (1st Year)
-# topics: Transnational Social Movements, Resistance
-# bio: Marco (He/Him) is a first year Master of Information Student 
-# email: jaydon.brown@mail.utoronto.ca
-# number_educ: 2
-# education1: Master of Information at the University of Toronto, Toronto, Canada
-# education2: 
-# link project1: 
-#     url: TBD
+- name: Marco Chan
+  photo:  
+  info: Masters Student in Information Systems and Design (1st Year)
+  topics: Transnational Social Movements, Resistance
+  bio: Marco (He/Him) is a first year Master of Information Student 
+  email: marcokk.chan@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: 
+  link project1: 
+      url: TBD
+      display: 
+
+# - name: Moria (Masha) Piroshkova
+#   photo: masha.jpg
+#   info: Critical information Policy Studies, Master of Information (2nd year)
+#   topics: informality
+#   bio: Moria (she/her) is a 2nd year Masters of Information Student. Within KMDI, she is working on an exploratory research review on informality and its definition across various disciplines and contexts. 
+#   email: m.piroshkova@mail.utoronto.ca
+#   number_educ: 2
+#   education1: Master of Information at the University of Toronto, Toronto, Canada
+#   education2: Honour Specialization in Media, Information and TechnoCulture from Western University,  London, Canada
+#   link_project1:
+#     url:
 #     display: 
-
-#- name: Kit Haehnal
-#  photo: 
-#  info: Masters student in Culture and Technology (2nd Year) - Faculty of Information, University of Toronto
-#  topics: Transgender technologies, crip technoscience, STS, posthumanism
-#  bio: Kit (they/them) is a Masters student in the Culture and Technology concentration With a primary focus on transgender technologies and crip technoscience. Kit is currently working towards completing their thesis project titled Proximal Intimacies that details the use and history of needles within the transgender community. In the STREET Lab they are currently part of the 'Posthumanism' project that looks to detail the use of the term 'posthuman' within design papers.
-#  email: kit.haehnel@mail.utoronto.ca
-#  number_educ: 2
-#  education1: Master of Information in Culture and Technology at the University of Toronto, Toronto, Canada
-#  education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
-#  number_proj: 1
-#  link_project1: 
-#    url: /research/PostHumanAndHCI.html
-#    display: Posthumanism, Design, and HCI
-
-#- name: Bethlehem Zebib
-#  photo: 
-#  info: 
-#  topics:
-#  bio: Masters
-#  email: 
-#  number_educ: 0
-#  education1:

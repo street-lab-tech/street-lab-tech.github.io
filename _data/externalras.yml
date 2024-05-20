@@ -8,6 +8,51 @@
 #  education3:
 #  education4:
 
+- name: Carolyn Kim Ly
+  photo: Carolyn.jpg
+  info: Masters student in User Experience Design (2nd Year) - Faculty of Information, University of Toronto
+  topics: Design thinking and race, accessibility
+  bio: Carolyn (she/her) is a Masters student in the User Experience Design concentration at the Faculty of Information. Her research is critical of Design Thinking with respect to racialized dynamics of labor competition and its role in culture and knowledge production. In the STREET Lab, Carolyn is working on the Accessibility Infrastructure in Universities project.
+  email: ck.ly@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
+  education2: Honours BSc Mathematics and Statistics, Art History, McMaster University, Hamilton, Canada
+  number_proj: 1
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+
+- name: Trevor Cross
+  photo: trevor_img.jpg
+  info: Masters student in User Experience Design (2nd Year) - Faculty of Information, University of Toronto
+  topics: Gerontology, participatory design, accessibility
+  bio: Trevor is a Masters student studying User Experience Design at the Faculty of Information. He is currently conducting his thesis project on designing website structures for older adults under the supervision of Dr. Olivier St-Cyr. In the STREET Lab, he is part of the Accessibility Infrastructure in Universities project.
+  email: trevor.cross@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information in User Experience Design at the University of Toronto, Toronto, Canada
+  education2: BCom Information Systems from McGill University, Montreal, Canada
+  number_proj: 2
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+  link_project2: 
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data Science (AIDE)
+
+- name: Kit Haehnal
+  photo: 
+  info: Masters student in Culture and Technology (2nd Year) - Faculty of Information, University of Toronto
+  topics: Transgender technologies, crip technoscience, STS, posthumanism
+  bio: Kit (they/them) is a Masters student in the Culture and Technology concentration With a primary focus on transgender technologies and crip technoscience. Kit is currently working towards completing their thesis project titled Proximal Intimacies that details the use and history of needles within the transgender community. In the STREET Lab they are currently part of the 'Posthumanism' project that looks to detail the use of the term 'posthuman' within design papers.
+  email: kit.haehnel@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information in Culture and Technology at the University of Toronto, Toronto, Canada
+  education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
+  number_proj: 1
+  link_project1: 
+    url: /research/PostHumanAndHCI.html
+    display: Posthumanism, Design, and HCI
+
 - name: Janna Akimova
   photo: Janna.jpeg
   info: RA studying the Belarussian Social Movement

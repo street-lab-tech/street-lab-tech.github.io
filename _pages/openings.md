@@ -5,6 +5,7 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
+# Job Openings
 
 ### Applications for PhD positions
 If you are interested in working in the Lab as a PhD student, please send an email with your CV to [Prof. Priyank Chandra](mailto:priyank.chandra@utoronto.ca).

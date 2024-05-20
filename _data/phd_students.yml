@@ -16,77 +16,62 @@
 
 - name: Adrian Petterson
   photo: Adrian_headshot.jpg
-  info: PhD student (1st Year) - Faculty of Information, University of Toronto
+  alt_text: "Headshot of Adrian Petterson"
+  info: PhD student (3rd Year) - Faculty of Information, University of Toronto
   topics: Disability, carework, design
   email: a.petterson@mail.utoronto.ca
   website: https://www.adrianpetterson.ca/
-  number_educ: 2
-  education1: Masters of Information - UX Design from the University of Toronto, Toronto, Canada
-  education2: B.A. & Sc. in Cognitive Science from McGill University, Montreal, Canada
-  number_proj: 3
-  link_project1: 
-    url: /research/SocialMovements/
-    display: Technology Use in Social Movements
-  link_project2: 
-    url: /research/TechMediatedLabour/
-    display: Tech-mediated Labour Practices
-  link_project3: 
-    url: /research/AccessibilityInfrastructure/
-    display: Accessiblity Infrastructure in Universities
+  education:
+    - Masters of Information - UX Design from the University of Toronto, Toronto, Canada
+    - B.A. & Sc. in Cognitive Science from McGill University, Montreal, Canada
+  projects:
+    - url: /research/SocialMovements/
+      display: Technology Use in Social Movements
+    - url: /research/TechMediatedLabour/
+      display: Tech-mediated Labour Practices
+    - url: /research/AccessibilityInfrastructure/
+      display: Accessibility Infrastructure in Universities
 
 - name: Ashique Ali Thuppilikkat 
   photo: Ashique.jpg
-  info: PhD student (1st Year) - Faculty of Information, University of Toronto
+  alt_text: "Headshot of Ashique Ali Thuppilikkat"
+  info: PhD student (2nd Year) - Faculty of Information, University of Toronto
   topics: Technology, social movements, resistance, labour platforms, caste, marginality
   email: ashique.thuppilikkat@mail.utoronto.ca
   website: https://ashiquealit.my.canva.site/
-  number_educ: 2
-  education1: M.Phil and MA in Political Science from the Centre for Political Studies, Jawaharlal Nehru University, New Delhi, India
-  education2: BA Honors in Political Science from Ramjas College, University of Delhi, New Delhi, India
-  number_proj: 2
-  link_project1: 
-    url: /research/SocialMovements/
-    display: Technology Use in Social Movements
-  link_project2: 
-    url: /research/TechMediatedLabour/
-    display: Tech-mediated Labour Practices
-
-- name: Azhagu Meena
-  photo: meena.jpg
-  info: PhD student (1st Year) - Faculty of Information, University of Toronto
-  topics: HCI, social justice, marginality, values and technology
-  email: meena.paramanathan@mail.utoronto.ca
-  website: https://azhagu-meena.github.io/
-  number_educ: 2
-  education1: M.A. in Regulatory Governance from Tata Institute of Social Sciences, Mumbai, India
-  education2: BCom Honors from Shri Ram College of Commerce, Delhi, India
+  education:
+    - M.Phil and MA in Political Science from the Centre for Political Studies, Jawaharlal Nehru University, New Delhi, India
+    - BA Honors in Political Science from Ramjas College, University of Delhi, New Delhi, India
+  projects:
+    - url: /research/SocialMovements/
+      display: Technology Use in Social Movements
+    - url: /research/TechMediatedLabour/
+      display: Tech-mediated Labour Practices
 
 - name: Olivia Doggett
   photo: olivia.jpg
+  alt_text: "Headshot of Olivia Doggett"
   info: PhD candidate - Faculty of Information and School of Environment, University of Toronto
   topics: Critical computing, migration, environmental studies, CSCW, design research
   email: olivia.doggett@gmail.com
   website: https://www.oliviadoggett.com/
-  number_educ: 2
-  education1: MI Information systems and design and UX from the University of Toronto, Toronto, Canada
-  education2: BA Honours Cultural Studies from McGill University, Montreal, Canada
-  number_proj: 1
-  link_project1: 
-    url: /research/TechMediatedLabour/
-    display: Tech-mediated Labour Practices
+  education:
+    - MI Information systems and design and UX from the University of Toronto, Toronto, Canada
+    - BA Honours Cultural Studies from McGill University, Montreal, Canada
+  projects:
+    - url: /research/TechMediatedLabour/
+      display: Tech-mediated Labour Practices
 
 - name: Cansu Ekmekcioglu
   photo: cansu.jpg
+  alt_text: "Headshot of Cansu Ekmekcioglu"
   info: PhD candidate - Faculty of Information, University of Toronto
   topics: CSCW, migration and mobilities, time and temporality, critical data studies
   email: cansu.ekmekcioglu@mail.utoronto.ca 
   website: http://ekmekcioglu.website/
-  number_educ: 2
-  education1: MA Media and Communications from Galatasaray University,  Istanbul, Turkey 
-  education2: BA Political Science and International Relations at Bogazici University, Istanbul, Turkey 
-  education3:
-  education4:
-  number_proj: 1
-  link_project1: 
-    url: /research/SocialMovements/
-    display: Technology Use in Social Movements
+  education:
+    - MA Media and Communications from Galatasaray University, Istanbul, Turkey
+    - BA Political Science and International Relations at Bogazici University, Istanbul, Turkey
+  projects:
+    - url: /research/SocialMovements/
+      display: Technology Use in Social Movements

@@ -1,14 +1,16 @@
 ---
+layout: default
 title: "News"
-layout: textlay
-excerpt: "STREET Lab."
-sitemap: false
-permalink: /allnews.html
+permalink: /allnews/
 ---
 
 # News
 
 {% for article in site.data.news %}
-<ul><li> {{ article.date }} <br>
-{{ article.headline | markdownify}} </li></ul>
+## [{{ article.headline }}]({{ article.url }})
+**Date:** {{ article.date }}
+
+{{ article.description }}
+
+---
 {% endfor %}
