@@ -22,12 +22,12 @@
   subprojects5:
     name: HongKong Protests
     url: /research/SocialMovements/HongkongProtests.html
-  news1: FoI 2023-24 SSHRC Institutional Grant (SIG) for "Repertoires of Contention in the Digital Labour Platforms (DLPs)"
+  news1: 
   news2: 
 
 - title: "Tech-mediated Labour Practices"
   image: 
-  description: How does technologies (and algorithmic management) shape labour experiences?
+  description: How do technologies (and algorithmic management) shape labour experiences?
   authors: Ashique Ali T, Adrian Petterson, Isabella Rodriguez, Olivia Doggett
   link:
     url: 
@@ -43,7 +43,7 @@
   subprojects3: 
     name: Gig Worker Resistance Lit Review
     url: /research/TechMediatedLabour/GigWorkersResistance.html
-  news1: Paper “Networks of care in digital domestic labour economies” in CHI2024
+  news1: FoI 2024-25 SSHRC Institutional Grant (SIG) for "State-Owned Digital Labour Platforms and Platform Politics"
   news2: Paper "Migrant Farmworkers' Experiences of Agricultural Technologies - Implications for Worker Sociality and Desired Change" in CHI 2024 (Honorable Mention)
 
 - title: "Accessibility-related Research"

@@ -3,5 +3,14 @@ Configuration file: C:/Users/priya/OneDrive - University of Toronto/Website/stre
        Destination: C:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io/_site
  Incremental build: disabled. Enable with --incremental
       Generating... 
-                    done in 0.768 seconds.
+DEPRECATION WARNING: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "bootstrap";
+  │         ^^^^^^^^^^^
+  ╵
+    C:\Users\priya\OneDrive - University of Toronto\Website\street-lab-tech.github.io\css\main.scss 1:9  root stylesheet
+                    done in 2.614 seconds.
  Auto-regeneration: disabled. Use --watch to enable.
