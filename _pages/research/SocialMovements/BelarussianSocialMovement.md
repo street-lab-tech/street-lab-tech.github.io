@@ -1,9 +1,9 @@
 ---
-title: "STREET Lab - India's Farmer's Movement"
+title: "STREET Lab - Belarusian Social Movement"
 layout: project
 excerpt: "STREET Lab: Team projects"
 sitemap: false
-permalink: /research/SocialMovements/BelarussianSocialMovement.html
+permalink: /research/SocialMovements/BelarusianSocialMovement.html
 ---
 <div class="row" style="display: flex;">
 
@@ -38,7 +38,7 @@ In the aftermath of the August 2020 presidential elections in Belarus, a nationw
 Our project delves into how technology has played a crucial role in promoting transnational solidarities, fostering community formations, and resistance against the authoritarian regime in Belarus. Specifically, we explore how technology has played a crucial role in enabling a re-imagination of a Belarusian future, despite the challenges posed by an adaptive authoritarian regime (Frear 2018). By examining the intersection between technology and social movements, we aim to contribute to a better understanding of how digital tools can be leveraged to support social movements in authoritarian contexts.<br><br>
   
 <h4>Updates</h4>
-<b>April 2023 Status Update</b><br>Analysing interview data</p>
+<b>April 2023 Status Update</b><br> Submitted for peer reviewing
 
 <br />
 

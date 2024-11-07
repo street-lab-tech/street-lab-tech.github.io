@@ -6,55 +6,36 @@ sitemap: false
 permalink: /publications/
 ---
 
+<script>
+function toggleAbstract(id, button) {
+  var abstract = document.getElementById(id);
+  var isVisible = abstract.style.display === "block";
 
-<!-- ## Group highlights
+  // Toggle visibility
+  abstract.style.display = isVisible ? "none" : "block";
+  
+  // Update aria-expanded attribute
+  button.setAttribute("aria-expanded", !isVisible);
+}
+</script>
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv] (include link).**
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p> -->
 
 ## Peer Reviewed Publications
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+  <b>{{ publi.title }}</b>   <em style="color:blue;">{{publi.award}}</em><br />
   <em>{{ publi.authors }} </em><br />{{ publi.venue }}<br />
+  <a href="{{ publi.doi }}">{{ publi.doi }}</a> <br />
+<!-- Accessible Toggle Button for Abstract -->
+  <button onclick="toggleAbstract('abstract{{ forloop.index }}', this)" 
+          aria-expanded="false" 
+          aria-controls="abstract{{ forloop.index }}">
+    Show Abstract
+  </button>
+  <div id="abstract{{ forloop.index }}" style="display: none;" role="region" aria-live="polite">
+    {{ publi.description }}
+  </div>
 
 {% endfor %}
 

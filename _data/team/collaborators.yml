@@ -2,14 +2,20 @@
 #  photo: rock.jpg
 #  info:
 #  email:
+#  website:
 #  number_educ:
 #  education1:
 #  education2:
 #  education3:
 #  education4:
+# number_proj: 
+#  link_project1: 
+#    url: 
+#    display:
 
 - name: Dr. Cagdas Dedeoglu
   photo: CD2022_low.jpg
+  alt_text: Headshot of Dr. Cagdas Dedeoglu
   info: Professor, Yorkville University & Founding Director, The Posthuman Lab
   email: cdedeoglu@yorkvilleu.ca
   number_educ: 2
@@ -27,6 +33,7 @@
 
 - name: Dr. Paridhi Gupta
   photo: ParidhiGupta.jpg
+  alt_text: "Headshot of Dr. Paridhi Gupta"
   info: Swiss Excellence Postdoctoral Fellow, Institute of Social Anthropology and Empirical Cultural Studies, University of Zurich
   email: 
   number_educ: 3
@@ -38,3 +45,17 @@
   link_project1: 
     url: /research/SocialMovements/IndianFarmersProtests.html
     display: Indian Farmer Protests
+
+- name: Dr. Cansu Ekmekcioglu
+  photo: cansu.jpg
+  alt_text: "Headshot of Dr. Cansu Ekmekcioglu"
+  info: Assistant Professor, McMaster University, Canada
+  email: cansu.ekmekcioglu@mail.utoronto.ca 
+  website: http://ekmekcioglu.website/
+  number_educ: 2
+  education1: MA Media and Communications from Galatasaray University, Istanbul, Turkey
+  education2: BA Political Science and International Relations at Bogazici University, Istanbul, Turkey
+  number_proj: 1
+  link_project1:
+    url: /research/SocialMovements/
+    display: Technology Use in Social Movements

@@ -1,0 +1,26 @@
+#- name:
+#  photo: rock.jpg
+#  alt_text:
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+
+
+- name: Dr. Kim Fernandes
+  photo: kim_photo.png
+  alt_text: Kim, a brown-skinned nonbinary person, is standing against a blurry grey wall. They have long curly hair that falls past their left shoulder, and are wearing a blue tshirt. They are smiling at the camera
+  info1: Postdoctoral Fellow - Faculty of Information
+  info2: 
+  topics: disability, data, technology
+  website: http://www.kimfernandes.com
+  email: kim.fernandes@utoronto.ca
+  number_educ: 4
+  education1: PhD, Anthropology & Education (with distinction), University of Pennsylvania
+  education2: M.S.Ed., Statistics, Measurement, Assessment & Research Technologies, University of Pennsylvania
+  education3: Ed. M., International Education Policy, Harvard University
+  education4: B.S.F.S., International Politics, Georgetown Univresity

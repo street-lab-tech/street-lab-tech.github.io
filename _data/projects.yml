@@ -14,8 +14,8 @@
     name: Indian Farmer Protests
     url: /research/SocialMovements/IndianFarmersProtests.html
   subprojects3: 
-    name: Belarussian Social Movement
-    url: /research/SocialMovements/BelarussianSocialMovement.html
+    name: Belarusian Social Movement
+    url: /research/SocialMovements/BelarusianSocialMovement.html
   subprojects4:
     name: Russia, Resistance, and Archives
     url: /research/SocialMovements/ResistanceArchives.html
@@ -38,7 +38,7 @@
     name: Gig Work and Unions
     url: /research/TechMediatedLabour/GigWorkUnions.html
   subprojects2: 
-    name: Latinx Housecleaners in Toronto
+    name: Latino Housecleaners in Toronto
     url: /research/TechMediatedLabour/HousecleanersToronto.html
   subprojects3: 
     name: Gig Worker Resistance Lit Review
@@ -72,8 +72,8 @@
   description: Exploring and supporting the strategies employed by abortion care organizations to coordinate reproductive health services
   authors: Adrian Petterson
   link:
-    url: /research/AAOCare.html
-    display: More Details
+    url:
+    display:
   highlight: 1
   subprojects: 0
   news1: 
@@ -121,10 +121,10 @@
   description: Designing research tools to help qualitative researchers
   authors: Emily Su, Carmen Chau
   link:
-    url: 
-    display: 
+    url: /research/ResearchTools.html
+    display: More Details
   highlight: 1
-  subprojects: 1
+  subprojects: 0
   subprojects1: 
     name: Whisper Transcription and Translation App
     url: /research/Applications/WhisperTranscription.html

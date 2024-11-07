@@ -66,7 +66,7 @@ Some broad research projects that we currently work on:
 
   <p><strong><a href="{{ projects.link.url }}">{{ projects.link.display }}</a></strong></p>
   <p class="text-danger"><strong>{{ projects.news1 }}</strong></p> 
-  <p> {{ projects.news2 }}</p>
+  <p class="text-danger"><strong>{{ projects.news2 }}</strong></p> 
  </div>
 </div>
 
