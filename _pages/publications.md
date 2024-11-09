@@ -17,6 +17,15 @@ function toggleAbstract(id, button) {
   // Update aria-expanded attribute
   button.setAttribute("aria-expanded", !isVisible);
 }
+
+function copyBibTeX(bibtexContent) {
+  // Copy to clipboard
+  navigator.clipboard.writeText(bibtexContent).then(() => {
+    alert("BibTeX copied to clipboard!");
+  }).catch(err => {
+    console.error("Error copying BibTeX: ", err);
+  });
+}
 </script>
 
 
@@ -24,18 +33,25 @@ function toggleAbstract(id, button) {
 
 {% for publi in site.data.publist %}
 
-  <b>{{ publi.title }}</b>   <em style="color:blue;">{{publi.award}}</em><br />
-  <em>{{ publi.authors }} </em><br />{{ publi.venue }}<br />
-  <a href="{{ publi.doi }}">{{ publi.doi }}</a> <br />
-<!-- Accessible Toggle Button for Abstract -->
+  <strong>{{ publi.title }}</strong><em> | {{ publi.award }}</em><br />
+  {{ publi.authors }}<br />
+  <em>{{ publi.venue }}</em> <br />
+  <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a> 
+  | 
+  <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
+    
+
   <button onclick="toggleAbstract('abstract{{ forloop.index }}', this)" 
-          aria-expanded="false" 
-          aria-controls="abstract{{ forloop.index }}">
+    aria-expanded="false" 
+    aria-controls="abstract{{ forloop.index }}">
     Show Abstract
-  </button>
+   </button>
+
+
   <div id="abstract{{ forloop.index }}" style="display: none;" role="region" aria-live="polite">
     {{ publi.description }}
   </div>
+
 
 {% endfor %}
 
@@ -45,5 +61,8 @@ function toggleAbstract(id, button) {
 
   {{ publi.title }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
   <em>{{ publi.authors }} </em><br />{{ publi.venue }}<br />
+  <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a> 
+  | 
+  <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
 
 {% endfor %}

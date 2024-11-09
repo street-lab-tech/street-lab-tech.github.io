@@ -1,214 +1,243 @@
-- title: "Latino house-cleaners in Technology-Mediated Labour Markets."
+- title: "El costo de la independencia: Latino house-cleaners in Technology-Mediated Labour Markets"
   image: 
-  description: This paper explores the interplay between identity, collective action, and digital marketplaces among Latino house-cleaners in Toronto. Domestic work, such as house-cleaning, has traditionally been devalued, gendered, and delegated to marginalised immigrant populations. The informal nature of house-cleaning work, also introduces precarity, vulnerabilities and potential avenues of exploitation. Drawing on 19 interviews with Latino house-cleaners, the paper underscores how identity shapes experiences and strategies in the labour markets. We find that Latino house-cleaners prefer to use asynchronous digital marketplaces, such as social media commerce groups and online classified advertisement websites, as the platforms provides flexibility and control over their labour outcomes. The paper further delves into how group identities online - such as being Latino and women - foster collective action and solidarity. The paper provides insights on how we can support the needs support the challenges and needs of immigrant domestic workers in technology-mediated labour markets.
-  venue: Proceedings of the ACM on Human-Computer Interaction 8 (CSCW 2024)
-  authors: I Rodriguez, A Petterson, O Doggett, P Chandra (2024)
-  award: DEI Recognition
-  doi: https://doi.org/10.1145/3687002
+  description: "This paper explores the interplay between identity, collective action, and digital marketplaces among Latino house-cleaners in Toronto. Domestic work, such as house-cleaning, has traditionally been devalued, gendered, and delegated to marginalised immigrant populations. The informal nature of house-cleaning work also introduces precarity, vulnerabilities, and potential avenues of exploitation. Drawing on 19 interviews with Latino house-cleaners, the paper underscores how identity shapes experiences and strategies in the labour markets. We find that Latino house-cleaners prefer to use asynchronous digital marketplaces, such as social media commerce groups and online classified advertisement websites, as the platforms provide flexibility and control over their labour outcomes. The paper further delves into how group identities online - such as being Latino and women - foster collective action and solidarity. The paper provides insights on how we can support the challenges and needs of immigrant domestic workers in technology-mediated labour markets."
+  venue: "Proceedings of the ACM on Human-Computer Interaction 8 (CSCW2)"
+  authors: "Rodriguez, Isabella Jaimes, Adrian Petterson, Olivia Doggett, and Priyank Chandra. 2024."
+  award: "DEI Recognition 🌍"
+  doi: "https://doi.org/10.1145/3686999"
   link:
     url:
-    display: (link)
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{rodriguezelcosto2024, title={El costo de la independencia: Latino house-cleaners in Technology-Mediated Labour Markets}, author={Rodriguez, Isabella Jaimes and Petterson, Adrian and Doggett, Olivia and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={8}, number={CSCW2}, pages={1--32}, year={2024}, doi={https://doi.org/10.1145/3686999}}"
 
 - title: "Union Makes Us Strong: Space, Technology, and On-Demand Ridesourcing Digital Labour Platforms"
   image: 
-  description: The entry of on-demand ridesourcing digital labour platforms (OR-DLPs) in Kolkata, India, restructured the local taxi-cab service industry’s economic geography and spatial practices. Notably, they eroded the significance of the spatial fixity of taxi stands operated by traditional trade unions, enmeshed in local society’s partisan political dynamics. Therefore, OR-DLPs triggered a reconfiguration of the socio-spatial and political practices around the taxi-cab industry in the city. Globally, traditional trade unions have struggled to organise workers in informal work arrangements and DLPs. However, in Kolkata, the Kolkata Ola-Uber App-Cab Operator and Drivers Union has proved to be successful. They established hybrid and networked unionism through technological affordances, placing worker-organisers rather than external organisers at the centre of their organisational structure. Furthermore, they undertook tech-mediated resistance against the OR-DLPs, local bureaucracy (e.g. the police) and the state. We explore this context to examine the impact of OR-DLPs on labour geography, worker-organising and resistance practices, along with the revitalisation strategies of traditional trade unions in response. From a non-Western context, we expand the frame for CSCW and HCI scholars’ ongoing efforts to design worker-centric technologies for resistance.
-  venue: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
-  authors: A Thuppilikkat , D Dhar, and P Chandra (2024)
-  doi: https://doi.org/10.1145/3687002
+  description: "The entry of on-demand ridesourcing digital labour platforms (OR-DLPs) in Kolkata, India, restructured the local taxi-cab service industry’s economic geography and spatial practices. Notably, they eroded the significance of the spatial fixity of taxi stands operated by traditional trade unions, enmeshed in local society’s partisan political dynamics. Therefore, OR-DLPs triggered a reconfiguration of the socio-spatial and political practices around the taxi-cab industry in the city. Globally, traditional trade unions have struggled to organise workers in informal work arrangements and DLPs. However, in Kolkata, the Kolkata Ola-Uber App-Cab Operator and Drivers Union has proved to be successful. They established hybrid and networked unionism through technological affordances, placing worker-organisers rather than external organisers at the centre of their organisational structure. Furthermore, they undertook tech-mediated resistance against the OR-DLPs, local bureaucracy (e.g., the police), and the state. We explore this context to examine the impact of OR-DLPs on labour geography, worker-organising and resistance practices, along with the revitalisation strategies of traditional trade unions in response. From a non-Western context, we expand the frame for CSCW and HCI scholars’ ongoing efforts to design worker-centric technologies for resistance."
+  venue: "Proceedings of the ACM on Human-Computer Interaction 8 (CSCW2)"
+  authors: "Thuppilikkat, Ashique Ali, Dipsita Dhar, and Priyank Chandra. 2024."
+  doi: "https://doi.org/10.1145/3687002"
   link:
-    url: https://
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{ashiqueunions2024, title={Union Makes Us Strong: Space, Technology, and On-Demand Ride-Sourcing Digital Labour Platforms}, author={Thuppilikkat, Ashique Ali and Dhar, Dipsita and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={8}, number={CSCW2}, pages={1--36}, year={2024}, doi={https://doi.org/10.1145/3687002}}"
+
 
 - title: "Migrant Farmworkers' Experiences of Agricultural Technologies: Implications for Worker Sociality and Desired Change"
   image: 
-  description: This mixed method study situated in Ontario, Canada, investigates how migrant farmworkers’ experiences with agricultural technologies (agtech) affect their attitudes, conditions, and expectations of work, and how workers envision technologies serving as supportive interventions. Through a survey and interviews, we identify that surveillance and tracking agtech (chequeadoras) affect workers, imparting negative health and safety consequences. Workers’ interactions with chequeadoras reveal three major impacts - performance expectations engender stress, surveillance causes fears of disciplinary action, and performance tracking heightens competition. These impacts demonstrate how chequeadoras erode workers’ capacity to build sociality and solidarity. In response to these impacts and to support workers’ desired workplace changes, which aim for safer environments with technical skill development …
-  venue: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
-  authors: O Doggett, M Ratto, P Chandra (2024)
-  award: Honorable Mention 
-  doi: https://doi.org/10.1145/3613904.3642263
+  description: "This mixed-method study, situated in Ontario, Canada, investigates how migrant farmworkers’ experiences with agricultural technologies (agtech) affect their attitudes, conditions, and expectations of work, and how workers envision technologies serving as supportive interventions. Through a survey and interviews, we identify that surveillance and tracking agtech (chequeadoras) affect workers, imparting negative health and safety consequences. Workers’ interactions with chequeadoras reveal three major impacts - performance expectations engender stress, surveillance causes fears of disciplinary action, and performance tracking heightens competition. These impacts demonstrate how chequeadoras erode workers’ capacity to build sociality and solidarity. In response to these impacts and to support workers’ desired workplace changes, which aim for safer environments with technical skill development."
+  venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+  authors: "Doggett, Olivia, Matt Ratto, and Priyank Chandra. 2024."
+  award: "Honorable Mention 🎖️"
+  doi: "https://doi.org/10.1145/3613904.3642263"
   link:
-    url: https://
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
+  bibtex: "@inproceedings{doggett2024migrant, title={Migrant Farmworkers' Experiences of Agricultural Technologies: Implications for Worker Sociality and Desired Change}, author={Doggett, Olivia and Ratto, Matt and Chandra, Priyank}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, pages={1--23}, year={2024}, doi={https://doi.org/10.1145/3613904.3642263}}"
 
 - title: "Writing out the Storm: Designing and Evaluating Tools for Weather Risk Messaging"
   image: 
-  description: Communicating risk to the public in the lead-up to and during severe weather events has the potential to reduce the impacts of these events on lives and property. Globally, these events are anticipated to increase due to climate change, rendering effective risk communication an integral component of climate adaptation policies. Research in risk communications literature has developed substantial knowledge and best practices for the design of risk messaging. This study considers the potential for quantifying the compliance of severe weather risk messages with these best practices, individually and at scale, and developing tools to improve risk communication messaging. The current work makes two contributions. First, we develop a string-matching approach to evaluate whether messaging complies with best practices and suggest areas for improvement. Second, we conduct an interview study with risk …
-  venue: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
-  authors: S Jit, J Spinney, P Chandra, L Chilton, R Soden (2024)
-  doi: https://doi.org/10.1145/3613904.3641926
+  description: "Communicating risk to the public in the lead-up to and during severe weather events has the potential to reduce the impacts of these events on lives and property. Globally, these events are anticipated to increase due to climate change, rendering effective risk communication an integral component of climate adaptation policies. Research in risk communications literature has developed substantial knowledge and best practices for the design of risk messaging. This study considers the potential for quantifying the compliance of severe weather risk messages with these best practices, individually and at scale, and developing tools to improve risk communication messaging. The current work makes two contributions. First, we develop a string-matching approach to evaluate whether messaging complies with best practices and suggest areas for improvement. Second, we conduct an interview study with risk experts to assess practical implications."
+  venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+  authors: "Jit, Sophia S., Jennifer Spinney, Priyank Chandra, Lydia B. Chilton, and Robert Soden. 2024."
+  doi: "https://doi.org/10.1145/3613904.3641926"
   link:
-    url: https://
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
+  bibtex: "@inproceedings{jit2024writing, title={Writing out the Storm: Designing and Evaluating Tools for Weather Risk Messaging}, author={Jit, Sophia S. and Spinney, Jennifer and Chandra, Priyank and Chilton, Lydia B. and Soden, Robert}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, pages={1--16}, year={2024}, doi={https://doi.org/10.1145/3613904.3641926}}"
 
 - title: "Networks of care in digital domestic labour economies"
   image: 
-  description: Care work has long been relegated to private households and small communities, however, with the entry of digital marketplaces, it is becoming part of public economic spheres. While care work has been generally devalued and understudied, it is a complex practice embedded in a network of economic transactions, social relations, material conditions, and socio-cultural norms. This paper explores the care giving networks among migrant house-cleaners guided by Tronto’s ‘care ethics’ and Puig de la Bellacasa’s ‘matters of care’. We interviewed 19 Latino house-cleaners in Toronto to understand their care practices and networks. Our analysis identifies gaps in our participants’ care networks. We create a new term, lateral care, to explicate the digital communities of care practice our participants formed. We conclude with implications for the future design of technologies for labor economies that attend to concerns of care.
-  venue: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
-  authors: A Petterson, I Rodriguez, O Doggett, P Chandra (2024)
-  doi: https://doi.org/10.1145/3613904.3642200
+  description: "Care work has long been relegated to private households and small communities; however, with the entry of digital marketplaces, it is becoming part of public economic spheres. While care work has been generally devalued and understudied, it is a complex practice embedded in a network of economic transactions, social relations, material conditions, and socio-cultural norms. This paper explores the caregiving networks among migrant house-cleaners, guided by Tronto’s ‘care ethics’ and Puig de la Bellacasa’s ‘matters of care.’ We interviewed 19 Latino house-cleaners in Toronto to understand their care practices and networks. Our analysis identifies gaps in our participants’ care networks. We create a new term, lateral care, to explicate the digital communities of care practice our participants formed. We conclude with implications for the future design of technologies for labor economies that attend to concerns of care."
+  venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+  authors: "Petterson, Adrian, Isabella Rodriguez, Olivia Doggett, and Priyank Chandra. 2024."
+  doi: "https://doi.org/10.1145/3613904.3642200"
   link:
-    url: https://
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
+  bibtex: "@inproceedings{petterson2024networks, title={Networks of care in digital domestic labour economies}, author={Petterson, Adrian and Rodriguez, Isabella Jaimes and Doggett, Olivia and Chandra, Priyank}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, pages={1--16}, year={2024}, doi={https://doi.org/10.1145/3613904.3642200}}"
+  
 
-- title: "(Re)Capturing the Spirit of Ramadan: Techno-spiritual Practices in the Time of COVID-19"
+- title: "(Re) Capturing the Spirit of Ramadan: Techno-Religious Practices in the Time of COVID-19"
   image: 
-  description: Ramadan is an important and blessed month for Muslims around the world. It is both a time of spiritual contemplation as well as an opportunity for reinvigorating communal bonds. The COVID-19 pandemic, however, disrupted many of the rituals and traditions of Ramadan. In this exploratory study, we present findings from 22 young Muslims’s experiences with Ramadan and fasting during the pandemic. Our article sheds light on the techno-spiritual practices and information strategies used to mitigate isolation, share information, and celebrate Ramadan. We examine the sociotechnical configurations of religious and spiritual rituals and highlight the resilience of these rituals even in the midst of a global pandemic. Our paper contributes to CSCW scholarship on technology appropriation and non-use as they relate to cultural and religious practices in the face of exogenous shocks such as the pandemic, and how design can better cater to the religious lives of individuals and communities. 
-  venue: Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2)
-  authors: N Caidi, C Ekmekcioglu, R Jamali, P Chandra (2023)
-  doi: https://doi.org/10.1145/3610040
+  description: "Ramadan is an important and blessed month for Muslims around the world. It is both a time of spiritual contemplation as well as an opportunity for reinvigorating communal bonds. The COVID-19 pandemic, however, disrupted many of the rituals and traditions of Ramadan. In this exploratory study, we present findings from 22 young Muslims’ experiences with Ramadan and fasting during the pandemic. Our article sheds light on the techno-spiritual practices and information strategies used to mitigate isolation, share information, and celebrate Ramadan. We examine the sociotechnical configurations of religious and spiritual rituals and highlight the resilience of these rituals even in the midst of a global pandemic. Our paper contributes to CSCW scholarship on technology appropriation and non-use as they relate to cultural and religious practices in the face of exogenous shocks such as the pandemic, and how design can better cater to the religious lives of individuals and communities."
+  venue: "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2)"
+  authors: "Caidi, Nadia, Cansu Ekmekcioglu, Rojin Jamali, and Priyank Chandra. 2023."
+  doi: "https://doi.org/10.1145/3610040"
   link:
-    url: https://
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{caidi2023re, title={(Re) Capturing the Spirit of Ramadan: Techno-Religious Practices in the Time of COVID-19}, author={Caidi, Nadia and Ekmekcioglu, Cansu and Jamali, Rojin and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={7}, number={CSCW2}, pages={1--25}, year={2023}, doi={https://doi.org/10.1145/3610040}}"
+  
 
 - title: "Playing with Power Tools: Design Toolkits and the Framing of Equity"
   image: 
-  description: Design toolkits that aim to to promote equity offer designers simplified approaches to creating more equitable technology. However, it is important to understand how equity is conceptualized in practice. As a curated collection of methods, toolkits signal how equity is imagined in design. In this paper, we perform a qualitative analysis of 17 design toolkits related to equity. We explore alternative design approaches that address inequity in design. We evaluate whether equity toolkits align with calls for changes to design practice, as well as Nancy Fraser's dimensions of justice. Finally, we find that design toolkits focus on the ‘digital divide’ rather than redistributing world-building power, and thus continue to keep design power with professional designers. We also find that ‘design thinking’ continues to influence design toolkits. Furthermore, the simplicity of toolkits does not engage with the complexities that shape equity in practice. We conclude with suggestions to help researchers and designers rethink design toolkits.
-  venue: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems
-  authors: A Petterson, K Cheng, P Chandra (2023)
-  doi: https://doi.org/10.1145/3544548.3581490
+  description: "Design toolkits that aim to promote equity offer designers simplified approaches to creating more equitable technology. However, it is important to understand how equity is conceptualized in practice. As a curated collection of methods, toolkits signal how equity is imagined in design. In this paper, we perform a qualitative analysis of 17 design toolkits related to equity. We explore alternative design approaches that address inequity in design. We evaluate whether equity toolkits align with calls for changes to design practice, as well as Nancy Fraser's dimensions of justice. Finally, we find that design toolkits focus on the ‘digital divide’ rather than redistributing world-building power, and thus continue to keep design power with professional designers. We also find that ‘design thinking’ continues to influence design toolkits. Furthermore, the simplicity of toolkits does not engage with the complexities that shape equity in practice. We conclude with suggestions to help researchers and designers rethink design toolkits."
+  venue: "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
+  authors: "Petterson, Adrian, Keith Cheng, and Priyank Chandra. 2023."
+  doi: "https://doi.org/10.1145/3544548.3581490"
   link:
-    url: https://
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
-
+  bibtex: "@inproceedings{petterson2023playing, title={Playing with Power Tools: Design Toolkits and the Framing of Equity}, author={Petterson, Adrian and Cheng, Keith and Chandra, Priyank}, booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems}, pages={1--24}, year={2023}, doi={https://doi.org/10.1145/3544548.3581490}}"
+  
 
 - title: "Ladange, Adange, Jeetange: The Farmers' Movement and Its Virtual Spaces"
   image: 
-  description: The farmers' movement began in November 2020, when more than 300,000 protesters marched towards New Delhi in India in opposition to new agrarian acts introduced by the Indian central government. Organised by over 400 farmers' unions along with other organisations, for the next year, farmers and allied protesters set up bases around New Delhi and sustained the movement leading to its eventual success. We conducted 20 semi-structured interviews with participants from the movement and explored the social organisation, the underlying technical infrastructures, and how collective action was organised. We outline how the social media ecosystem enabled hybrid forms of organisational structures and facilitated coalition-building between diverse groups. Further, the movement created and disseminated alternative media that opposed mainstream media narratives and facilitated community-building. We discuss how designed technologies and spaces can support social movements in the face of powerful antagonistic actors.
-  venue: Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2)
-  authors: P Gupta, A Petterson, D Motla, P Chandra (2022)
-  doi: https://doi.org/10.1145/3555547
-  award: DEI Recognition
+  description: "The farmers' movement began in November 2020, when more than 300,000 protesters marched towards New Delhi in India in opposition to new agrarian acts introduced by the Indian central government. Organised by over 400 farmers' unions along with other organisations, for the next year, farmers and allied protesters set up bases around New Delhi and sustained the movement leading to its eventual success. We conducted 20 semi-structured interviews with participants from the movement and explored the social organisation, the underlying technical infrastructures, and how collective action was organised. We outline how the social media ecosystem enabled hybrid forms of organisational structures and facilitated coalition-building between diverse groups. Further, the movement created and disseminated alternative media that opposed mainstream media narratives and facilitated community-building. We discuss how designed technologies and spaces can support social movements in the face of powerful antagonistic actors."
+  venue: "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2)"
+  authors: "Gupta, Paridhi, Adrian Petterson, Divyani Motla, and Priyank Chandra. 2022."
+  award: "DEI Recognition 🌍"
+  doi: "https://doi.org/10.1145/3555547"
   link:
-    url: https://
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{gupta2022ladange, title={Ladange, Adange, Jeetange: The Farmers' Movement and Its Virtual Spaces}, author={Gupta, Paridhi and Petterson, Adrian and Motla, Divyani and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={6}, number={CSCW2}, pages={1--34}, year={2022}, doi={https://doi.org/10.1145/3555547}}"
+
 
 - title: "Kabootar: Towards Informal, Trustworthy, and Community-Based FinTech for Marginalized Immigrants"
   image: 
-  description: Financial technology (FinTech) platforms often exclude certain countries from their services due to global political conflicts. As a result, immigrants from these neglected countries struggle with transferring money to and from their homeland through formal mechanisms. Instead, they get involved in informal transnational transactions that, while flexible, are often risky and full of hassles. We looked into this issue through an online survey (n=127) and engaged with multiple stakeholders (n=16), including the Iranian immigrant community in Canada, to co-design an application called ?Kabootar' that matches senders and receivers of money across borders. In this application, a sender-receiver pair is matched with a pertinent pair sending money in the opposite direction. By facilitating two intra-national transactions in local currencies instead of two relatively complicated inter-national transactions, the need for money to cross borders is eliminated while staying within the boundaries of the law. Our user study (n=13) revealed several tensions in users trusting such informal transnational transactions. This work contributes to CSCW, HCI, and social computing's growing scholarship in personalized and collaborative computing technologies by advocating for a novel design approach based on collaboration and informality and extends their scope to the domain of FinTech for politically marginalized communities.
-  venue: Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2)
-  authors: Y Rohanifar, S Sultana, S Hasan, P Chandra, SI Ahmed (2022)
-  doi: https://doi.org/10.1145/3555109
+  description: "Financial technology (FinTech) platforms often exclude certain countries from their services due to global political conflicts. As a result, immigrants from these neglected countries struggle with transferring money to and from their homeland through formal mechanisms. Instead, they get involved in informal transnational transactions that, while flexible, are often risky and full of hassles. We looked into this issue through an online survey (n=127) and engaged with multiple stakeholders (n=16), including the Iranian immigrant community in Canada, to co-design an application called 'Kabootar' that matches senders and receivers of money across borders. In this application, a sender-receiver pair is matched with a pertinent pair sending money in the opposite direction. By facilitating two intra-national transactions in local currencies instead of two relatively complicated inter-national transactions, the need for money to cross borders is eliminated while staying within the boundaries of the law. Our user study (n=13) revealed several tensions in users trusting such informal transnational transactions. This work contributes to CSCW, HCI, and social computing's growing scholarship in personalized and collaborative computing technologies by advocating for a novel design approach based on collaboration and informality and extends their scope to the domain of FinTech for politically marginalized communities."
+  venue: "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2)"
+  authors: "Rohanifar, Yasaman, Sharifa Sultana, Shaid Hasan, Priyank Chandra, and Syed Ishtiaque Ahmed. 2022."
+  doi: "https://doi.org/10.1145/3555109"
   link:
     url: 
-    display: (link)
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{rohanifar2022kabootar, title={Kabootar: Towards Informal, Trustworthy, and Community-Based FinTech for Marginalized Immigrants}, author={Rohanifar, Yasaman and Sultana, Sharifa and Hasan, Shaid and Chandra, Priyank and Ahmed, Syed Ishtiaque}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={6}, number={CSCW2}, pages={1--32}, year={2022}, doi={https://doi.org/10.1145/3555109}}"
 
-- title: "Socially-distant fasting: information practices of young muslims during the COVID-19 pandemic"
+
+- title: "Socially-distant fasting: Information practices of young Muslims during the COVID-19 pandemic"
   image: 
-  description: The COVID-19 pandemic has forced people to reimagine how they engage in spiritual and religious activities. This paper presents an analysis of the information practices of young Muslims during Ramadan, with a focus on their social, spiritual and COVID-related needs and strategies.
-  venue: Journal of Information Research
-  authors: N Caidi, C Ekmekcioglu, R Jamali, P Chandra (2022)
-  doi: https://doi.org/10.47989/irisic2235
+  description: "The COVID-19 pandemic has forced people to reimagine how they engage in spiritual and religious activities. This paper presents an analysis of the information practices of young Muslims during Ramadan, with a focus on their social, spiritual, and COVID-related needs and strategies."
+  venue: "Journal of Information Research"
+  authors: "Caidi, Nadia, Cansu Ekmekcioglu, Rojin Jamali, and Priyank Chandra. 2022."
+  doi: "https://doi.org/10.47989/irisic2235"
   link:
-    url: 
-    display: (link)
+    url: "https://"
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{caidi2022socially, title={Socially-distant fasting: Information practices of young Muslims during the COVID-19 pandemic}, author={Caidi, Nadia and Ekmekcioglu, Cansu and Jamali, Rojin and Chandra, Priyank}, journal={Journal of Information Research}, year={2022}, doi={https://doi.org/10.47989/irisic2235}}"
+  
 
 - title: "Money whispers: Informality, international politics, and immigration in transnational finance"
   image: 
-  description: While the growth of financial technologies (FinTech) is making the flow of money faster, easier, and more secure, such technologies are often unable to serve many countries due to the global political environment. Despite its severe impact, this issue has remained understudied in the HCI literature. We address this gap by presenting our findings from a three-month-long ethnography with the Iranian community in Toronto, Canada. We present their struggles in transferring money to and from their home country - a process that entails financial loss, fear, uncertainty, and privacy breaches. We also outline the informal workarounds that allow this community to circumvent these challenges, along with the associated hassles. This paper contributes to broadening the scope of FinTech in the HCI literature by connecting it with the politics surrounding transnational transactions. We discuss the design implications of our findings and their contribution to the broader interests of HCI in mobilities and social justice.
-  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems
-  authors: Y Rohanifar, P Chandra, MA Rahman, SI Ahmed (2021)
-  doi: https://doi.org/10.1145/3411764.3445065
+  description: "While the growth of financial technologies (FinTech) is making the flow of money faster, easier, and more secure, such technologies are often unable to serve many countries due to the global political environment. Despite its severe impact, this issue has remained understudied in the HCI literature. We address this gap by presenting our findings from a three-month-long ethnography with the Iranian community in Toronto, Canada. We present their struggles in transferring money to and from their home country - a process that entails financial loss, fear, uncertainty, and privacy breaches. We also outline the informal workarounds that allow this community to circumvent these challenges, along with the associated hassles. This paper contributes to broadening the scope of FinTech in the HCI literature by connecting it with the politics surrounding transnational transactions. We discuss the design implications of our findings and their contribution to the broader interests of HCI in mobilities and social justice."
+  venue: "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems"
+  authors: "Rohanifar, Yasaman, Priyank Chandra, M Ataur Rahman, and Syed Ishtiaque Ahmed. 2021."
+  doi: "https://doi.org/10.1145/3411764.3445065"
   link:
     url: 
-    display: (link)
+    display: "(link)"
   highlight: 1
+  bibtex: "@inproceedings{rohanifar2021money, title={Money whispers: Informality, international politics, and immigration in transnational finance}, author={Rohanifar, Yasaman and Chandra, Priyank and Rahman, M Ataur and Ahmed, Syed Ishtiaque}, booktitle={Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems}, pages={1--14}, year={2021}, doi={https://doi.org/10.1145/3411764.3445065}}"
 
 - title: "Parsing the 'Me' in #MeToo: Sexual Harassment, Social Media, and Justice Infrastructures"
   image: 
-  description: India's \#MeToo movement began in late-2018, and was largely a platform for some privileged women sharing their accounts of sexual harassment. Beyond issues of access to digital technology, our paper investigates why various sections of India's female and LGBTQ+ population chose not to engage with the \#MeToo movement. Focusing on experiences with sexual harassment, we conducted 44 qualitative interviews with middle-class working women, feminist and queer activists, academics, and other stakeholders working against gender-based violence, to understand their perspectives on \#MeToo. Our paper explores why some survivors bypass the legal infrastructure to speak out against sexual harassment using \#MeToo, while others choose not to participate despite having access to social media platforms. Using the lens of infrastructure, we outline the imbrication of social media movements with existing social norms and legal infrastructures. Further, we highlight how infrastructural politics are connected to patriarchy, colonialism, caste, class, and gender struggles.
-  venue: Proceedings of the ACM on Human-Computer Interaction 5 (CSCW1)
-  authors: A Moitra, SI Ahmed, P Chandra (2021)
-  doi: https://doi.org/10.1145/3449185
+  description: "India's #MeToo movement began in late-2018, and was largely a platform for some privileged women sharing their accounts of sexual harassment. Beyond issues of access to digital technology, our paper investigates why various sections of India's female and LGBTQ+ population chose not to engage with the #MeToo movement. Focusing on experiences with sexual harassment, we conducted 44 qualitative interviews with middle-class working women, feminist and queer activists, academics, and other stakeholders working against gender-based violence, to understand their perspectives on #MeToo. Our paper explores why some survivors bypass the legal infrastructure to speak out against sexual harassment using #MeToo, while others choose not to participate despite having access to social media platforms. Using the lens of infrastructure, we outline the imbrication of social media movements with existing social norms and legal infrastructures. Further, we highlight how infrastructural politics are connected to patriarchy, colonialism, caste, class, and gender struggles."
+  venue: "Proceedings of the ACM on Human-Computer Interaction 5 (CSCW1)"
+  authors: "Moitra, Aparna, Syed Ishtiaque Ahmed, and Priyank Chandra. 2021."
+  doi: "https://doi.org/10.1145/3449185"
   link:
     url: 
-    display: (link)
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{moitra2021parsing, title={Parsing the 'Me' in #MeToo: Sexual Harassment, Social Media, and Justice Infrastructures}, author={Moitra, Aparna and Ahmed, Syed Ishtiaque and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={5}, number={CSCW1}, pages={1--34}, year={2021}, doi={https://doi.org/10.1145/3449185}}"
+
 
 - title: "Piracy and the Impaired Cyborg: Assistive Technologies, Accessibility, and Access"
   image: 
-  description: This paper examines software piracy in the Global South from an accessibility lens, using the bio-technical metaphor of the 'cyborg.' Drawing on qualitative interviews with people with visual impairment (VI) from India and Peru, the paper interrogates the intimate relationships that users have with assistive technologies (ATs). It outlines the effectiveness of ATs in allowing users to actively control and shape their own lives and identities, and describes the various modalities that regulate the human body, technology, and human body-technology linkages. The paper argues that software piracy, when looked through the lens of the 'cyborg,' is an act of self-making that is motivated by a desire to gain autonomy and independence, i.e., it can be understood as a way to overcome the barriers that undermine access to the technological self. Further, software piracy allows a shift in the distribution of power from those who control and regulate the assistive technologies to the cyborgs themselves.
-  venue: Proceedings of the ACM on Human-Computer Interaction 4 (CSCW3)
-  authors: P Chandra (2021)
-  award: Best Paper and DEI Recognition
-  doi: https://doi.org/10.1145/3432941
+  description: "This paper examines software piracy in the Global South from an accessibility lens, using the bio-technical metaphor of the 'cyborg.' Drawing on qualitative interviews with people with visual impairment (VI) from India and Peru, the paper interrogates the intimate relationships that users have with assistive technologies (ATs). It outlines the effectiveness of ATs in allowing users to actively control and shape their own lives and identities, and describes the various modalities that regulate the human body, technology, and human body-technology linkages. The paper argues that software piracy, when looked through the lens of the 'cyborg,' is an act of self-making that is motivated by a desire to gain autonomy and independence, i.e., it can be understood as a way to overcome the barriers that undermine access to the technological self. Further, software piracy allows a shift in the distribution of power from those who control and regulate the assistive technologies to the cyborgs themselves."
+  venue: "Proceedings of the ACM on Human-Computer Interaction 4 (CSCW3)"
+  authors: "Chandra, Priyank. 2021."
+  award: "Best Paper 🥇 and DEI Recognition 🌍"
+  doi: "https://doi.org/10.1145/3432941"
   link:
     url: 
-    display: (link)
+    display: "(link)"
   highlight: 1
+  bibtex: "@article{chandra2021piracy, title={Piracy and the Impaired Cyborg: Assistive Technologies, Accessibility, and Access}, author={Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={4}, number={CSCW3}, pages={1--21}, year={2021}, doi={https://doi.org/10.1145/3432941}}"
 
 - title: "Officers never type: Examining the persistence of paper in e-governance"
   image: image2.png
   description: The Global South has seen a proliferation of e-governance initiatives aimed at digitizing governmental service delivery. However, paper continues to remain the primary medium of bureaucracy. During ethnographic fieldwork at the CM Helpline, a state-wide e-governance initiative in central India, we observed that even tech-savvy bureaucrats who fully supported both the initiative and its paper-to-electronic transition ensured that paper continues to persist in abundance. Drawing upon scholarship from HCI, anthropology, and science & technology studies, we theorize this contradiction to uncover the circulations of power between people, paper, and electronic systems. We suggest that designers should recognize that new systems often disempower existing actors. The process of transition should integrate new systems into the existing ecosystem and plan for the graceful retirement of older technologies. In addition to machine errors, systems should be resilient to human errors. Finally, new systems should attend to sociocultural and historical specificities.
-  venue: Proceedings of the 2020 CHI Conference on human factors in computing systems
-  authors: M Marathe, P Chandra (2020)
+  venue: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems
+  authors: Marathe, Megh and Priyank Chandra. 2020
   doi: https://doi.org/10.1145/3313831.3376216
   link:
     url: 
     display: (link)
   highlight: 1
+  bibtex: "@inproceedings{marathe2020officers, title={Officers never type: Examining the persistence of paper in e-governance}, author={Marathe, Megh and Chandra, Priyank}, booktitle={Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems}, pages={1--13}, year={2020}}"
 
 - title: "Rumors and collective sensemaking: Managing ambiguity in an informal marketplace"
   image: 
   description: Rumors are an enduring form of communication across socio-cultural landscapes globally. Counter to their typical negative association, rumors play a nuanced role, helping people collectively deal with problems through constructing a representation of an uncertain situation. Drawing on unstructured interviews and participant observation from a technology goods marketplace in Bangalore, India, we study the circulation of rumors related to the government's recent policy of demonetization and entry of online marketplaces and digital wallets, all of which disrupted existing market practices. These rumors emerge as attempts at sensemaking when a community is faced with ambiguity. Through highlighting the relationship of institutional trust with rumors, the paper argues that the study of rumors can help us identify the concerns of a community in the face of differential power relations. Further, rumors are a form of social bonding which help communities make sense of their place in society and shape existing practices.
   venue: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
-  authors: P Chandra, J Pal (2019)
+  authors: Chandra, Priyank and Joyojeet Pal (2019)
   doi: https://doi.org/10.1145/3290605.3300563
   link:
     url: 
     display: (link)
   highlight: 1
+  bibtex: "@inproceedings{chandra2019rumors, title={Rumors and collective sensemaking: Managing ambiguity in an informal marketplace},
+  author={Chandra, Priyank and Pal, Joyojeet}, booktitle={Proceedings of the 2019 chi conference on human factors in computing systems},
+  pages={1--12}, year={2019}}"
 
 - title: "Taming the Amazon: the domestication of online shopping in Bangalore, India"
   image: 
   description: Marketplaces are rich sites for studying existing practices surrounding technology adoption, as well as for understanding how the entry of new technologies impact a diversity of social-economic groups. With the high-profile entry of e-commerce companies into the Indian retail scene, this paper seeks to understand the ways in which online shopping integrates into the everyday practices of shoppers. Using semi-structured qualitative interviews with shoppers in marketplaces at Bangalore, India and through the lens of domestication theory, we examine how the relationship between online shopping and shoppers is constructed. Beyond individual agency, this paper describes how institutional, infrastructural, and cultural forces shape the use and non-use of online marketplaces. By specifically studying non-use, we improve our understanding of the shortcomings of existing sites where technologies are encountered and of the potential considerations for future introductions of new ICTs.
   venue: Proceedings of the Tenth International Conference on Information and Communication Technologies and Development
-  authors: P Chandra, J Chen (2019)
+  authors: Chandra, Priyank and Jay Chen (2019)
   doi: https://doi.org/10.1145/3287098.3287105
   link:
     url: 
     display: (link)
   highlight: 1
+  bibtex: "@inproceedings{chandra2019taming, title={Taming the Amazon: the domestication of online shopping in Bangalore, India}, author={Chandra, Priyank and Chen, Jay}, booktitle={Proceedings of the Tenth International Conference on Information and Communication Technologies and Development}, pages={1--11}, year={2019}}"
 
 - title: "Informality and invisibility: Traditional technologies as tools for collaboration in an informal market"
   image:
   description: This paper explores how actors in local markets in the Global South adapt traditional communication technologies to successfully collaborate to sustain the markets and their business practices. Drawing on ethnographic observations at a local technology goods market in Bangalore, India, the study details the use of a landline telephone intercom system as the primary tool for business communication in the market. Through analyzing how the intercom system relates to informality and physical space, the paper argues that it bridges the formal with the informal, and helps facilitate informal business practices while also allowing them to remain hidden from the formal regulatory gaze of the state.
   venue: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
-  authors: P Chandra (2017)
-  award: Honorable Mention
+  authors: Priyank Chandra (2017)
+  award: Honorable Mention 🎖️
   doi: https://doi.org/10.1145/3025453.3025643
   link:
     url: 
     display: (link)
   highlight: 1
+  bibtex: "@inproceedings{chandra2017informality, title={Informality and invisibility: Traditional technologies as tools for collaboration in an informal market}, author={Chandra, Priyank}, booktitle={Proceedings of the 2017 Chi Conference on Human Factors in Computing Systems}, pages={4765--4775}, year={2017}}"
 
 - title: "Market practices and the bazaar: Technology consumption in ICT markets in the global south"
   image:
   description: Local informal markets or bazaars play a central role in embedding the adoption, consumption, and reproduction of digital technologies within the economic and cultural fabric of the Global South. This paper presents ethnographic accounts of informal ICT markets in two sites, one in India and the other in Bangladesh, and assesses how technology consumption unfolds within local practices. Building on social practice theory, this paper depicts the role of materiality, relationships, and situated knowledge in the functioning of a bazaar. We discuss how this knowledge expands our understanding of the evaluation of technology and technical expertise, and the persistence of these informal spaces despite the uptake of corporatized technology marketplaces. We argue that the bazaar represents a special kind of local voice that enriches the HCI scholarship in postcolonial computing.
   venue: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
-  authors: P Chandra, SI Ahmed, J Pal (2017)
+  authors: Chandra, Priyank, Syed Ishtiaque Ahmed and Joyojeet Pal (2017)
   doi: https://doi.org/10.1145/3025453.3025970
   link:
     url: 
     display: (link)
   highlight: 1
+  bibtex: "@inproceedings{chandra2017market, title={Market practices and the bazaar: Technology consumption in ICT markets in the global south}, author={Chandra, Priyank and Ahmed, Syed Ishtiaque and Pal, Joyojeet}, booktitle={Proceedings of the 2017 CHI conference on human factors in computing systems}, pages={4741--4752}, year={2017}}"
 
 - title: "Order in the warez scene: explaining an underground virtual community with the CPR frameworkt"
   image:
   description: The paper analyzes the warez scene, an illegal underground subculture on the Internet, which specializes in removing copy protection from software and releasing the cracked software for free. Despite the lack of economic incentives and the absence of external laws regulating it, the warez scene has been able to self-govern and self-organize for more than three decades. Through a directed content analysis of the subculture's digital traces, the paper argues that the ludic competition within the warez scene is an institution of collective action, and can, therefore, be approached as a common-pool resource (CPR). Subsequently, the paper uses Ostrom's framework of long-enduring common-pool resource institutions to understand the warez scene's longevity and ability to govern itself. Theoretical and design implications of these findings are then discussed.
   venue: Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems
-  authors: P Chandra (2016)
+  authors: Chandra, Priyank (2016)
   doi: https://doi.org/10.1145/2858036.2858341
   link:
     url: 
     display: (link)
   highlight: 1
+  bibtex: "@inproceedings{chandra2016order, title={Order in the warez scene: explaining an underground virtual community with the CPR framework}, author={Chandra, Priyank}, booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+  pages={372--383}, year={2016}}"
