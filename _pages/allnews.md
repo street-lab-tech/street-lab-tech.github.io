@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "News"
-permalink: /allnews/
+permalink: /allnews.html
 ---
 
 # News
