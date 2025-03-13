@@ -14,7 +14,7 @@ permalink: research/PostHumanAndHCI.html
 
 <div class="container-fluid">
   <h1>Posthuman and HCI</h1>
-  <h3>Cagdas Dedeoglu, Kit Haehnel, Priyank Chandra</h3>
+  <h3>Cagdas Dedeoglu, Priyank Chandra</h3>
   <h4>Ongoing</h4>
   
 </div>

@@ -27,13 +27,13 @@
   education2: B.A. & Sc. in Cognitive Science from McGill University, Montreal, Canada
   number_proj: 3
   link_project1:
-    url: /research/SocialMovements/
-    display: Technology Use in Social Movements
+    url: 
+    display: Designing Sustainable Reproductive Justice Futures
   link_project2:  
-    url: /research/TechMediatedLabour/
-    display: Tech-mediated Labour Practices
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
   link_project3:
-    url: /research/AccessibilityInfrastructure/
+    url: /research/Accessibility/AccessibilityInfrastructure.html
     display: Accessibility Infrastructure in Universities
 
 - name: Ashique Ali Thuppilikkat 
@@ -48,11 +48,11 @@
   education2: BA Honors in Political Science from Ramjas College, University of Delhi, New Delhi, India
   number_proj: 2
   link_project1:
-    url: /research/SocialMovements/
-    display: Technology Use in Social Movements
+    url: /research/SocialMovements/BelarusianSocialMovement.html
+    display: ICTs and Belarusian Social Movement
   link_project2:
-    url: /research/TechMediatedLabour/
-    display: Tech-mediated Labour Practices
+    url: /research/TechMediatedLabour/GigWorkUnions.html
+    display: Gig Work and Unions
 
 - name: Olivia Doggett
   photo: olivia.jpg
@@ -66,8 +66,8 @@
   education2: BA Honours Cultural Studies from McGill University, Montreal, Canada
   number_proj: 1
   link_project1:
-    url: /research/TechMediatedLabour/
-    display: Tech-mediated Labour Practices
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
 
 - name: Siddhant Shinde
   photo: 
@@ -79,7 +79,10 @@
   number_educ: 2
   education1: Bachelor of Engineering 
   education2: Masters in Design 
-  number_proj: 
-  link_project1: 
-    url: 
-    display:
+  number_proj: 2
+  link_project1:
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data sciencE (AIDE)
+  link_project2:
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto

@@ -65,8 +65,8 @@ Some broad research projects that we currently work on:
   {% endif %}
 
   <p><strong><a href="{{ projects.link.url }}">{{ projects.link.display }}</a></strong></p>
-  <p class="text-danger"><strong>{{ projects.news1 }}</strong></p> 
-  <p class="text-danger"><strong>{{ projects.news2 }}</strong></p> 
+  <p class="text-success"><strong>{{ projects.news1 }}</strong></p> 
+  <p class="text-success"><strong>{{ projects.news2 }}</strong></p> 
  </div>
 </div>
 

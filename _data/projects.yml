@@ -1,12 +1,12 @@
 - title: "Technology Use in Social Movements"
   image: 
   description: How are social movements using technologies? How can we support them?
-  authors: Ashique Ali T, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Janna Akimova, Emily Su, Jaydon Brown, Marco Chan
+  authors: Ashique Ali T, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Janna Akimova, Jaydon Brown, Marco Chan
   link:
     url:
     display:
   highlight: 1
-  subprojects: 4
+  subprojects: 5
   subprojects1: 
     name: Turkey Bogazici Protests
     url: /research/SocialMovements/TurkeyBogaziciProtests.html
@@ -17,13 +17,13 @@
     name: Belarusian Social Movement
     url: /research/SocialMovements/BelarusianSocialMovement.html
   subprojects4:
-    name: Russia, Resistance, and Archives
-    url: /research/SocialMovements/ResistanceArchives.html
+    name: HongKong Diaspora and Protests
+    url: 
   subprojects5:
-    name: HongKong Protests
-    url: /research/SocialMovements/HongkongProtests.html
-  news1: 
-  news2: 
+    name: The Afterlife of Black Lives Matter (BLM) Coalitions
+    url: 
+  news1: Preconference "Activism Theory, Activist Practice - Bridging Boundaries Between Researching and Doing Activism" at ICA 2025
+  news2: 2024-25 Black, Indigenous, Racialized Scholar/Research Fellowship - The Afterlife of Black Lives Matter (BLM) Coalitions - ICTs, Coalitions, and Social Movements
 
 - title: "Tech-mediated Labour Practices"
   image: 
@@ -49,7 +49,7 @@
 - title: "Accessibility-related Research"
   image: 
   description: How can we build more inclusive systems and processes?
-  authors: Kim Fernandes, Carolyn Ly, Trevor Cross, Ishani Pandey, Adrian Petterson, Sid Shinde
+  authors: Carolyn Ly, Trevor Cross, Ishani Pandey, Adrian Petterson, Sid Shinde
   link:
     url: 
     display: 
@@ -122,7 +122,7 @@
   authors: Emily Su, Carmen Chau
   link:
     url: /research/ResearchTools.html
-    display: More Details
+    display: 
   highlight: 1
   subprojects: 0
   subprojects1: 

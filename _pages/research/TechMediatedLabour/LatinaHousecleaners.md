@@ -39,6 +39,3 @@ This project explores the uses of digital technologies in the work of Latina hou
 <p>Jaimes Rodríguez, I., Petterson, A., Doggett, O., Chandra, P. (2024, November). El costo de la independencia: Latino house-cleaners in Technology-Mediated Labour Markets. In Proceedings of the 2024 CSCW Conference. https://doi.org/10.1145/3686999</p> 
 
 <p>Petterson, A., Jaimes-Rodriguez, I., Doggett, O., Chandra, P. (2024, May). Networks of care in digital domestic labour economies. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. https://doi.org/10.1145/3613904.3642200</p>
-
-<br />
-

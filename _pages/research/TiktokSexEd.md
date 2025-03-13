@@ -10,7 +10,7 @@ permalink: /research/SexEdCensorship.html
 <div class="container-fluid">
   <h1>Sex Ed Creators' Strategies for Circumventing Censorship</h1>
   <h3>Emily Weckend</h3>
-  <h4>Ongoing</h4>
+  <h4>Completed</h4>
   
 </div>
 
