@@ -39,20 +39,6 @@
     url: /research/Accessibility/AIDE.html
     display: Accessible & Inclusive Data Science (AIDE)
 
-- name: Kit Haehnal
-  photo: 
-  info: Masters - Faculty of Information, University of Toronto
-  topics: Transgender technologies, crip technoscience, STS, posthumanism
-  bio: Kit (they/them) is a Masters student in the Culture and Technology concentration With a primary focus on transgender technologies and crip technoscience. Kit is currently working towards completing their thesis project titled Proximal Intimacies that details the use and history of needles within the transgender community. In the STREET Lab they are currently part of the 'Posthumanism' project that looks to detail the use of the term 'posthuman' within design papers.
-  email: kit.haehnel@mail.utoronto.ca
-  number_educ: 2
-  education1: Master of Information in Culture and Technology at the University of Toronto
-  education2: BA New Media and Neurobiology from Sarah Lawrence College, Bronxville, New York
-  number_proj: 1
-  link_project1: 
-    url: /research/PostHumanAndHCI.html
-    display: Posthumanism, Design, and HCI
-
 - name: Janna Akimova
   photo: Janna.jpeg
   info: RA studying the Belarusian Social Movement

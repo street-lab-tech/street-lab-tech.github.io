@@ -11,7 +11,7 @@ permalink: /team/
  **If you wish to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [researchers](#researchers), [PhD students](#phd-students), [master and bachelor students](#master-and-bachelor-students),  [External Researchers](#external-researchers),   [Collaborators](#collaborators),  [alumni](#alumni).
+Jump to [PhD students](#phd-students), [master and bachelor students](#master-and-bachelor-students),  [External Researchers](#external-researchers),   [Collaborators](#collaborators),  [alumni](#alumni).
 
 ## Director
 {% assign number_printed = 0 %}
@@ -29,78 +29,6 @@ Jump to [researchers](#researchers), [PhD students](#phd-students), [master and 
   <h4>{{ member.name }}</h4>
   {{ member.info1 }} 
   <br>{{ member.info2 }}
-  <i><br>email: <{{ member.email }}>
-  <br>website: <{{ member.website }}></i>
-  </div>
-
-  <div class="row" style="margin-bottom:0px;  margin-right:0%">
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-  </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Researchers
-{% assign number_printed = 0 %}
-{% for member in site.data.team.researchers %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-<div class="row" style="margin-bottom:0px;  margin-right:0%">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  {{ member.info1 }} 
-  <br>{{ member.info2 }}
-  <br>Topics: {{ member.topics }} 
   <i><br>email: <{{ member.email }}>
   <br>website: <{{ member.website }}></i>
   </div>
