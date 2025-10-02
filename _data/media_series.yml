@@ -1,33 +1,27 @@
-- type: podcast
-  title: "Example Podcast"
-  description: "A series exploring tech and talks."
-  thumbnail: "/images/series/tech_talks.jpg"
-  url: "/series/talks.html"
-  audio_files:
-    - title: "Issue 1: "
-      file: ""
-    - title: "Issue 2: "
-      file: ""
+# - type: podcast
+#   title: "Example Podcast"
+#   description: "A series exploring tech and talks."
+#   thumbnail: "/images/series/tech_talks.jpg"
+#   url: "/series/talks.html"
+#   audio_files:
+#     - title: "Issue 1: "
+#       file: ""
+#     - title: "Issue 2: "
+#       file: ""
 
-- type: podcast
-  title: "Example Podcast 2 "
-  description: "Another series exploring tech and talks."
-  thumbnail: "/images/series/tech_talks.jpg"
-  url: "/series/talks2.html"
+# - type: podcast
+#   title: "Example Podcast 2 "
+#   description: "Another series exploring tech and talks."
+#   thumbnail: "/images/series/tech_talks.jpg"
+#   url: "/series/talks2.html"
 
 - type: pdf
-  title: "Example Digital Zine Series"
-  description: "A curated collection of digital zines featuring essays, artwork, and design explorations."
-  thumbnail: "/images/series/digital_zine.jpg"
-  url: "/series/digital-zine.html"
+  title: "After Abortion Support"
+  description: "This zine is for people who want to help others getting abortions"
+  thumbnail: "/images/series/after_abortion_support.jpg"
+  url: "/series/afterabortionzine.html"
   pdf_files:
-    - title: "Issue 1"
+    - title: "Issue"
       file: "/files/media/afterabortionzine.pdf"
-    - title: Issue 2"
-      file: "/files/media/afterabortionzine2.pdf"
 
-- type: pdf
-  title: "Example Digital Zine Series 2 "
-  description: "A curated collection of digital zines featuring essays, artwork, and design explorations."
-  thumbnail: "/images/series/digital_zine.jpg"
-  url: "/series/digital-zine2.html"
+

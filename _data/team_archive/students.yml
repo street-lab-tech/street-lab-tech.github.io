@@ -1,0 +1,75 @@
+#- name:
+#  photo: rock.jpg
+#  info: 
+#  topics:
+#  bio:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+# number_proj: 
+#  link_project1: 
+#    url: 
+#    display:
+
+# - name: Carmen Chau
+#   photo: carmen_chau_img.jpg
+#   info: Bachelor's student in Computer Science and Statistical Science (2nd Year) - Faculty of Arts and Sciences, University of Toronto
+#   topics: Russian Resistance Movement
+#   bio: Carmen is an undergraduate student studying Computer Science and Statistical Science at the Faculty Arts and Sciences. In the STREET Lab, she is assisting with streamlining data scraping and analysis processes for the Russian Resistance Movement project. She is also working on developing a standalone Whisper app that can optimize interview transcription and translation processes.
+#   email: carmenj.chau@mail.utoronto.ca
+#   number_educ: 1
+#   education1: Honours Bsc, Computer Science and Statistical Science, University of Toronto, Toronto, Canada
+#   number_proj: 2
+#   link_project1: 
+#     url:
+#     display: Russian Resistance Movement
+#   link_project2: 
+#     url: 
+#     display: Whisper Transcription and Translation App
+
+# - name: Emily Su
+#   photo: emily_su.jpeg
+#   info: Bachelor's student in Computer Science and Statistics (3rd Year) - Faculty of Arts and Sciences, University of Toronto
+#   topics: Social Media and Social Movements, Research Tools
+#   bio: Emily is an undergraduate student double majoring in statistics and computer science at the Faculty of Arts and Sciences. She is currently working on the Russian Resistance Movement Project and the Whisper App Project. On the Russian Resistance Movement project, she is streamlining data scraping by developing a data pipeline with a team and she is also assisting with data analysis. On the Whisper App project, she is working on developing a desktop app that integrates Whisper to translate and transcribe audio interviews.
+#   email: em.su@mail.utoronto.ca
+#   number_educ: 1
+#   education1: Honours BSc, Computer Science, Statistics, and Digital Humanities, University of Toronto, Toronto, Canada
+#   number_proj: 2
+#   link_project1: 
+#     url:
+#     display: Russian Resistance Movement
+#   link_project2: 
+#     url: 
+#     display: Whisper Transcription and Translation App
+
+- name: Jaydon Brown 
+  photo:  Jaydon Brown_Photo.jpg
+  info: Masters Student in Information Systems and Design (1st Year)
+  topics: Transnational Social Movements, Resistance, Coalition Building
+  bio: Jaydon (He/Him) is a second year Master of Information Student in the Information Systems and Design concentration. His research interest include transnational social movements, resistance, and coalition building. Currently working on the Mapping Solidarity Project.
+  email: jaydon.brown@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: BA in Sociology, University of Illinois at Urbana Champaign, Champaign, Il
+  number_proj: 1
+  link_project1: 
+    url: /research/
+    display: The Afterlife of Black Lives Matter (BLM) Coalitions
+
+- name: Marco Chan
+  photo:  marco-pikachu.png
+  info: Masters Student in Human-Centered Data Science and Information Systems and Design (2nd Year)
+  topics: ICTs, Transnational Social Movements, Resistance
+  bio: Marco (He/Him) is a second year Master of Information Thesis Student 
+  email:
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: Bachelor of Business Administration at City University of Hong Kong
+  number_proj: 1
+  link project1: 
+    url: /research/
+    display: HongKong Diaspora and Protests

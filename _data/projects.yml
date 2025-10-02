@@ -1,4 +1,5 @@
-- title: "Technology Use in Social Movements"
+- id: tech-social-movement
+  title: "Technology Use in Social Movements"
   image: 
   description: How are social movements using technologies? How can we support them?
   authors: Ashique Ali T, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Janna Akimova, Jaydon Brown, Marco Chan
@@ -25,7 +26,8 @@
   news1: Preconference "Activism Theory, Activist Practice - Bridging Boundaries Between Researching and Doing Activism" at ICA 2025
   news2: 2024-25 Black, Indigenous, Racialized Scholar/Research Fellowship - The Afterlife of Black Lives Matter (BLM) Coalitions - ICTs, Coalitions, and Social Movements
 
-- title: "Tech-mediated Labour Practices"
+- id: tech-labour-practices
+  title: "Tech-mediated Labour Practices"
   image: 
   description: How do technologies (and algorithmic management) shape labour experiences?
   authors: Ashique Ali T, Adrian Petterson, Isabella Rodriguez, Olivia Doggett
@@ -46,7 +48,8 @@
   news1: FoI 2024-25 SSHRC Institutional Grant (SIG) for "State-Owned Digital Labour Platforms and Platform Politics"
   news2: Paper "Migrant Farmworkers' Experiences of Agricultural Technologies - Implications for Worker Sociality and Desired Change" in CHI 2024 (Honorable Mention)
 
-- title: "Accessibility-related Research"
+- id: accessibility
+  title: "Accessibility-related Research"
   image: 
   description: How can we build more inclusive systems and processes?
   authors: Carolyn Ly, Trevor Cross, Ishani Pandey, Adrian Petterson, Sid Shinde
@@ -67,7 +70,8 @@
   news1: 
   news2:
 
-- title: "Designing Sustainable Reproductive Justice Futures "
+- id: reprofutures
+  title: "Designing Sustainable Reproductive Justice Futures "
   image: 
   description: Exploring and supporting the strategies employed by abortion care organizations to coordinate reproductive health services
   authors: Adrian Petterson
@@ -79,7 +83,8 @@
   news1: 
   news2:
 
-- title: "Design Equity"
+- id: designequity
+  title: "Design Equity"
   image: 
   description: How can we help designers shift systems of oppression?
   authors: Adrian Petterson, Trevor Cross, Carolyn Ly
@@ -92,7 +97,8 @@
     name: 
     url: 
 
-- title: "Posthumanism, Design, and HCI"
+- id: posthumanhci
+  title: "Posthumanism, Design, and HCI"
   image: 
   description: How are notions of the Posthuman used in HCI and Design fields?
   authors: Cagdas Dedeoglu, Kit Haehnal

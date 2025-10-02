@@ -10,12 +10,15 @@ title: STREET Lab
 email: steetlab.ischool@utoronto.ca
 description: > # this means to ignore newlines until "baseurl:"
   STREET Lab
-baseurl: ""
+baseurl: "https://www.streetlab.tech"
 url: ""
 
 include:
   - .htaccess
   - _pages
+
+#other variables
+project_news_limit: 2
 
 sass:
   sass_dir: _sass

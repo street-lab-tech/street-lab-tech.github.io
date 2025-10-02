@@ -1,9 +1,19 @@
+<!-- _includes/news.html -->
 <section class="well" aria-labelledby="news-heading">
-  <h4 id="news-heading">News</h4>
-
-  {% for article in site.data.news limit:5 %}
-  <p>{{ article.date }}<br><a href="{{ article.url}}"> {{ article.headline | markdownify}}</a></p>
-  {% endfor %}
-
-  <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+  <h3 id="news-heading">News</h3>
+  <ul class="list-unstyled">
+    {% assign recent = site.data.news | sort: "date" | reverse %}
+    {% for article in recent limit:5 %}
+      {% assign label = article.title | default: article.headline %}
+      <p>
+        {{ article.date | date: "%b %d, %Y" }}<br>
+        {% if article.url and article.url != "" %}
+          <a href="{{ article.url }}">{{ label }}</a>
+        {% else %}
+          {{ label }}
+        {% endif %}
+      </p>
+    {% endfor %}
+  </ul>
+  <h4><a href="{{ "/news/" | relative_url }}">... see all News</a></h4>
 </section>

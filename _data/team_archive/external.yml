@@ -1,0 +1,120 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Carolyn Kim Ly
+  photo: Carolyn.jpg
+  info: Masters - Faculty of Information, University of Toronto
+  topics: Design thinking and race, accessibility
+  bio: Carolyn (she/her) is a Masters student in the User Experience Design concentration at the Faculty of Information. Her research is critical of Design Thinking with respect to racialized dynamics of labor competition and its role in culture and knowledge production. In the STREET Lab, Carolyn is working on the Accessibility Infrastructure in Universities project.
+  email: ck.ly@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
+  education2: Honours BSc Mathematics and Statistics, Art History, McMaster University, Hamilton, Canada
+  number_proj: 1
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+
+- name: Trevor Cross
+  photo: trevor_img.jpg
+  info: Masters - Faculty of Information, University of Toronto
+  topics: Gerontology, participatory design, accessibility
+  bio: Trevor is a Masters student studying User Experience Design at the Faculty of Information. He is currently conducting his thesis project on designing website structures for older adults under the supervision of Dr. Olivier St-Cyr. In the STREET Lab, he is part of the Accessibility Infrastructure in Universities project.
+  email: trevor.cross@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information in User Experience Design at the University of Toronto
+  education2: BCom Information Systems from McGill University, Montreal, Canada
+  number_proj: 2
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+  link_project2: 
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data Science (AIDE)
+
+- name: Janna Akimova
+  photo: Janna.jpeg
+  info: RA studying the Belarusian Social Movement
+  email: 
+  number_educ: 2
+  education1: Bachelor of Liberal Arts (BLA), focus on Visual Studies & Psychology, The Schools of Public Engagement, The New School, NYC, USA
+  education2: APP in Documentary Film, focus on Visual Theory, The Film and TV School of the Academy of Performing Arts (FAMU), Prague, Czech Republic
+  education3:
+  education4:
+  number_proj: 1
+  link_project1: 
+    url: /research/SocialMovements/BelarussianSocialMovement.html
+    display: Belarusian Social Movement
+
+- name: Isabella Jaimes Rodríguez
+  photo: Isabella.jpeg
+  info: Masters student in Science and Technology Studies at York University, Toronto.
+  topics: Tech mediated labor, STS, care and gender technologies.
+  bio: Isabella is a Masters student in Science and Technology Studies at York University.Her research critically examines platform labor and immigrant worker experiences, focusing on the intersection of digital technologies, care infrastructures, and labor. In the STREET Lab, Isabella is a research assistant on the Latinx Housecleaners in Toronto project.
+  email: isajr@yorku.ca
+  number_educ: 1
+  education1: Bachelor of Sociology and Political Science and Government at Universidad del Rosario, in Bogotá, Colombia.
+  education2: 
+  education3:
+  education4:
+  number_proj: 1
+  link_project1: 
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
+
+- name: Emily Weckend
+  photo:
+  info: Critical Information Policy Studies, Master of Information (2nd year)
+  topics: Sex Education, Censorship, TikTok
+  bio: Emily (she/her) is a 2nd year Masters of Information Student who is currently being supervised by Professor Priyank Chandra for her thesis regarding how sex ed creators on TikTok circumvent censorship.
+  email: emily.weckend@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: BA English Literature and Modern Languages and Cultural Studies, University of Alberta, Edmonton, AB, Canada
+  link_project1:
+    url: /research/SexEdCensorship.html
+    display: Sex Ed Creators' Strategies of Circumventing Censorship 
+
+
+- name: Ishani Pandey
+  photo: Ishani.jpg
+  info: Masters student in User Experience Design (1st Year) - Faculty of Information, University of Toronto
+  topics: Accessibility, instructional design
+  bio: Ishani (she/her) is a Master's student in the User Experience Design concentration at the Faculty of Information. Her research is focused on understanding the role of ICT in creating accessible and inclusive educational systems and experiences. In the STREET Lab, Ishani is assisting with a long-term project that examines accessibility in Ontario higher education. 
+  email: Ishani.pandey@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
+  education2: Bachelor of Design, CEPT University, Ahmedabad, India
+  number_proj: 2
+  link_project1: 
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+  link_project2: 
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data Science (AIDE)
+
+- name: Thaksha Krishnagumar
+  photo: thaksha.jpg
+  alt-text: Thaksha, a brown-skinned woman, stands smiling in front of autumn trees with green, orange, yellow and red leaves.
+  info: Research Assistant at STREET Lab
+  topics: Accessibility
+  bio: Thaksha (she/her/hers) is a research assistant at the STREET Lab, assisting with the Accessible & Inclusive Data Science (AIDE) and AI, Education & Neurodivergence projects.
+  email: thaksha.krishnagumar@utoronto.ca
+  website: https://thaksha.wixsite.com/portfolio
+  number_educ: 2
+  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
+  education2: Honours Bachelor of Science, Mathematics, Linguistics, French, University of Toronto, Toronto, Canada
+  number_proj: 2
+  link_project1: 
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data Science (AIDE)
+  link_project2: 
+    url: 
+    display: AI, Education & Neurodivergence

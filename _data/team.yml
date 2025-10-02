@@ -1,0 +1,295 @@
+director:
+- name: Prof. Priyank Chandra
+  photo: priyank.jpg
+  info1: Director - STREET Lab
+  info2: Assistant Professor - Faculty of Information
+  website: http://www.priyankc.com
+  email: priyank.chandra@utoronto.ca
+  number_educ: 4
+  education1: Postdoc at University of Toronto's Department of Computer Science
+  education2: PhD Information at University of Michigan, USA
+  education3: MS Economics at Indian Statistical Institute, New Delhi, India
+  education4: BE Electronics, VTU, India
+
+phd_students:
+- name: Adrian Petterson
+  photo: Adrian_headshot.jpg
+  alt_text: Headshot of Adrian Petterson
+  info: PhD Candidate - Faculty of Information, University of Toronto
+  topics: Disability, carework, design
+  email: a.petterson@mail.utoronto.ca
+  website: https://www.adrianpetterson.ca/
+  number_educ: 2
+  education1: Masters of Information - UX Design from the University of Toronto, Toronto, Canada
+  education2: B.A. & Sc. in Cognitive Science from McGill University, Montreal, Canada
+  number_proj: 3
+  link_project1:
+    url: 
+    display: Designing Sustainable Reproductive Justice Futures
+  link_project2:
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
+  link_project3:
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessibility Infrastructure in Universities
+
+- name: Ashique Ali Thuppilikkat
+  photo: Ashique.jpg
+  alt_text: Headshot of Ashique Ali Thuppilikkat
+  info: PhD student - Faculty of Information, University of Toronto
+  topics: Technology and resistance, labour platforms, social movements, caste, marginality
+  email: ashique.thuppilikkat@mail.utoronto.ca
+  website: https://ashiquealit.my.canva.site/
+  number_educ: 2
+  education1: M.Phil and MA in Political Science from the Centre for Political Studies, Jawaharlal Nehru University, New Delhi, India
+  education2: BA Honors in Political Science from Ramjas College, University of Delhi, New Delhi, India
+  number_proj: 2
+  link_project1:
+    url: /research/SocialMovements/BelarusianSocialMovement.html
+    display: ICTs and Belarusian Social Movement
+  link_project2:
+    url: /research/TechMediatedLabour/GigWorkUnions.html
+    display: Gig Work and Unions
+
+- name: Olivia Doggett
+  photo: olivia.jpg
+  alt_text: Headshot of Olivia Doggett
+  info: PhD candidate - Faculty of Information and School of Environment, University of Toronto
+  topics: Critical computing, migration, environmental studies, CSCW, design research
+  email: olivia.doggett@gmail.com
+  website: https://www.oliviadoggett.com/
+  number_educ: 2
+  education1: MI Information systems and design and UX from the University of Toronto, Toronto, Canada
+  education2: BA Honours Cultural Studies from McGill University, Montreal, Canada
+  number_proj: 1
+  link_project1:
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
+
+- name: Siddhant Shinde
+  photo: Siddhant.jpg
+  alt_text: Headshot of Siddhant
+  info: PhD student - Faculty of Information, University of Toronto
+  topics: Community-based design, Participatory design, Infrastructuring 
+  email: sid.shinde@mail.utoronto.ca
+  website:
+  number_educ: 2
+  education1: Bachelor of Engineering 
+  education2: Masters in Design 
+  number_proj: 2
+  link_project1:
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data sciencE (AIDE)
+  link_project2:
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
+
+- name: Isabella Jaimes Rodríguez
+  photo: Isabella.jpeg
+  info: PhD student - Faculty of Information, University of Toronto
+  topics: Tech mediated labor, STS, care and gender technologies.
+  bio: Isabella is a Masters student in Science and Technology Studies at York University.Her research critically examines platform labor and immigrant worker experiences, focusing on the intersection of digital technologies, care infrastructures, and social reproduction.
+  email:
+  number_educ: 2
+  education1: MSc by Research in Digital Society from the University of Edinburgh, UK
+  education2: BA in Political Science from Universidad de Costa Rica, Costa Rica
+  education3: MS in Science and Technology Studies from York University, Toronto
+  number_proj: 1
+  link_project1:
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
+
+
+students:
+- name: Jaydon Brown
+  photo: Jaydon Brown_Photo.jpg
+  info: Master of Information (MI), Faculty of Information, University of Toronto
+  topics: Social movements, Black diaspora, platform governance
+  bio: Jaydon (he/him) is a Master of Information student and research assistant working on platform governance and Black diaspora projects.
+  email:
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: Bachelor of Arts, University of Toronto, Scarborough, Canada
+  number_proj: 1
+  link_project1:
+    url: /research/
+    display: The Afterlife of Black Lives Matter (BLM) Coalitions
+
+- name: Marco Chan
+  photo: marco-pikachu.png
+  info: Masters Student in Human-Centered Data Science and Information Systems and Design (2nd Year)
+  topics: ICTs, Transnational Social Movements, Resistance
+  bio: Marco (He/Him) is a second year Master of Information Thesis Student 
+  email:
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: Bachelor of Business Administration at City University of Hong Kong
+  number_proj: 1
+  link_project1:
+    url: /research/
+    display: HongKong Diaspora and Protests
+
+external:
+- name: Carolyn Kim Ly
+  photo: Carolyn.jpg
+  info: Masters - Faculty of Information, University of Toronto
+  topics: Design thinking and race, accessibility
+  bio: Carolyn (she/her) is a Masters student in the User Experience Design concentration at the Faculty of Information. Her research is critical of Design Thinking with respect to racialized dynamics of labor competition and its role in culture and knowledge production. In the STREET Lab, Carolyn is working on the Accessibility Infrastructure in Universities project.
+  email: ck.ly@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
+  education2: Honours BSc Mathematics and Statistics, Art History, McMaster University, Hamilton, Canada
+  number_proj: 1
+  link_project1:
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+
+- name: Trevor Cross
+  photo: trevor_img.jpg
+  info: Masters - Faculty of Information, University of Toronto
+  topics: Gerontology, participatory design, accessibility
+  bio: Trevor is a Masters student studying User Experience Design at the Faculty of Information. His research focuses on aging, accessibility, and participatory methods. He is part of the Accessibility Infrastructure in Universities project.
+  email: trevor.cross@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information in User Experience Design at the University of Toronto
+  education2: BCom Information Systems from McGill University, Montreal, Canada
+  number_proj: 2
+  link_project1:
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+  link_project2:
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data Science (AIDE)
+
+- name: Janna Akimova
+  photo: Janna.jpeg
+  info: RA studying the Belarusian Social Movement
+  email:
+  number_educ: 2
+  education1: Bachelor of Liberal Arts (BLA), focus on Visual Studies & Psychology, The Schools of Public Engagement, The New School, NYC, USA
+  education2: APP in Documentary Film, focus on Visual Theory, The Film and TV School of the Academy of Performing Arts (FAMU), Prague, Czech Republic
+  education3:
+  education4:
+  number_proj: 1
+  link_project1:
+    url: /research/SocialMovements/BelarussianSocialMovement.html
+    display: Belarusian Social Movement
+
+- name: Olivia Doggett
+  photo: olivia.jpg
+  info: Critical computing, migration, environmental studies, CSCW, design research
+  email: 
+  number_educ: 2
+  education1: MI, Information systems and design and UX from the University of Toronto, Toronto, Canada
+  education2: BA Honours Cultural Studies from McGill University, Montreal, Canada
+  number_proj: 1
+  link_project1: 
+    url: /research/TechMediatedLabour/HousecleanersToronto.html
+    display: Latinx Housecleaners in Toronto
+
+- name: Emily Weckend
+  photo:
+  info: Critical Information Policy Studies, Master of Information (2nd year)
+  topics: Sex Education, Censorship, TikTok
+  bio: Emily (she/her) is a 2nd year Masters of Information Student. Her research analyzes how creators navigate platform policies and moderation practices regarding how sex ed creators on TikTok circumvent censorship.
+  email: emily.weckend@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: BA English Literature and Modern Languages and Cultural Studies, University of Alberta, Edmonton, AB, Canada
+  link_project1:
+    url: /research/SexEdCensorship.html
+    display: Sex Ed Creators' Strategies of Circumventing Censorship 
+
+- name: Ishani Pandey
+  photo: Ishani.jpg
+  info: Masters student in User Experience Design (1st Year) - Faculty of Information, University of Toronto
+  topics: Accessibility, instructional design
+  bio: Ishani (she/her) is a Master's student in the User Experience Design concentration at the Faculty of Information. Her research is focused on understanding the role of ICT in creating accessible and inclusive educational systems and experiences. In the STREET Lab, Ishani is assisting with a long-term project that examines accessibility in Ontario higher education. 
+  email: Ishani.pandey@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
+  education2: Bachelor of Design, CEPT University, Ahmedabad, India
+  number_proj: 2
+  link_project1:
+    url: /research/Accessibility/AccessibilityInfrastructure.html
+    display: Accessiblity Infrastructure in Universities
+  link_project2:
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data Science (AIDE)
+
+- name: Thaksha Krishnagumar
+  photo: thaksha.jpg
+  alt_text: Headshot of Thaksha Krishnagumar
+  info: Research Assistant at STREET Lab
+  topics: Accessibility
+  bio: Thaksha (she/her/hers) is a research assistant at the STREET Lab working on Accessible & Inclusive Data Science (AIDE) and AI, Education & Neurodivergence projects.
+  email: thaksha.krishnagumar@utoronto.ca
+  website: https://thaksha.wixsite.com/portfolio
+  number_educ: 2
+  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
+  education2: Honours Bachelor of Science, Mathematics, Linguistics, French, University of Toronto, Toronto, Canada
+  number_proj: 2
+  link_project1: 
+    url: /research/Accessibility/AIDE.html
+    display: Accessible & Inclusive Data Science (AIDE)
+  link_project2: 
+    url: 
+    display: AI, Education & Neurodivergence
+
+collaborators:
+- name: Dr. Cagdas Dedeoglu
+  photo: CD2022_low.jpg
+  alt_text: Headshot of Dr. Cagdas Dedeoglu
+  info: Professor, Yorkville University & Founding Director, The Posthuman Lab
+  email: cdedeoglu@yorkvilleu.ca
+  number_educ: 2
+  education1: Postdoctoral Researcher, Department of Religion (Environmental Studies stream), University of Florida, USA
+  education2: PhD, Department of Political Science and International Relations, Istanbul University, Turkey
+  education3:
+  education4:
+  number_proj: 2
+  link_project1: 
+    url: /research/PostHumanAndHCI.html
+    display: Posthumanism, Design, and HCI
+  link_project2: 
+    url: /research/SocialMovements/TurkeyBogaziciProtests.html
+    display: Bogazici University Protests (Turkey)
+
+- name: Dr. Paridhi Gupta
+  photo: ParidhiGupta.jpg
+  alt_text: Headshot of Dr. Paridhi Gupta
+  info: Swiss Excellence Postdoctoral Fellow, Institute of Social Anthropology and Empirical Cultural Studies, University of Zurich
+  email: 
+  number_educ: 3
+  education1: PhD Gender Studies at the Centre for Women's Studies, Jawaharlal Nehru University, New Delhi, India
+  education2: MPhil Women's Studies at the Centre for Women's Studies, Jawaharlal Nehru University, New Delhi, India
+  education3: MA Sociology at the Centre for Study of Social Systems, Jawaharlal Nehru University, New Delhi, India
+  education4:
+  number_proj: 1
+  link_project1: 
+    url: /research/SocialMovements/IndianFarmersProtests.html
+    display: Indian Farmer Protests
+
+- name: Dr. Cansu Ekmekcioglu
+  photo: cansu.jpg
+  alt_text: Headshot of Dr. Cansu Ekmekcioglu
+  info: Assistant Professor, McMaster University, Canada
+  email: cansu.ekmekcioglu@mail.utoronto.ca 
+  website: http://ekmekcioglu.website/
+  number_educ: 2
+  education1: MA Media and Communications from Galatasaray University, Istanbul, Turkey
+  education2: BA Political Science and International Relations at Bogazici University, Istanbul, Turkey
+  number_proj: 1
+  link_project1:
+    url: /research/SocialMovements/TurkeyBogaziciProtests.html
+    display: Bogazici University Protests (Turkey)
+
+alumni:
+- name: Gozie Nwaka, Masters, Harvard Graduate School of Education 
+- name: Keith Cheng, Master, Ontario Institute for Studies in Education
+- name: Bethlehem Zebib, Ontario Ministry of Transportation
+- name: Alex Parent, PhD, NYU 
+- name: Azhagu Meena, PhD, Faculty of Information
+- name: Moria (Masha) Piroshkova
+- name: Carmen Chau
+- name: Emily Su

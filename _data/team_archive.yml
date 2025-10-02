@@ -1,0 +1,200 @@
+sections:
+- id: director
+  title: Director
+  order: 1
+- id: phd
+  title: PhD Students
+  order: 2
+- id: students
+  title: Students
+  order: 3
+- id: external
+  title: External RAs
+  order: 4
+- id: collaborators
+  title: Collaborators
+  order: 5
+- id: alumni
+  title: Alumni
+  order: 99
+people:
+- name: Prof. Priyank Chandra
+  group: director
+  title: Director - STREET Lab — Assistant Professor - Faculty of Information
+  url: http://www.priyankc.com
+  image: /images/teampic/priyank.jpg
+  email: priyank.chandra@utoronto.ca
+  order: 1
+- name: Adrian Petterson
+  group: phd
+  title: PhD Candidate - Faculty of Information, University of Toronto
+  url: https://www.adrianpetterson.ca/
+  image: /images/teampic/Adrian_headshot.jpg
+  alt: Headshot of Adrian Petterson
+  email: a.petterson@mail.utoronto.ca
+  topics: Disability, carework, design
+  order: 1
+- name: Ashique Ali Thuppilikkat
+  group: phd
+  title: PhD student - Faculty of Information, University of Toronto
+  url: https://ashiquealit.my.canva.site/
+  image: /images/teampic/Ashique.jpg
+  alt: Headshot of Ashique Ali Thuppilikkat
+  email: ashique.thuppilikkat@mail.utoronto.ca
+  topics: Technology and resistance, labour platforms, social movements, caste, marginality
+  order: 2
+- name: Olivia Doggett
+  group: phd
+  title: PhD candidate - Faculty of Information and School of Environment, University
+    of Toronto
+  url: https://www.oliviadoggett.com/
+  image: /images/teampic/olivia.jpg
+  alt: Headshot of Olivia Doggett
+  email: olivia.doggett@gmail.com
+  topics: Critical computing, migration, environmental studies, CSCW, design research
+  order: 3
+- name: Siddhant Shinde
+  group: phd
+  title: PhD student - Faculty of Information, University of Toronto
+  alt: Headshot of Siddhant
+  email: sid.shinde@mail.utoronto.ca
+  topics: Community-based design, Participatory design, Infrastructuring
+  order: 4
+- name: Jaydon Brown
+  group: students
+  title: Masters Student in Information Systems and Design (1st Year)
+  image: /images/teampic/Jaydon Brown_Photo.jpg
+  email: jaydon.brown@mail.utoronto.ca
+  topics: Transnational Social Movements, Resistance, Coalition Building
+  bio: Jaydon (He/Him) is a second year Master of Information Student in the Information
+    Systems and Design concentration. His research interest include transnational
+    social movements, resistance, and coalition building. Currently working on the
+    Mapping Solidarity Project.
+  order: 1
+- name: Marco Chan
+  group: students
+  title: Masters Student in Human-Centered Data Science and Information Systems and
+    Design (2nd Year)
+  image: /images/teampic/marco-pikachu.png
+  topics: ICTs, Transnational Social Movements, Resistance
+  bio: Marco (He/Him) is a second year Master of Information Thesis Student
+  order: 2
+- name: Carolyn Kim Ly
+  group: external
+  title: Masters - Faculty of Information, University of Toronto
+  image: /images/teampic/Carolyn.jpg
+  email: ck.ly@mail.utoronto.ca
+  topics: Design thinking and race, accessibility
+  bio: Carolyn (she/her) is a Masters student in the User Experience Design concentration
+    at the Faculty of Information. Her research is critical of Design Thinking with
+    respect to racialized dynamics of labor competition and its role in culture and
+    knowledge production. In the STREET Lab, Carolyn is working on the Accessibility
+    Infrastructure in Universities project.
+  order: 1
+- name: Trevor Cross
+  group: external
+  title: Masters - Faculty of Information, University of Toronto
+  image: /images/teampic/trevor_img.jpg
+  email: trevor.cross@mail.utoronto.ca
+  topics: Gerontology, participatory design, accessibility
+  bio: Trevor is a Masters student studying User Experience Design at the Faculty
+    of Information. He is currently conducting his thesis project on designing website
+    structures for older adults under the supervision of Dr. Olivier St-Cyr. In the
+    STREET Lab, he is part of the Accessibility Infrastructure in Universities project.
+  order: 2
+- name: Janna Akimova
+  group: external
+  title: RA studying the Belarusian Social Movement
+  image: /images/teampic/Janna.jpeg
+  order: 3
+- name: Isabella Jaimes Rodríguez
+  group: external
+  title: Masters student in Science and Technology Studies at York University, Toronto.
+  image: /images/teampic/Isabella.jpeg
+  email: isajr@yorku.ca
+  topics: Tech mediated labor, STS, care and gender technologies.
+  bio: Isabella is a Masters student in Science and Technology Studies at York University.Her
+    research critically examines platform labor and immigrant worker experiences,
+    focusing on the intersection of digital technologies, care infrastructures, and
+    labor. In the STREET Lab, Isabella is a research assistant on the Latinx Housecleaners
+    in Toronto project.
+  order: 4
+- name: Emily Weckend
+  group: external
+  title: Critical Information Policy Studies, Master of Information (2nd year)
+  email: emily.weckend@mail.utoronto.ca
+  topics: Sex Education, Censorship, TikTok
+  bio: Emily (she/her) is a 2nd year Masters of Information Student who is currently
+    being supervised by Professor Priyank Chandra for her thesis regarding how sex
+    ed creators on TikTok circumvent censorship.
+  order: 5
+- name: Ishani Pandey
+  group: external
+  title: Masters student in User Experience Design (1st Year) - Faculty of Information,
+    University of Toronto
+  image: /images/teampic/Ishani.jpg
+  email: Ishani.pandey@mail.utoronto.ca
+  topics: Accessibility, instructional design
+  bio: Ishani (she/her) is a Master's student in the User Experience Design concentration
+    at the Faculty of Information. Her research is focused on understanding the role
+    of ICT in creating accessible and inclusive educational systems and experiences.
+    In the STREET Lab, Ishani is assisting with a long-term project that examines
+    accessibility in Ontario higher education.
+  order: 6
+- name: Thaksha Krishnagumar
+  group: external
+  title: Research Assistant at STREET Lab
+  url: https://thaksha.wixsite.com/portfolio
+  image: /images/teampic/thaksha.jpg
+  email: thaksha.krishnagumar@utoronto.ca
+  topics: Accessibility
+  bio: Thaksha (she/her/hers) is a research assistant at the STREET Lab, assisting
+    with the Accessible & Inclusive Data Science (AIDE) and AI, Education & Neurodivergence
+    projects.
+  order: 7
+- name: Dr. Cagdas Dedeoglu
+  group: collaborators
+  title: Professor, Yorkville University & Founding Director, The Posthuman Lab
+  image: /images/teampic/CD2022_low.jpg
+  alt: Headshot of Dr. Cagdas Dedeoglu
+  email: cdedeoglu@yorkvilleu.ca
+  order: 1
+- name: Dr. Paridhi Gupta
+  group: collaborators
+  title: Swiss Excellence Postdoctoral Fellow, Institute of Social Anthropology and
+    Empirical Cultural Studies, University of Zurich
+  image: /images/teampic/ParidhiGupta.jpg
+  alt: Headshot of Dr. Paridhi Gupta
+  order: 2
+- name: Dr. Cansu Ekmekcioglu
+  group: collaborators
+  title: Assistant Professor, McMaster University, Canada
+  url: http://ekmekcioglu.website/
+  image: /images/teampic/cansu.jpg
+  alt: Headshot of Dr. Cansu Ekmekcioglu
+  email: cansu.ekmekcioglu@mail.utoronto.ca
+  order: 3
+- name: Gozie Nwaka, Masters, Harvard Graduate School of Education
+  group: alumni
+  order: 1
+- name: Keith Cheng, Master, Ontario Institute for Studies in Education
+  group: alumni
+  order: 2
+- name: Bethlehem Zebib, Ontario Ministry of Transportation
+  group: alumni
+  order: 3
+- name: Alex Parent, PhD, NYU
+  group: alumni
+  order: 4
+- name: Azhagu Meena, PhD, Faculty of Information
+  group: alumni
+  order: 5
+- name: Moria (Masha) Piroshkova
+  group: alumni
+  order: 6
+- name: Carmen Chau
+  group: alumni
+  order: 7
+- name: Emily Su
+  group: alumni
+  order: 8

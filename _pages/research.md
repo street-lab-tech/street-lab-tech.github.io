@@ -7,7 +7,7 @@ permalink: /research/
 ---
 # Research
 
-STREET Lab is focused on understanding and supporting the sociotechnical practices of marginalized communities around the world, with an emphasis in resistance, informality, and social justice. We are an interdisciplinary research group working with Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Social Computing, Development Studies, Political Science, 
+STREET Lab is focused on understanding and supporting the sociotechnical practices of marginalized communities around the world, with an emphasis in resistance, informality, and social justice.
 
 Some broad research projects that we currently work on:
 
@@ -28,45 +28,44 @@ Some broad research projects that we currently work on:
   <p>{{ projects.description }}</p>
   <p><b>Researchers:</b> {{ projects.authors }}</p>
 
-{% if projects.subprojects != 0 %}  
+{% if projects.subprojects %}
+  <p><strong>Subprojects:</strong></p>
+  <ul class="list-unstyled">
+    {% for i in (1..12) %}
+      {% assign key = 'subprojects' | append: i %}
+      {% assign sp = projects[key] %}
+      {% if sp %}
+        <ul style="margin: 6px 0;">
+          {% if sp.url and sp.url != "" %}
+            <a href="{{ sp.url | relative_url }}">{{ sp.name }}</a>
+          {% else %}
+            {{ sp.name }}
+          {% endif %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
 
-  <p><b>Subprojects: </b></p>
-
-  {% if projects.subprojects == 1 %}
-  <ul><a href="{{ projects.subprojects1.url}}"> {{ projects.subprojects1.name}}</a></ul>
-  {% endif %}
-
-  {% if projects.subprojects == 2 %}
-  <ul><a href="{{ projects.subprojects1.url}}"> {{ projects.subprojects1.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects2.url}}"> {{ projects.subprojects2.name}}</a></ul>
-  {% endif %}
-
-  {% if projects.subprojects == 3 %}
-  <ul><a href="{{ projects.subprojects1.url}}"> {{ projects.subprojects1.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects2.url}}"> {{ projects.subprojects2.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects3.url}}"> {{ projects.subprojects3.name}}</a></ul>
-  {% endif %}
-
-  {% if projects.subprojects == 4 %}
-  <ul><a href="{{ projects.subprojects1.url}}"> {{ projects.subprojects1.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects2.url}}"> {{ projects.subprojects2.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects3.url}}"> {{ projects.subprojects3.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects4.url}}"> {{ projects.subprojects4.name}}</a></ul>
-  {% endif %}
-
-  {% if projects.subprojects == 5 %}
-  <ul><a href="{{ projects.subprojects1.url}}"> {{ projects.subprojects1.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects2.url}}"> {{ projects.subprojects2.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects3.url}}"> {{ projects.subprojects3.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects4.url}}"> {{ projects.subprojects4.name}}</a></ul>
-  <ul><a href="{{ projects.subprojects5.url}}"> {{ projects.subprojects5.name}}</a></ul>
-  {% endif %}
-
-  {% endif %}
 
   <p><strong><a href="{{ projects.link.url }}">{{ projects.link.display }}</a></strong></p>
-  <p class="text-success"><strong>{{ projects.news1 }}</strong></p> 
-  <p class="text-success"><strong>{{ projects.news2 }}</strong></p> 
+  
+  {%- assign all_news = site.data.news | sort: "date" | reverse -%}
+  {%- assign pid = projects.id -%}
+  {%- assign proj_news = all_news | where_exp: "n", "n.projects and n.projects contains pid" -%}
+
+  {%- assign news_limit = site.project_news_limit | default: 2 | plus: 0 -%}
+  {%- for n in proj_news limit: news_limit -%}
+    {%- assign label = n.title | default: n.headline -%}
+    <p class="text-success">
+      <strong>
+        {%- if n.url and n.url != '' -%}<a href="{{ n.url }}">{{ label }}</a>{%- else -%}{{ label }}{%- endif -%}
+      </strong>
+      {%- if n.date -%}<span class="text-muted"> — {{ n.date | date: "%b %Y" }}</span>{%- endif -%}
+    </p>
+  {%- endfor -%}
+
+
  </div>
 </div>
 

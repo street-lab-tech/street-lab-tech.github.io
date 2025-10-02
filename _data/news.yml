@@ -1,66 +1,59 @@
-- date: April 8, 2025
-  headline: "SDGs@UofT Catalyst and Synthesis Grant: 'Precarity in the City: Environmental Hazards and Gig Labour in Urban India'"
-  url: https://sdg.utoronto.ca/research-themes/2025-catalyst-and-synthesis-grant-projects/
-- date: March 20, 2025
+- date: "2025-07-17"
+  headline: "SSHRC Insight Development Grants (IDG) Grant: 'ICTs, Diasporic Social Movements, and Transnational Repression'"
+  url: 
+  projects: [tech-social-movement]
+- date: "2025-03-20"
   headline: "School of Cities Urban Challenge Grant 4.0: 'Outdoor gig workers in Indian cities: environmental hazards and socio-economic inequalities'"
   url: https://schoolofcities.utoronto.ca/programs-opportunities/urban-challenge-grant/urban-challenge-grants-4/
-- date: February 5, 2025
+  projects: [tech-labour-practices]
+- date: "2025-02-15"
   headline: "2024-25 Black, Indigenous, Racialized Scholar/Research Fellowship: 'The Afterlife of Black Lives Matter (BLM) Coalitions - ICTs, Coalitions, and Social Movements'"
-  url: 
-- date: November 13, 2024
+  url:
+  projects: [tech-social-movement]
+- date: "2024-11-13"
   headline: "Paper 'Union Makes Us Strong: Space, Technology, and On-Demand Ridesourcing Digital Labour Platforms' at CSCW 2024, Costa Rica"
   url: https://cscw.acm.org/2024/index.php/program/
-- date: November 12, 2024
+  projects: [tech-labour-practices]
+- date: "2024-12-11"
   headline: "Paper 'El costo de la independencia: Latino house-cleaners in Technology-Mediated Labour Markets' at CSCW 2024, Costa Rica"
   url: https://cscw.acm.org/2024/index.php/program/
-- date: November 11, 2024
+  projects: [tech-labour-practices]
+- date: "2024-11-11"
   headline: "SIG 'Organizing for More Just and Inclusive Futures: A Community Discussion' at CSCW 2024, Costa Rica"
   url: https://cscw.acm.org/2024/index.php/program/
-- date: November 5, 2024
+- date: "2024-11-05"
   headline: "DEI Recognition for 'El costo de la independencia: Latino house-cleaners in Technology-Mediated Labour Markets' at CSCW 2024"
   url: https://cscw.acm.org/2024/index.php/awards/
-- date: January 16, 2024
-  headline: "Migrant Farmworkers' Experiences of Agricultural Technologies: Implications for Worker Sociality and Desired Change' accepted at CHI 2023"
-  url: 
-- date: January 15, 2024
-  headline: "Paper 'Networks of care in digital domestic labour economies,' accepted at CHI 2024"
-  url: 
-- date: January 4, 2024
+- date: "2024-01-04"
   headline: "Report 'Resilience in Recovery: The Unblocked Cash Project and Blockchain Humanitarianism in Vanuatu,' published by The Reach Alliancey"
   url: https://reachalliance.org/case-study/project-unblocked-cash-cash-and-voucher-humanitarian-assistance-program-in-vanuatu/
-- date: December 14, 2023
+- date: "2023-12-14"
   headline: "2023-24 SSHRC Institutional Grant (SIG) for Repertoires of Contention in Digital Labour Platforms (DLPs)"
   url: http://bit.ly/dis_usability_sdobri2
-- date: Sep 15, 2023
+- date: "2023-09-15"
   headline: "Dis/Usability Workshop Series: Affordable Assistive Technology"
   url: http://bit.ly/dis_usability_sdobri2
-- date: July 25, 2023
+- date: "2023-07-25"
   headline: "Dis/Usability Speaker Series: Paul Chiou: BAGEL: An Approach to Automatically Detect Navigation Web Accessibility"
   url: https://www.eventbrite.com/e/bagel-an-approach-to-automatically-detect-navigation-web-accessibility-tickets-673071634377
-- date: June 26, 2023
+- date: "2023-06-26"
   headline: "Dis/Usability Speaker Series: Michelle Ganz: Navigating Accessibility and Accommodations"
   url: https://www.eventbrite.com/e/talk-navigating-accessibility-and-accommodations-tickets-664801076917
-- date: April 28, 2023
+- date: "2023-04-28"
   headline: "Workshop 'Supporting Social Movements Through HCI and Design' at CHI 2023"
   url: https://dl.acm.org/doi/10.1145/3544549.3573812
-- date: April 20, 2023
-  headline: "Paper 'A Matter of Time: Anticipation Work and Digital Temporalities in Refugee Humanitarian Assistance in Turkey' published at CSCW 2023"
-  url: https://doi.org/10.1145/3579455
-- date: April 19, 2023
+- date: "2023-04-19"
   headline: "Dis/Usability Workshop Series: Accessibility Research Workshop"
   url: https://tinyurl.com/4zyw2yc2
-- date: March 12, 2023
+- date: "2023-03-12"
   headline: "Dis/Usability Speaker Series: Christina Malec: Sounds from a Black Hole"
   url: https://www.eventbrite.ca/e/talk-sounds-from-a-black-hole-tickets-579228115887
-- date: December 12, 2022
+- date: "2022-12-12"
   headline: "Mohawk Warrior Society film screening & book discussion"
   url: https://ischool.utoronto.ca/news/iaacc-presents-the-mohawk-warrior-society-film-screening-book-discussion/
-- date: January 15, 2023
-  headline: "Paper 'Playing with Power Tools: Design Toolkits and the Framing of Equity' accepted at CHI 2023"
-  url: https://doi.org/10.1145/3544548.3581490
-- date: July 1, 2022
+- date: "2022-07-01"
   headline: "We our officially part of the <a href='https://kmdi.utoronto.ca/'>KMDI Lab</a>"
   url: https://kmdi.utoronto.ca/street-lab/
-- date: May 1, 2022
+- date: "2022-05-01"
   headline: <b> The STREET Lab has officially started</b>!
   url: http://www.streetlab.tech

@@ -1,3 +1,76 @@
+# - title: "Dissent, Distance, Dilemmas: ICTs and the Belarusian Diasporic Social Movement Community"
+#   image: 
+#   description: "In August 2020, Alexander Lukashenko’s re-election, amid widespread allegations of electoral fraud, marked the continuation of his uninterrupted presidency since Belarus’s independence and triggered an unprecedented wave of mass protests in the country’s history. In response, Lukashenko’s adaptive authoritarian regime unleashed brutal repression and systemic human rights violations. In this context, the diasporic social movement community, leveraging information and communication technologies (ICTs), emerged as critical actors supporting the anti-regime social movement in their origin-homeland. Based on semi-structured interviews with 13 members of the North American Belarusian diasporic social movement community, this paper explores the role of ICTs in facilitating their political actions during the 2020 protests, as well as the factors that facilitated or hindered their participation and use of ICTs. Our study highlights that ICTs facilitated diaspora geopolitics from below by enabling “social movement community,” where otherwise disparate diasporic satellite publics converged around the common political goal of overthrowing the Lukashenko regime. However, the diasporic social movement community’s use of ICTs was also fraught with ethical and moral complexities, navigating the “proximity dilemma” of remote participation and influencing a cause from a distance, while benefiting from socio-spatial privileges in their host country. Furthermore, the diaspora’s ICT usage is shaped by the political regime, fear of transnational repression, and the geopolitical positions of both the origin-homeland and host country, as a consequence of adaptive authoritarianism in the Belarusian case. We discuss how CSCW can support decentralised, geographically dispersed diasporic organising with respect to social movements under varying authoritarian constraints."
+#   venue: "Proceedings of the ACM on Human-Computer Interaction 9 (CSCW)"
+#   authors: "Thuppilikkat, Ashique Ali,  Akimova, Janna, and Priyank Chandra. 2025."
+#   doi: "https://doi.org/10.1145/3757469"
+#   link:
+#     url:
+#     display: "(link)"
+#   highlight: 1
+#   bibtex: "@inproceedings{10.1145/3706598.3713266, author = {}, title = {Generative Politics and Labour Markets: Unions and Collective Life in a City in Crisis}, year = {2025},isbn = {9798400713941},publisher = {Association for Computing Machinery},address = {New York, NY, USA},doi = {10.1145/3706598.3713266},booktitle = {}, articleno = {947}, numpages = {18}, keywords = {Digital labour, Gig work, Urban HCI, Crisis}, location = {},series = {CHI '25}}"
+
+# - title: "Accessibility Work in Academia: Balancing Needs, Bridging Gaps, and Breaking Down Barriers"
+#   image: 
+#   description: "Universities grow increasingly committed to equal access for individuals with disabilities, balancing the appearance of inclusion while upholding values of academic rigour. Within these universities, employees working in accessibility must mediate an unstable web of organizational and technological infrastructures. This study examines the government mandates, organizational structures, processes, and policies in a research university in Canada aimed at meeting the accessibility needs of its students. Our findings suggest that there is an interplay between informal and formal practices to navigate institutional systems. Technology serves as a mediator in the “behind-the-scenes\" work that occurs at the intersection of infrastructures. Based on these findings, we provide recommendations to better support accessibility work in universities. We suggest the use of seamful design to support accessibility work, as it aligns with the dynamic nature of disability and distributed networks of accessibility work. We recommend designers foster interdependence to support workers who navigate overlapping infrastructures and breakdowns at the seams."
+#   venue: "Proceedings of the ACM on Human-Computer Interaction 9 (CSCW)"
+#   authors: "Ly, Carolyn,  Trevor Cross, Adrian Petterson, Ishani Pandey and Priyank Chandra. 2025."
+#   doi: "https://doi.org/10.1145/3757454"
+#   link:
+#     url:
+#     display: "(link)"
+#   highlight: 1
+#   bibtex: "@inproceedings{10.1145/3706598.3713266, author = {}, title = {Generative Politics and Labour Markets: Unions and Collective Life in a City in Crisis}, year = {2025},isbn = {9798400713941},publisher = {Association for Computing Machinery},address = {New York, NY, USA},doi = {10.1145/3706598.3713266},booktitle = {}, articleno = {947}, numpages = {18}, keywords = {Digital labour, Gig work, Urban HCI, Crisis}, location = {},series = {CHI '25}}"
+
+- title: "Navigating the Posthuman Turn in Computing and Design: A Posthuman Vocabulary"
+  image: 
+  description: "As multifaceted concerns related to humans, nonhumans, ecologies, and technologies gain prominence within the design community, posthumanism is emerging as a key intellectual pathway for critical design theory and research. This study surveys 151 design papers published in ACM venues up to September 2024 to explore the operationalization of posthumanism in computing and design scholarship. Our findings indicate that papers incorporating posthumanism are shaping an emerging field of posthuman design. We argue that the posthuman turn in computing and design can be characterized into three phases: early encounters with the posthuman, the integration of posthuman concepts, and transformation into a material-discursive practice. To support and advance the objectives of this third phase, we propose a posthuman vocabulary — a conceptual framework composed of five guiding principles — post-humanism, post-anthropocentrism, post-dualism, post-Enlightenment, and post-technologism. These principles address issues of justice, sustainability, relationality, agency, subjectivity, and critique of technological intensification, offering a guide for future material-discursive design practices."
+  venue: "Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies"
+  authors: "Dedeoglu, Cagdas and Priyank Chandra. 2025."
+  doi: "https://doi.org/10.1145/3706598.3713266"
+  link:
+    url:
+    display: "(link)"
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3715335.3735487, author = {Dedeouglu, Cagdas and Chandra, Priyank}, title = {Navigating the Posthuman Turn in Computing and Design: A Posthuman Vocabulary}, year = {2025}, isbn = {9798400714849}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3715335.3735487}, doi = {10.1145/3715335.3735487}, booktitle = {Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies}, pages = {504–529},numpages = {26}, keywords = {design, posthuman, posthumanities, posthuman design, semi-systematic review, computing, sustainability, justice, design principles}, location = {},series = {COMPASS '25}}"
+
+- title: "Expanding Care Conceptualizations: An Integrative Literature Review of Care in HCI"
+  image: 
+  description: "Care research in HCI is evolving to encompass a broader spectrum, where care is not only given to and performed by a human care-giver and human care-receiver, but also extends to non-humans like technologies and more-than-humans, including post-human entities. This expansion reflects a growing recognition of the complex, interconnected networks through which care is enacted and experienced across varying scales. To explore the expanding conceptualization of care in HCI, we conducted a literature review of 93 papers, examining both practical and ethico-political focuses across different scales of care. We identified six categories of care conceptualizations: service, repair, intimate, burden, infrastructure, and ethic. We define care in the HCI space, propose a novel tool to support care research, and suggest conceptual spaces for future exploration with a focus on critical care theorists."
+  venue: "Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies"
+  authors: "Petterson, Adrian,  Jocelyn Mattka, and Priyank Chandra. 2025."
+  doi: "https://doi.org/10.1145/3706598.3713266"
+  link:
+    url:
+    display: "(link)"
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3715335.3735486, author = {Petterson, Adrian and Mattka, Jocelyn and Chandra, Priyank}, title = {Expanding Care Conceptualizations: An Integrative Literature Review of Care in HCI}, year = {2025}, isbn = {9798400714849}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3715335.3735486}, doi = {10.1145/3715335.3735486}, booktitle = {Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies}, pages = {481–503}, numpages = {23}, keywords = {care, ethics, feminist, ethico-political, ecosystemic, literature review}, location = {}, series = {COMPASS '25}}"
+
+- title: "Generative Politics and Labour Markets: Unions and Collective Life in a City in Crisis"
+  image: 
+  description: "The COVID-19 pandemic temporarily disrupted the operations of on-demand ride-sourcing digital labour platforms like Uber and Ola, severely impacting gig workers’ labour opportunities. In response, the Kolkata Ola-Uber App-Cab Operator and Drivers Union in West Bengal, India, mobilised an alternate socio-technical infrastructure by operating emergency transport and taxi ambulance services. Our ethnographic study explores how this initiative leveraged technologies to structure and coordinate hybrid sites of action and ‘generate’ a labour market without profit motive to support the public health infrastructure. Our paper highlights the significance of what we call the gig worker union’s ‘generative politics’ in creating resources to support workers and citizens, facilitating political action beyond protest politics, contributing to new counter-hegemonic formations, and shaping collective action centered around regeneration and care for the city and life under capitalism. We contribute to the HCI literature by offering insights to design alternate and participatory socio-technical infrastructures that challenge the hegemony of digital labour platforms."
+  venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+  authors: "Thuppilikkat, Ashique Ali,  Dipsita Dhar, Noopur Raval, and Priyank Chandra. 2025."
+  doi: "https://doi.org/10.1145/3706598.3713266"
+  link:
+    url:
+    display: "(link)"
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3706598.3713266, author = {}, title = {Generative Politics and Labour Markets: Unions and Collective Life in a City in Crisis}, year = {2025},isbn = {9798400713941},publisher = {Association for Computing Machinery},address = {New York, NY, USA},doi = {10.1145/3706598.3713266},booktitle = {}, articleno = {947}, numpages = {18}, keywords = {Digital labour, Gig work, Urban HCI, Crisis}, location = {},series = {CHI '25}}"
+
+- title: "What's in a Place? On Platformization of Traditional Agricultural Marketplaces"
+  image: 
+  description: "In this paper, we pay ethnographic attention to the failed attempts at platformization of agricultural trade in one of Asia’s largest onion markets, located in rural western Maharashtra. We focus on e-NAM, or the electronic National Agricultural Market, a state-sponsored digital trading platform intended to create a transparent, efficient, and frictionless online national agricultural market by collapsing geographical barriers of traditional marketplaces, commonly known as mandis. We found that despite e-NAM’s intended benefits, mandis continue to be the preferred mode of transaction for trading agricultural commodities. We demonstrate that these two agricultural marketplaces foster different meanings of information transparency, efficiency, and participation among stakeholders. In agrarian societies dominated by smallholder farmers, such as India, social collectives and non-economic relationships are crucial for providing safety and risk mitigation when dealing with perishable commodities like onions. We argue that e-NAM fails because its digital intermediation prioritizes an ahistorical and depoliticized free-market approach, which treats farmers (and traders) as independent units driven solely by the economic logic of demand and supply, disconnecting them from their historical and political agrarian social class."
+  venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+  authors: "Singh, Anubha, Patricia Garcia, and Priyank Chandra. 2025."
+  doi: "https://doi.org/10.1145/3706598.3714250"
+  link:
+    url:
+    display: "(link)"
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3706598.3714250,author = {Singh, Anubha and Garcia, Patricia and Chandra, Priyank},title = {What's in a Place? On Platformization of Traditional Agricultural Marketplaces},year = {2025},isbn = {9798400713941},publisher = {Association for Computing Machinery},address = {New York, NY, USA},doi = {10.1145/3706598.3714250}, booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},articleno = {952},numpages = {16},keywords = {Agricultural Marketplaces, Platforms, Auctions, Digital Agriculture},location = {},series = {CHI '25}}"
+
+
 - title: "El costo de la independencia: Latino house-cleaners in Technology-Mediated Labour Markets"
   image: 
   description: "This paper explores the interplay between identity, collective action, and digital marketplaces among Latino house-cleaners in Toronto. Domestic work, such as house-cleaning, has traditionally been devalued, gendered, and delegated to marginalised immigrant populations. The informal nature of house-cleaning work also introduces precarity, vulnerabilities, and potential avenues of exploitation. Drawing on 19 interviews with Latino house-cleaners, the paper underscores how identity shapes experiences and strategies in the labour markets. We find that Latino house-cleaners prefer to use asynchronous digital marketplaces, such as social media commerce groups and online classified advertisement websites, as the platforms provide flexibility and control over their labour outcomes. The paper further delves into how group identities online - such as being Latino and women - foster collective action and solidarity. The paper provides insights on how we can support the challenges and needs of immigrant domestic workers in technology-mediated labour markets."
