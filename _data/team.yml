@@ -67,7 +67,7 @@ phd_students:
     display: Latinx Housecleaners in Toronto
 
 - name: Siddhant Shinde
-  photo: Siddhant.jpg
+  photo: siddhant.jpg
   alt_text: Headshot of Siddhant
   info: PhD student - Faculty of Information, University of Toronto
   topics: Community-based design, Participatory design, Infrastructuring 
@@ -174,18 +174,6 @@ external:
   link_project1:
     url: /research/SocialMovements/BelarussianSocialMovement.html
     display: Belarusian Social Movement
-
-- name: Olivia Doggett
-  photo: olivia.jpg
-  info: Critical computing, migration, environmental studies, CSCW, design research
-  email: 
-  number_educ: 2
-  education1: MI, Information systems and design and UX from the University of Toronto, Toronto, Canada
-  education2: BA Honours Cultural Studies from McGill University, Montreal, Canada
-  number_proj: 1
-  link_project1: 
-    url: /research/TechMediatedLabour/HousecleanersToronto.html
-    display: Latinx Housecleaners in Toronto
 
 - name: Emily Weckend
   photo:
