@@ -23,14 +23,12 @@
   subprojects5:
     name: The Afterlife of Black Lives Matter (BLM) Coalitions
     url: 
-  news1: Preconference "Activism Theory, Activist Practice - Bridging Boundaries Between Researching and Doing Activism" at ICA 2025
-  news2: 2024-25 Black, Indigenous, Racialized Scholar/Research Fellowship - The Afterlife of Black Lives Matter (BLM) Coalitions - ICTs, Coalitions, and Social Movements
 
 - id: tech-labour-practices
   title: "Tech-mediated Labour Practices"
   image: 
   description: How do technologies (and algorithmic management) shape labour experiences?
-  authors: Ashique Ali T, Adrian Petterson, Isabella Rodriguez, Olivia Doggett
+  authors: Ashique Ali T, Siddhant Shinde, Adrian Petterson, Isabella Rodriguez, Olivia Doggett
   link:
     url: 
     display: 
@@ -43,11 +41,12 @@
     name: Latino Housecleaners in Toronto
     url: /research/TechMediatedLabour/HousecleanersToronto.html
   subprojects3: 
-    name: Gig Worker Resistance Lit Review
+    name: Solidarity Economy
     url: /research/TechMediatedLabour/GigWorkersResistance.html
-  news1: FoI 2024-25 SSHRC Institutional Grant (SIG) for "State-Owned Digital Labour Platforms and Platform Politics"
-  news2: Paper "Migrant Farmworkers' Experiences of Agricultural Technologies - Implications for Worker Sociality and Desired Change" in CHI 2024 (Honorable Mention)
-
+  subprojects4: 
+    name: Gig Work and Environmental Hazards
+    url: /research/TechMediatedLabour/GigWork_EnvironmentalHazards.html
+  
 - id: accessibility
   title: "Accessibility-related Research"
   image: 
@@ -67,8 +66,10 @@
   subprojects3: 
     name: Visual Impairment and Risk Communication
     url: /research/Accessibility/VIRisk.html
-  news1: 
-  news2:
+  subprojects3: 
+    name: Visual Impairment and Risk Communication
+    url: /research/Accessibility/VIRisk.html
+
 
 - id: reprofutures
   title: "Designing Sustainable Reproductive Justice Futures "

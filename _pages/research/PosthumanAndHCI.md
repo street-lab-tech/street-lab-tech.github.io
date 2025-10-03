@@ -34,5 +34,8 @@ permalink: research/PostHumanAndHCI.html
   <h3>Description</h3>
 Within multiple HCI and Design publications the 'Posthuman' has been utilized to explain the ways in which technology has come to augment and/or otherwise alter the role of the human in design. Designing with the Posthuman in mind often calls to mind techno-futuristic visions, ones that alter our understanding of the role non-human actors play in emerging technologies. While these new visions of a so-called Posthuman design certainly seem intriguing, how HCI and Design researchers operationalize such terms must come under further scrutiny to truly understand if the technologies proposed adhere to the ideas and values that posthumanism strives for. Tracing posthumanism through its roots in Ihab Hassan's work through to more modern scholars like Donna Haraway and Katherine Hayles, this work seeks to provide a comprehensive frame for understanding the Posthuman within HCI and Design. Taking a look at recent publications in CHI, SIGMAS, CSCW, etc. this project seeks to understand the Posthuman in the context of HCI and design.
 
+  <h3>Publications</h3>
+Çağdaş Dedeoğlu and Priyank Chandra. 2025. Navigating the Posthuman Turn in Computing and Design: A Posthuman Vocabulary. In Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '25). Association for Computing Machinery, New York, NY, USA, 504–529. <a href="https://doi.org/10.1145/3715335.3735487"> https://doi.org/10.1145/3715335.3735487 </a>
+
 
 <br />

@@ -28,7 +28,32 @@ Some broad research projects that we currently work on:
   <p>{{ projects.description }}</p>
   <p><b>Researchers:</b> {{ projects.authors }}</p>
 
-{% if projects.subprojects %}
+{% assign has_sp = false %}
+{% for i in (1..12) %}
+  {% assign key = 'subprojects' | append: i %}
+  {% if projects[key] %}{% assign has_sp = true %}{% endif %}
+{% endfor %}
+
+{% if has_sp %}
+  <p><strong>Subprojects:</strong></p>
+  <ul class="list-unstyled">
+    {% for i in (1..12) %}
+      {% assign key = 'subprojects' | append: i %}
+      {% assign sp = projects[key] %}
+      {% if sp %}
+        <li style="margin:6px 0;">
+          {% if sp.url and sp.url != "" %}
+            <a href="{{ sp.url | relative_url }}">{{ sp.name }}</a>
+          {% else %}
+            {{ sp.name }}
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<!-- {% if projects.subprojects %}
   <p><strong>Subprojects:</strong></p>
   <ul class="list-unstyled">
     {% for i in (1..12) %}
@@ -45,7 +70,10 @@ Some broad research projects that we currently work on:
       {% endif %}
     {% endfor %}
   </ul>
-{% endif %}
+{% endif %} -->
+
+
+
 
 
   <p><strong><a href="{{ projects.link.url }}">{{ projects.link.display }}</a></strong></p>

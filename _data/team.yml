@@ -88,12 +88,12 @@ phd_students:
   photo: Isabella.jpeg
   info: PhD student - Faculty of Information, University of Toronto
   topics: Tech mediated labor, STS, care and gender technologies.
-  bio: Isabella is a Masters student in Science and Technology Studies at York University.Her research critically examines platform labor and immigrant worker experiences, focusing on the intersection of digital technologies, care infrastructures, and social reproduction.
-  email:
+  bio: Isabella is a PhD student in information at University of Toronto. Her research critically examines platform labor and immigrant worker experiences, focusing on the intersection of digital technologies, care infrastructures, and social reproduction.
+  email: isabella.jaimesrodriguez@utoronto.ca
+  website: https://isabellajaimes.my.canva.site/
   number_educ: 2
-  education1: MSc by Research in Digital Society from the University of Edinburgh, UK
-  education2: BA in Political Science from Universidad de Costa Rica, Costa Rica
-  education3: MS in Science and Technology Studies from York University, Toronto
+  education1: MA in Science and Technology Studies from York University, Toronto, Canada.
+  education2: BA in Sociology and Political Science from Universidad del Rosario, Bogotá, Colombia.
   number_proj: 1
   link_project1:
     url: /research/TechMediatedLabour/HousecleanersToronto.html
@@ -128,6 +128,21 @@ students:
   link_project1:
     url: /research/
     display: HongKong Diaspora and Protests
+
+- name: Parker Miles Layden-Tapp
+  photo: mugshot-parker.png
+  info: Master of Information Student in User Experience Design (2nd Year)
+  topics: Older adults aged 74+ and their use & perceptions of digital technologies, co-production & participatory design with older adults.
+  bio: Parker (He/Him) is a second year Master of Information Thesis Student working with older adults
+  email: parker.laydentapp@mail.utoronto.ca
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: Honours Bachelor of Design at Wilfrid Laurier University, Brantford, Ontario
+  number_proj: 1
+  link_project1:
+    url: /research/
+    display: Digital Technology and Older Adults in Canada and Japan
+
 
 external:
 - name: Carolyn Kim Ly
@@ -172,8 +187,8 @@ external:
   education4:
   number_proj: 1
   link_project1:
-    url: /research/SocialMovements/BelarussianSocialMovement.html
-    display: Belarusian Social Movement
+    url: /research/SocialMovements/BelarusianSocialMovement.html
+    display: ICTs and Belarusian Social Movement
 
 - name: Emily Weckend
   photo:

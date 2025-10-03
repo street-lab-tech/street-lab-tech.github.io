@@ -2,7 +2,7 @@
 layout: gridlay
 title: "Media Series"
 sitemap: false
-permalink: /media/
+permalink: /resources/
 ---
 
 {% assign podcasts = site.data.media_series | where: "type", "podcast" %}
