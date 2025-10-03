@@ -72,10 +72,6 @@ Some broad research projects that we currently work on:
   </ul>
 {% endif %} -->
 
-
-
-
-
   <p><strong><a href="{{ projects.link.url }}">{{ projects.link.display }}</a></strong></p>
   
   {%- assign all_news = site.data.news | sort: "date" | reverse -%}
@@ -83,6 +79,7 @@ Some broad research projects that we currently work on:
   {% assign proj_news = all_news | where_exp: "n", "n.projects contains pid" %}
 
   {%- assign news_limit = site.project_news_limit | default: 2 | plus: 0 -%}
+  
   {%- for n in proj_news limit: news_limit -%}
     {%- assign label = n.title | default: n.headline -%}
     <p class="text-success">

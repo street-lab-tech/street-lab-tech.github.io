@@ -1,9 +1,9 @@
 ---
-title: "STREET Lab - Design Equity "
+title: "STREET Lab - Care in HCI"
 layout: project
 excerpt: "STREET Lab: Team projects"
 sitemap: false
-permalink: /research/EquityToolkits/EquityToolkits.html
+permalink: /research/CareResearch/careinhci.html
 ---
 <div class="row" style="display: flex;">
 

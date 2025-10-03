@@ -66,23 +66,24 @@
   subprojects3: 
     name: Visual Impairment and Risk Communication
     url: /research/Accessibility/VIRisk.html
-  subprojects3: 
-    name: Visual Impairment and Risk Communication
-    url: /research/Accessibility/VIRisk.html
 
 
-- id: reprofutures
-  title: "Designing Sustainable Reproductive Justice Futures "
+- id: caredesign
+  title: "Designing For/With Care"
   image: 
-  description: Exploring and supporting the strategies employed by abortion care organizations to coordinate reproductive health services
+  description: Exploring how we can design for/with care and supporting existing care organizations
   authors: Adrian Petterson
   link:
     url:
     display:
   highlight: 1
-  subprojects: 0
-  news1: 
-  news2:
+  subprojects: 2
+  subprojects1: 
+    name: Designing Sustainable Reproductive Justice Futures
+    url: /research/CareResearch/ReproJustice.html
+  subprojects2: 
+    name: Conceptualizaing Care in HCI
+    url: /research/CareResearch/careinhci.html
 
 - id: designequity
   title: "Design Equity"
@@ -94,9 +95,6 @@
     display: More Details
   highlight: 1
   subprojects: 0
-  subprojects1: 
-    name: 
-    url: 
 
 - id: posthumanhci
   title: "Posthumanism, Design, and HCI"
@@ -108,8 +106,6 @@
     display: More Details
   highlight: 1
   subprojects: 0
-  news1: 
-  news2:
 
 - title: "Sex Ed Creators' Strategies of Circumventing Censorship"
   image: 
@@ -120,8 +116,6 @@
     display: More Details
   highlight: 1
   subprojects: 0
-  news1: 
-  news2:
 
 - title: "Designing Research Tools"
   image: 
@@ -132,9 +126,3 @@
     display: 
   highlight: 1
   subprojects: 0
-  subprojects1: 
-    name: Whisper Transcription and Translation App
-    url: /research/Applications/WhisperTranscription.html
-  subprojects2:    
-    name: Telegram Scraping
-    url: /research/Applications/TelegramScraping.html

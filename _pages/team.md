@@ -263,7 +263,7 @@ Jump to [PhD students](#phd-students), [master and bachelor students](#master-an
 </div>
 {% endif %}
 
-## External Research Assistants
+## External Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.team.external %}
 
