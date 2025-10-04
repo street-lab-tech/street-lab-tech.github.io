@@ -65,6 +65,17 @@ function copyBibTeX(bibtexContent) {
   | 
   <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
 
+  <button onclick="toggleAbstract('abstract{{ forloop.index }}', this)" 
+    aria-expanded="false" 
+    aria-controls="abstract{{ forloop.index }}">
+    Show Abstract
+   </button>
+
+
+  <div id="abstract{{ forloop.index }}" style="display: none;" role="region" aria-live="polite">
+    {{ publi.description }}
+  </div>
+
 {% endfor %}
 
 ## Workshops
@@ -76,5 +87,16 @@ function copyBibTeX(bibtexContent) {
   <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a> 
   | 
   <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
+
+  <button onclick="toggleAbstract('abstract{{ forloop.index }}', this)" 
+    aria-expanded="false" 
+    aria-controls="abstract{{ forloop.index }}">
+    Show Abstract
+   </button>
+
+
+  <div id="abstract{{ forloop.index }}" style="display: none;" role="region" aria-live="polite">
+    {{ publi.description }}
+  </div>
 
 {% endfor %}
