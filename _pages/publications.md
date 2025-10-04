@@ -41,14 +41,11 @@ function copyBibTeX(bibtexContent) {
   <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
     
 
-  <button onclick="toggleAbstract('abstract{{ forloop.index }}', this)" 
-    aria-expanded="false" 
-    aria-controls="abstract{{ forloop.index }}">
-    Show Abstract
-   </button>
-
-
-  <div id="abstract{{ forloop.index }}" style="display: none;" role="region" aria-live="polite">
+  {% assign abs_id = 'abs-peer-' | append: forloop.index %}
+  <button onclick="toggleAbstract('{{ abs_id }}', this)"
+          aria-expanded="false"
+          aria-controls="{{ abs_id }}">Show Abstract</button>
+  <div id="{{ abs_id }}" style="display:none" role="region" aria-live="polite">
     {{ publi.description }}
   </div>
 
@@ -59,20 +56,17 @@ function copyBibTeX(bibtexContent) {
 
 {% for publi in site.data.nonpublist %}
 
-  {{ publi.title }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
-  <em>{{ publi.authors }} </em><br />{{ publi.venue }}<br />
+  <strong>{{ publi.title }}</strong> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+  {{ publi.authors }}<br /><em>{{ publi.venue }}</em><br />
   <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a> 
   | 
   <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
 
-  <button onclick="toggleAbstract('abstract{{ forloop.index }}', this)" 
-    aria-expanded="false" 
-    aria-controls="abstract{{ forloop.index }}">
-    Show Abstract
-   </button>
-
-
-  <div id="abstract{{ forloop.index }}" style="display: none;" role="region" aria-live="polite">
+  {% assign abs_id = 'abs-short-' | append: forloop.index %}
+  <button onclick="toggleAbstract('{{ abs_id }}', this)"
+          aria-expanded="false"
+          aria-controls="{{ abs_id }}">Show Abstract</button>
+  <div id="{{ abs_id }}" style="display:none" role="region" aria-live="polite">
     {{ publi.description }}
   </div>
 
@@ -82,20 +76,17 @@ function copyBibTeX(bibtexContent) {
 
 {% for publi in site.data.workshops %}
 
-  {{ publi.title }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
-  <em>{{ publi.authors }} </em><br />{{ publi.venue }}<br />
+  <strong>{{ publi.title }}</strong> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+  {{ publi.authors }}<br /><em>{{ publi.venue }}</em><br />
   <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a> 
   | 
   <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
 
-  <button onclick="toggleAbstract('abstract{{ forloop.index }}', this)" 
-    aria-expanded="false" 
-    aria-controls="abstract{{ forloop.index }}">
-    Show Abstract
-   </button>
-
-
-  <div id="abstract{{ forloop.index }}" style="display: none;" role="region" aria-live="polite">
+  {% assign abs_id = 'abs-work-' | append: forloop.index %}
+  <button onclick="toggleAbstract('{{ abs_id }}', this)"
+          aria-expanded="false"
+          aria-controls="{{ abs_id }}">Show Abstract</button>
+  <div id="{{ abs_id }}" style="display:none" role="region" aria-live="polite">
     {{ publi.description }}
   </div>
 
