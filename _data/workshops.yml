@@ -1,0 +1,50 @@
+- title: "Reimagining Social Media and Social Movements in Crisis: A Workshop on Empirics, Theory and Research Guidance"
+  image: 
+  description: We propose hosting a design workshop style sprint to create a list of guidance for researchers who study the links between social media and social movements, based on the collective knowledge-making of researchers and practitioners interested in varied social movements across global contexts. The guidance will be split into current empirical/tactical knowledge of social media use in social movements, theoretical provocations, and best practices for ethical and safety considerations for researchers working in this field.
+  venue: Adjunct Proceedings of the Sixth Decennial Aarhus Conference - Computing X Crisis
+  authors: Petterson, Adrian, Priyank Chandra, Alex Jiahong Lu, and Margaret Jack (2025)
+  doi: https://doi.org/10.1145/3737609.3747090
+  link:
+    url: https://
+    display: 
+  research:
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3737609.3747090, author = {Petterson, Adrian and Chandra, Priyank and Lu, Alex Jiahong and Jack, Margaret}, title = {Reimagining Social Media and Social Movements in Crisis: A Workshop on   Empirics, Theory and Research Guidance}, year = {2025}, isbn = {9798400719684}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3737609.3747090}, doi = {10.1145/3737609.3747090}, booktitle = {Adjunct Proceedings of the Sixth Decennial Aarhus Conference: Computing X Crisis}, articleno = {28}, numpages = {4}, keywords = {social movement, social media}, location = {}, series = {AAR Adjunct '25}}"
+
+- title: "(Re)working for Sustainable Futures: Climate Change and Platform Economies"
+  image: 
+  description: From HCI and CSCW to labour studies and human geography, disciplines are expanding their scholarly focus to address the increasingly dire consequences of climate change. At the same time, there is growing attention being paid to the rise and ubiquity of platform companies across societal sectors, such as communication, transportation, and work. However, although climate change and platform economies affect one another, they are rarely examined in relation to each other. This multi-part workshop aims to build an interdisciplinary research foundation for critical studies of climate change and platform economies. Participants will critically engage with three intersecting themes in discourses on climate change and platform economies—labour, data, and infrastructure. Through activities such as lightning talks, mapping exercises, and reflective discussions, participants will collaboratively develop a living syllabus and a shared resource database to (re)work and design pathways toward more sustainable futures.
+  venue: Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies
+  authors: Thuppilikkat, Ashique Ali, Hiu-Fung Chung, Kaushar Mahetaji, Anubha Singh, Nussara Tieanklin, Isabella Jaimes Rodriguez, Jen Liu, Noopur Raval, and Priyank Chandra (2025)
+  doi: https://doi.org/10.1145/3715335.3737685
+  link:
+    url: https://
+    display:
+  research:
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3715335.3737685, author = {Thuppilikkat, Ashique Ali and Chung, Hiu-Fung and Mahetaji, Kaushar and Singh, Anubha and Tieanklin, Nussara and Rodriguez, Isabella Jaimes and Liu, Jen and Raval, Noopur and Chandra, Priyank}, title = {(Re)working for Sustainable Futures: Climate Change and Platform Economies}, year = {2025}, isbn = {9798400714849}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3715335.3737685}, doi = {10.1145/3715335.3737685}, booktitle = {Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies}, pages = {848–852}, numpages = {5}, keywords = {Climate Change, Platform Economies, Labour, Data, Infrastructure.}, location = {}, series = {COMPASS '25}}"
+
+- title: "Supporting Social Movements Through HCI and Design"
+  image: 
+  description: The use of digital technologies in grassroots community organizing has multifaceted implications. It has extended the scope of sharing information and experiences, building solidarities and coordination, and fostering common identities to enable participation and amplify the voice of diverse actors in social movements. However, the rise of surveillance technologies, computational propaganda and internet shutdowns are creating novel barriers to democratic action, particularly affecting the participatory parity of marginalized grassroots groups. This one-day hybrid workshop will invite conversations on the complex interrelation between ICTs and social movements and devise ways to support grassroots movements by bringing together HCI researchers, activists and designers. We invite formal position papers to participate in workshop and encourage participants to ideate and contribute to creating zines that can serve as a helpful resource for supporting grassroots movements.
+  venue: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
+  authors: Petterson, Adrian, Ashique Ali Thuppilikkat,  Paridhi and Gupta, Shamika Klassen, Margaret C Jack, Jun Liu, and Priyank Chandra (2023)
+  doi: https://doi.org/10.1145/3411763.3451822
+  link:
+    url: 
+    display: 
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3544549.3573812, author = {Petterson, Adrian and Thuppilikkat, Ashique Ali and Gupta, Paridhi and Klassen, Shamika and Jack, Margaret C and Liu, Jun and Chandra, Priyank}, title = {Supporting Social Movements Through HCI and Design}, year = {2023}, isbn = {9781450394222}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3544549.3573812}, doi = {10.1145/3544549.3573812}, abstract = {}, booktitle = {Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems}, articleno = {364}, numpages = {5}, keywords = {Activism, Design, Social Movements},location = {Hamburg, Germany}, series = {CHI EA '23}}"
+
+
+- title: "Outsourcing Artificial Intelligence: Responding to the Reassertion of the Human Element into Automation"
+  image: 
+  description: Science fiction imaginaries and Silicon Valley innovators have long envisioned a workerless future. However, this industrial ambition has often outpaced technological realities in robotics and artificial intelligence, leading to a reassertion of human skills to cover untenable gaps in autonomous systems. This one-day workshop will invite discussion on this recent retrograde trend toward precarious (and often concealed) human labour across such domains as agriculture, transportation, and caregiving through paper presentations and design activities. Throughout, we will ask how this phenomenon speaks to engineering and design challenges and, subsequently, encourage participants to ideate new cybernetic arrangements that centre the agency and well-being of essential workers.
+  venue: Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems
+  authors: Iantorno, Mathew, Olivia Doggett, Priyank Chandra, Julie Yujie Chen, Rosemary Steup, Noopur Raval, Vera Khovanskaya, Laura Lam, Anubha Singh, Sarah Rotz, and Matt Ratto (2022)
+  doi: https://doi.org/10.1145/3491101.3503720
+  link:
+    url: 
+    display: 
+  highlight: 1
+  bibtex: "@inproceedings{10.1145/3491101.3503720, author = {Iantorno, Mathew and Doggett, Olivia and Chandra, Priyank and Yujie Chen, Julie and Steup, Rosemary and Raval, Noopur and Khovanskaya, Vera and Lam, Laura and Singh, Anubha and Rotz, Sarah and Ratto, Matt}, title = {Outsourcing Artificial Intelligence: Responding to the Reassertion of the Human Element into Automation}, year = {2022}, isbn = {9781450391566}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3491101.3503720}, doi = {10.1145/3491101.3503720}, abstract = {}, booktitle = {Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems}, articleno = {103}, numpages = {5}, location = {New Orleans, LA, USA}, series = {CHI EA '22}}"

@@ -66,3 +66,15 @@ function copyBibTeX(bibtexContent) {
   <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
 
 {% endfor %}
+
+## Workshops
+
+{% for publi in site.data.workshops %}
+
+  {{ publi.title }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.venue }}<br />
+  <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a> 
+  | 
+  <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
+
+{% endfor %}
