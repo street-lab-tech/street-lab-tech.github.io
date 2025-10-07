@@ -101,34 +101,6 @@ phd_students:
 
 
 students:
-- name: Jaydon Brown
-  photo: Jaydon Brown_Photo.jpg
-  info: Master of Information (MI), Faculty of Information, University of Toronto
-  topics: Social movements, Black diaspora, platform governance
-  bio: Jaydon (he/him) is a Master of Information student and research assistant working on platform governance and Black diaspora projects.
-  email:
-  number_educ: 2
-  education1: Master of Information at the University of Toronto, Toronto, Canada
-  education2: Bachelor of Arts, University of Toronto, Scarborough, Canada
-  number_proj: 1
-  link_project1:
-    url: /research/
-    display: The Afterlife of Black Lives Matter (BLM) Coalitions
-
-- name: Marco Chan
-  photo: marco-pikachu.png
-  info: Masters Student in Human-Centered Data Science and Information Systems and Design (2nd Year)
-  topics: ICTs, Transnational Social Movements, Resistance
-  bio: Marco (He/Him) is a second year Master of Information Thesis Student 
-  email:
-  number_educ: 2
-  education1: Master of Information at the University of Toronto, Toronto, Canada
-  education2: Bachelor of Business Administration at City University of Hong Kong
-  number_proj: 1
-  link_project1:
-    url: /research/
-    display: HongKong Diaspora and Protests
-
 - name: Parker Miles Layden-Tapp
   photo: mugshot-parker.png
   info: Master of Information Student in User Experience Design (2nd Year)
@@ -157,7 +129,21 @@ external:
   number_proj: 1
   link_project1:
     url: /research/Accessibility/AccessibilityInfrastructure.html
-    display: Accessiblity Infrastructure in Universities
+    display: Accessibility Infrastructure in Universities
+
+- name: Jaydon Brown
+  photo: Jaydon Brown_Photo.jpg
+  info: Master of Information (MI), Faculty of Information, University of Toronto
+  topics: Social movements, Black diaspora, platform governance
+  bio: Jaydon (he/him) is a Master of Information student and research assistant working on platform governance and Black diaspora projects.
+  email:
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: Bachelor of Arts, University of Toronto, Scarborough, Canada
+  number_proj: 1
+  link_project1:
+    url: /research/
+    display: The Afterlife of Black Lives Matter (BLM) Coalitions
 
 - name: Trevor Cross
   photo: trevor_img.jpg
@@ -171,10 +157,24 @@ external:
   number_proj: 2
   link_project1:
     url: /research/Accessibility/AccessibilityInfrastructure.html
-    display: Accessiblity Infrastructure in Universities
+    display: Accessibility Infrastructure in Universities
   link_project2:
     url: /research/Accessibility/AIDE.html
     display: Accessible & Inclusive Data Science (AIDE)
+
+- name: Marco Chan
+  photo: marco-pikachu.png
+  info: Masters Student in Human-Centered Data Science and Information Systems and Design (2nd Year)
+  topics: ICTs, Transnational Social Movements, Resistance
+  bio: Marco (He/Him) is a second year Master of Information Thesis Student 
+  email:
+  number_educ: 2
+  education1: Master of Information at the University of Toronto, Toronto, Canada
+  education2: Bachelor of Business Administration at City University of Hong Kong
+  number_proj: 1
+  link_project1:
+    url: /research/
+    display: HongKong Diaspora and Protests
 
 - name: Janna Akimova
   photo: Janna.jpeg
@@ -190,18 +190,18 @@ external:
     url: /research/SocialMovements/BelarusianSocialMovement.html
     display: ICTs and Belarusian Social Movement
 
-- name: Emily Weckend
-  photo:
-  info: Critical Information Policy Studies, Master of Information (2nd year)
-  topics: Sex Education, Censorship, TikTok
-  bio: Emily (she/her) is a 2nd year Masters of Information Student. Her research analyzes how creators navigate platform policies and moderation practices regarding how sex ed creators on TikTok circumvent censorship.
-  email: emily.weckend@mail.utoronto.ca
-  number_educ: 2
-  education1: Master of Information at the University of Toronto, Toronto, Canada
-  education2: BA English Literature and Modern Languages and Cultural Studies, University of Alberta, Edmonton, AB, Canada
-  link_project1:
-    url: /research/SexEdCensorship.html
-    display: Sex Ed Creators' Strategies of Circumventing Censorship 
+# - name: Emily Weckend
+#   photo:
+#   info: Critical Information Policy Studies, Master of Information (2nd year)
+#   topics: Sex Education, Censorship, TikTok
+#   bio: Emily (she/her) is a 2nd year Masters of Information Student. Her research analyzes how creators navigate platform policies and moderation practices regarding how sex ed creators on TikTok circumvent censorship.
+#   email: emily.weckend@mail.utoronto.ca
+#   number_educ: 2
+#   education1: Master of Information at the University of Toronto, Toronto, Canada
+#   education2: BA English Literature and Modern Languages and Cultural Studies, University of Alberta, Edmonton, AB, Canada
+#   link_project1:
+#     url: /research/SexEdCensorship.html
+#     display: Sex Ed Creators' Strategies of Circumventing Censorship 
 
 - name: Ishani Pandey
   photo: Ishani.jpg
@@ -215,7 +215,7 @@ external:
   number_proj: 2
   link_project1:
     url: /research/Accessibility/AccessibilityInfrastructure.html
-    display: Accessiblity Infrastructure in Universities
+    display: Accessibility Infrastructure in Universities
   link_project2:
     url: /research/Accessibility/AIDE.html
     display: Accessible & Inclusive Data Science (AIDE)
@@ -296,3 +296,4 @@ alumni:
 - name: Moria (Masha) Piroshkova
 - name: Carmen Chau
 - name: Emily Su
+- name: Emily Weckend, University of Alberta

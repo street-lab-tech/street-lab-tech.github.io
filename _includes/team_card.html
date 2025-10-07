@@ -1,0 +1,54 @@
+<div class="row" style="margin-bottom:0; margin-right:0%">
+  {% if include.member.photo %}
+    <img
+      src="{{ '/images/teampic/' | append: include.member.photo | relative_url }}"
+      class="img-responsive" width="25%" style="float:left"
+      alt="{{ include.member.alt_text | default: include.member.name }}">
+  {% endif %}
+
+  <h4>{{ include.member.name }}</h4>
+
+  {% if include.section == 'director' %}
+    {% if include.member.info1 %}{{ include.member.info1 }}{% endif %}
+    {% if include.member.info2 %}<br>{{ include.member.info2 }}{% endif %}
+  {% else %}
+    {% if include.member.info %}<i>{{ include.member.info }}</i>{% endif %}
+    {% if include.member.topics %}<br>Topics: {{ include.member.topics }}{% endif %}
+  {% endif %}
+
+  {% if include.member.email %}
+    <br><i>email: <a href="mailto:{{ include.member.email }}">{{ include.member.email }}</a></i>
+  {% endif %}
+  {% if include.member.website %}
+    <br><i>website: <a href="{{ include.member.website }}">{{ include.member.website }}</a></i>
+  {% endif %}
+</div>
+
+<div class="row" style="margin-bottom:0; margin-right:0%">
+  <ul style="overflow:hidden">
+    {% if include.member.number_educ %}
+      {% for i in (1..include.member.number_educ) %}
+        {% assign key = 'education' | append: i %}
+        {% assign val = include.member[key] %}
+        {% if val %}<li>{{ val }}</li>{% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% if include.member.number_proj %}
+      <h5><strong>Projects</strong></h5>
+      {% for i in (1..include.member.number_proj) %}
+        {% assign pkey = 'link_project' | append: i %}
+        {% assign proj = include.member[pkey] %}
+        {% if proj %}
+          <p><strong>
+            {% if proj.url and proj.url != '' %}
+              <a href="{{ proj.url | relative_url }}">{{ proj.display }}</a>
+            {% else %}
+              {{ proj.display }}
+            {% endif %}
+          </strong></p>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>

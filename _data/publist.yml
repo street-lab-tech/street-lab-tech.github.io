@@ -27,7 +27,7 @@
   description: "As multifaceted concerns related to humans, nonhumans, ecologies, and technologies gain prominence within the design community, posthumanism is emerging as a key intellectual pathway for critical design theory and research. This study surveys 151 design papers published in ACM venues up to September 2024 to explore the operationalization of posthumanism in computing and design scholarship. Our findings indicate that papers incorporating posthumanism are shaping an emerging field of posthuman design. We argue that the posthuman turn in computing and design can be characterized into three phases: early encounters with the posthuman, the integration of posthuman concepts, and transformation into a material-discursive practice. To support and advance the objectives of this third phase, we propose a posthuman vocabulary — a conceptual framework composed of five guiding principles — post-humanism, post-anthropocentrism, post-dualism, post-Enlightenment, and post-technologism. These principles address issues of justice, sustainability, relationality, agency, subjectivity, and critique of technological intensification, offering a guide for future material-discursive design practices."
   venue: "Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies"
   authors: "Dedeoglu, Cagdas and Priyank Chandra. 2025."
-  doi: "https://doi.org/10.1145/3706598.3713266"
+  doi: "https://doi.org/10.1145/3715335.3735487"
   link:
     url:
     display: "(link)"
@@ -39,7 +39,7 @@
   description: "Care research in HCI is evolving to encompass a broader spectrum, where care is not only given to and performed by a human care-giver and human care-receiver, but also extends to non-humans like technologies and more-than-humans, including post-human entities. This expansion reflects a growing recognition of the complex, interconnected networks through which care is enacted and experienced across varying scales. To explore the expanding conceptualization of care in HCI, we conducted a literature review of 93 papers, examining both practical and ethico-political focuses across different scales of care. We identified six categories of care conceptualizations: service, repair, intimate, burden, infrastructure, and ethic. We define care in the HCI space, propose a novel tool to support care research, and suggest conceptual spaces for future exploration with a focus on critical care theorists."
   venue: "Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies"
   authors: "Petterson, Adrian,  Jocelyn Mattka, and Priyank Chandra. 2025."
-  doi: "https://doi.org/10.1145/3706598.3713266"
+  doi: "https://doi.org/10.1145/3715335.3735486"
   link:
     url:
     display: "(link)"
@@ -312,5 +312,4 @@
     url: 
     display: (link)
   highlight: 1
-  bibtex: "@inproceedings{chandra2016order, title={Order in the warez scene: explaining an underground virtual community with the CPR framework}, author={Chandra, Priyank}, booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
-  pages={372--383}, year={2016}}"
+  bibtex: "@inproceedings{chandra2016order, title={Order in the warez scene: explaining an underground virtual community with the CPR framework}, author={Chandra, Priyank}, booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},  pages={372--383}, year={2016}}"

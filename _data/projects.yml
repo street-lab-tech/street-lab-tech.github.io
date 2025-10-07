@@ -42,7 +42,7 @@
     url: /research/TechMediatedLabour/HousecleanersToronto.html
   subprojects3: 
     name: Solidarity Economy
-    url: /research/TechMediatedLabour/GigWorkersResistance.html
+    url: /research/TechMediatedLabour/SolidarityEconomy.html
   subprojects4: 
     name: Gig Work and Environmental Hazards
     url: /research/TechMediatedLabour/GigWork_EnvironmentalHazards.html
@@ -82,7 +82,7 @@
     name: Designing Sustainable Reproductive Justice Futures
     url: /research/CareResearch/ReproJustice.html
   subprojects2: 
-    name: Conceptualizaing Care in HCI
+    name: Conceptualizing Care in HCI
     url: /research/CareResearch/careinhci.html
 
 - id: designequity
