@@ -28,8 +28,15 @@ function copyBibTeX(bibtexContent) {
 }
 </script>
 
+<p class="section-jump">
+  Jump to:
+  <a href="#peer-reviewed-publications">Peer-reviewed</a> ·
+  <a href="#short-papers">Short papers</a> ·
+  <a href="#workshops">Workshops</a>
+</p>
 
-## Peer Reviewed Publications
+
+## Peer Reviewed Publications {#peer-reviewed-publications}
 
 {% for publi in site.data.publist %}
 
@@ -52,7 +59,7 @@ function copyBibTeX(bibtexContent) {
 
 {% endfor %}
 
-## Short Papers
+## Short Papers {#short-papers}
 
 {% for publi in site.data.nonpublist %}
 
@@ -72,7 +79,7 @@ function copyBibTeX(bibtexContent) {
 
 {% endfor %}
 
-## Workshops
+## Workshops {#workshops}
 
 {% for publi in site.data.workshops %}
 
