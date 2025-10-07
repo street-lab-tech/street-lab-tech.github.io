@@ -73,23 +73,30 @@ Some broad research projects that we currently work on:
 {% endif %} -->
 
   <p><strong><a href="{{ projects.link.url }}">{{ projects.link.display }}</a></strong></p>
-  
-  {%- assign all_news = site.data.news | sort: "date" | reverse -%}
-  {%- assign pid = projects.id -%}
-  {% assign proj_news = all_news | where_exp: "n", "n.projects contains pid" %}
 
-  {%- assign news_limit = site.project_news_limit | default: 2 | plus: 0 -%}
-  
-  {%- for n in proj_news limit: news_limit -%}
-    {%- assign label = n.title | default: n.headline -%}
-    <p class="text-success">
-      <strong>
-        {%- if n.url and n.url != '' -%}<a href="{{ n.url }}">{{ label }}</a>{%- else -%}{{ label }}{%- endif -%}
-      </strong>
-      {%- if n.date -%}<span class="text-muted"> — {{ n.date | date: "%b %Y" }}</span>{%- endif -%}
-    </p>
-  {%- endfor -%}
+{% assign all_news  = site.data.news | sort: "date" | reverse %}
+{% assign pid       = projects.id %}
+{% assign proj_news = all_news | where_exp: "n", "n.projects contains pid" %}
+{% assign news_limit = site.project_news_limit | default: 2 | plus: 0 %}
 
+{% if proj_news and proj_news.size > 0 %}
+<div class="project-news" markdown="0">
+  <h5 class="project-news-title">News</h5>
+  <ul class="project-news-list">
+    {% for n in proj_news limit: news_limit %}
+      {% assign label = n.title | default: n.headline %}
+      <li>
+        {% if n.url and n.url != "" %}
+          <a href="{{ n.url }}">{{ label }}</a>
+        {% else %}
+          {{ label }}
+        {% endif %}
+        {% if n.date %}<span class="project-news-date"> — {{ n.date | date: "%b %Y" }}</span>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
 
  </div>
 </div>

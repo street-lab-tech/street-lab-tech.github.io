@@ -290,17 +290,23 @@ h1, h2, h3, h4, h5, h6{
                Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-serif: "IBM Plex Serif", Georgia, "Times New Roman", serif;
   --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --link: #1F4A8A;
+  --link-hover: #173A6C;
 }
 
 html { font-size: 16px; }
-body {
+
+body{
   font-family: var(--font-serif);
   line-height: 1.6;
   letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* UI + headings lean sans, readable, not shouty */
-h1, h2, h3, .navbar, .btn, .nav, .well h3, .panel-heading {
+h1, h2, h3, h4, h5, h6,
+.navbar, .btn, .nav, .well h3, .panel-heading{
   font-family: var(--font-sans);
   line-height: 1.25;
   letter-spacing: -0.005em;
@@ -311,8 +317,11 @@ h1, h2, h3, .navbar, .btn, .nav, .well h3, .panel-heading {
 .project article, .page-content { max-width: 72ch; }
 
 /* Code (if used anywhere) */
-code, pre, kbd, samp { font-family: var(--font-mono); font-size: 0.95em; }
+code, pre, kbd, samp{ font-family: var(--font-mono); font-size: 0.95em; }
 
-/* Keep your brand navy; this pairs well with Plex */
-a { color: #1F4A8A; }
-a:hover { color: #173A6C; text-decoration: underline; }
+/* Links (pairs well with brand navy) */
+a{ color: var(--link); }
+a:hover{ color: var(--link-hover); text-decoration: underline; }
+
+
+
