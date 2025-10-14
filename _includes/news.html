@@ -6,7 +6,7 @@
     {% for article in recent limit:5 %}
       {% assign label = article.title | default: article.headline %}
       <p>
-        {{ article.date | date: "%b %d, %Y" }}<br>
+        <b>{{ article.date | date: "%B %d, %Y" }}</b><br>
         {% if article.url and article.url != "" %}
           <a href="{{ article.url }}">{{ label }}</a>
         {% else %}
@@ -15,5 +15,5 @@
       </p>
     {% endfor %}
   </ul>
-  <h4><a href="{{ "/news/" | relative_url }}">... see all News</a></h4>
+  <h5><a href="{{ "/news/" | relative_url }}">... see all News</a></h5>
 </section>

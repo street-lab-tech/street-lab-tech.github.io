@@ -14,7 +14,7 @@
         <div class="col-sm-6 text-center">
           <p></p>
           <img style="max-width:300px; margin-top: -10px; margin-bottom: -1px" src="/images/logo_final.png" alt="The STREET Lab Logo. The globe, the symbol for resistor, and the symbol for grounding">
-          <p>&copy 2022 STREET Lab.<br /> 
+          <p>&copy <span id="year"></span> STREET Lab.<br /> 
             Site made with <a href="https://jekyllrb.com">Jekyll</a>
           </p>
         </div>
@@ -25,3 +25,11 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+
+<script>
+  // Keep the year current without depending on jQuery
+  (function () {
+    var y = document.getElementById('year');
+    if (y) y.textContent = new Date().getFullYear();
+  })();
+</script>
