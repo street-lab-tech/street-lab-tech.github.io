@@ -325,12 +325,3 @@ a:hover{ color: var(--link-hover); text-decoration: underline; }
 
 
 
-/* News list: inline date + title, full-width wrapping; colours unchanged */
-.news-list { margin: 0; padding: 0; }
-.news-item { padding: 0.75rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
-
-/* Date sits inline, does not reserve a column */
-.news-date { font-weight: 600; margin-right: 0.5rem; white-space: normal; }
-
-/* Allow long titles to wrap naturally across the full width */
-.news-title { overflow-wrap: break-word; word-break: normal; white-space: normal; }

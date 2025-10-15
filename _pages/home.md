@@ -14,4 +14,4 @@ Our research is influenced by Human-Computer Interaction (HCI), Information and 
 
 Our work is funded by NSERC, SSHRC, UofT's School of Cities, SDGs@UofT, among others.
 
- **We currently do not have any research assistant positions at the Lab but are open to Masters Thesis or incoming PhD students** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
+ **We currently do not have any research assistant positions at the Lab but are open to Masters Thesis or incoming/current PhD students** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
