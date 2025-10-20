@@ -1,0 +1,9 @@
+C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.6.5/lib/bundler/definition.rb:683:in `materialize': Could not find jekyll-4.3.4, webrick-1.9.0, addressable-2.8.7, i18n-1.14.6, rouge-4.4.0, public_suffix-6.0.1, concurrent-ruby-1.3.4, sass-embedded-1.80.6-x64-mingw-ucrt, listen-3.9.0, rexml-3.3.9, unicode-display_width-2.6.0, google-protobuf-4.28.3-x64-mingw-ucrt, rb-inotify-0.11.1, bigdecimal-3.1.8, rake-13.2.1, ffi-1.17.0-x64-mingw-ucrt in locally installed gems (Bundler::GemNotFound)
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.6.5/lib/bundler/definition.rb:237:in `specs'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.6.5/lib/bundler/definition.rb:304:in `specs_for'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.6.5/lib/bundler/runtime.rb:18:in `setup'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bundler-2.6.5/lib/bundler.rb:167:in `setup'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.3.2/lib/jekyll/plugin_manager.rb:52:in `require_from_bundler'
+	from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.3.2/exe/jekyll:11:in `<top (required)>'
+	from C:/Ruby31-x64/bin/jekyll:32:in `load'
+	from C:/Ruby31-x64/bin/jekyll:32:in `<main>'

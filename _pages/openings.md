@@ -8,7 +8,7 @@ permalink: /vacancies
 # Openings
 
 ### PhD Applications
-For 2026-2027, the lab will not be recruiting any new PhD students. However, if you are already a PhD student, or are an incoming PhD student at the University of Toronto, and are interested in being part of the Lab, you are welcome to reach out. You can send an email with your CV to [Prof. Priyank Chandra](mailto:priyank.chandra@utoronto.ca).
+For 2026-2027, the lab will not be recruiting any new PhD students on topics other than community organizing/social movements. if you are already a PhD student, or are an incoming PhD student at the University of Toronto, and are interested in being part of the Lab, you are welcome to reach out. You can send an email with your CV to [Prof. Priyank Chandra](mailto:priyank.chandra@utoronto.ca).
 **Important**: please include _"Application PhD"_ in the subject line.
 
 ### Masters students at the Faculty of Information
