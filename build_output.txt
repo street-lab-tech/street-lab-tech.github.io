@@ -12,5 +12,11 @@ More info and automated migrator: https://sass-lang.com/d/import
   │         ^^^^^^^^^^^
   ╵
     C:\Users\priya\OneDrive - University of Toronto\Website\street-lab-tech.github.io\css\main.scss 1:9  root stylesheet
-                    done in 1.529 seconds.
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mC:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io/_site/series/afterabortionzine.html[0m[0m
+[33m                     - _pages/series/accessiblecontentreco.md[0m
+[33m                     - _pages/series/afterabortionzine.md[0m
+[33m                    [0m
+                    done in 1.515 seconds.
  Auto-regeneration: disabled. Use --watch to enable.

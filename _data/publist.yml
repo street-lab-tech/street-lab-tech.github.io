@@ -157,7 +157,7 @@
   authors: "Petterson, Adrian, Keith Cheng, and Priyank Chandra. 2023."
   doi: "https://doi.org/10.1145/3544548.3581490"
   link:
-    url: "https://"
+    url: "/papers/Playing_with_Power_Tools.pdf"
     display: "(link)"
   highlight: 1
   bibtex: "@inproceedings{petterson2023playing, title={Playing with Power Tools: Design Toolkits and the Framing of Equity}, author={Petterson, Adrian and Cheng, Keith and Chandra, Priyank}, booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems}, pages={1--24}, year={2023}, doi={https://doi.org/10.1145/3544548.3581490}}"

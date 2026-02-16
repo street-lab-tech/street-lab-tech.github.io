@@ -5,6 +5,22 @@ sitemap: false
 permalink: /resources/
 ---
 
+### Accessibility Resources
+
+<ul>
+  <li>
+    <a href="/files/media/Accessible Content Design Recommendations.pdf">
+      Accessible content design recommendations (brochure, PDF)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/street-lab-tech/Accessibility-Guidelines">
+      Accessibility guidelines for scientific software (GitHub repository)
+    </a>
+  </li>
+</ul>
+
+
 {% assign podcasts = site.data.media_series | where: "type", "podcast" %}
 {% assign videos   = site.data.media_series | where: "type", "video" %}
 {% assign pdfs     = site.data.media_series | where: "type", "pdf" %}
@@ -54,7 +70,7 @@ permalink: /resources/
 {% endif %}
 
 {% if pdfs and pdfs.size > 0 %}
-## Zines
+
 <div class="media-series-list">
 {% for series in pdfs %}
 <article class="media-series-item">

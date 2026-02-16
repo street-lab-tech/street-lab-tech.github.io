@@ -25,3 +25,12 @@
       file: "/files/media/afterabortionzine.pdf"
 
 
+- type: pdf
+  title: "Riding through the smog: A ‘roznamcha’ of ride-sourcing bike taxis"
+  description: "This comic highlight the need for policies that protect workers from work-related risks and proactively promote their health and safety"
+  thumbnail: "/images/series/Riding_bike_taxis_Ashique.jpg"
+  url: "https://fair.work/en/fw/blog/riding-throughthe-smog-a-roznamcha-of-ride-sourcing-bike-taxis/"
+  pdf_files:
+    - title: "Issue"
+      file: "/files/media/riding_bike_taxis.pdf"
+
