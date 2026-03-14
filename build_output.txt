@@ -3,47 +3,5 @@ Configuration file: C:/Users/priya/OneDrive - University of Toronto/Website/stre
        Destination: C:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io/_site
  Incremental build: disabled. Enable with --incremental
       Generating... 
-DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
-
-More info and automated migrator: https://sass-lang.com/d/import
-
-  ╷
-1 │ @import "tokens";
-  │         ^^^^^^^^
-  ╵
-    C:\Users\priya\OneDrive - University of Toronto\Website\street-lab-tech.github.io\css\main.scss 1:9  root stylesheet
-DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
-
-More info and automated migrator: https://sass-lang.com/d/import
-
-  ╷
-2 │ @import "bootstrap-theme";
-  │         ^^^^^^^^^^^^^^^^^
-  ╵
-    C:\Users\priya\OneDrive - University of Toronto\Website\street-lab-tech.github.io\css\main.scss 2:9  root stylesheet
-DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
-
-More info and automated migrator: https://sass-lang.com/d/import
-
-  ╷
-3 │ @import "layout";
-  │         ^^^^^^^^
-  ╵
-    C:\Users\priya\OneDrive - University of Toronto\Website\street-lab-tech.github.io\css\main.scss 3:9  root stylesheet
-DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
-
-More info and automated migrator: https://sass-lang.com/d/import
-
-  ╷
-4 │ @import "components";
-  │         ^^^^^^^^^^^^
-  ╵
-    C:\Users\priya\OneDrive - University of Toronto\Website\street-lab-tech.github.io\css\main.scss 4:9  root stylesheet
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36mC:/Users/priya/OneDrive - University of Toronto/Website/street-lab-tech.github.io/_site/series/afterabortionzine.html[0m[0m
-[33m                     - _pages/series/accessiblecontentreco.md[0m
-[33m                     - _pages/series/afterabortionzine.md[0m
-[33m                    [0m
-                    done in 0.897 seconds.
+                    done in 1.53 seconds.
  Auto-regeneration: disabled. Use --watch to enable.

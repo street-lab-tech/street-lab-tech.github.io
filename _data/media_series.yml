@@ -21,7 +21,7 @@
   thumbnail: "/images/series/after_abortion_support.jpg"
   url: "/series/afterabortionzine.html"
   pdf_files:
-    - title: "Issue"
+    - title: "PDF"
       file: "/files/media/afterabortionzine.pdf"
 
 
@@ -31,6 +31,6 @@
   thumbnail: "/images/series/Riding_bike_taxis_Ashique.jpg"
   url: "https://fair.work/en/fw/blog/riding-throughthe-smog-a-roznamcha-of-ride-sourcing-bike-taxis/"
   pdf_files:
-    - title: "Issue"
+    - title: "PDF"
       file: "/files/media/riding_bike_taxis.pdf"
 

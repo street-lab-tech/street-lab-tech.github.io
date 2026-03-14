@@ -312,3 +312,29 @@ hr,
     max-width: 88px;
   }
 }
+
+.sl-abstract {
+  margin: .75rem 0 1.5rem;
+  padding: .9rem 1rem;
+  background: #f8f9fa;
+  border-left: 4px solid var(--sl-navy);
+  border-radius: .25rem;
+}
+
+.sl-abstract p {
+  margin: 0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.sl-abstract-toggle {
+  padding: .35rem .75rem;
+  border: 1px solid var(--sl-navy);
+  background: #fff;
+  color: var(--sl-navy);
+  border-radius: .25rem;
+}
+
+.sl-abstract-toggle:hover {
+  background: #f8f9fa;
+}
