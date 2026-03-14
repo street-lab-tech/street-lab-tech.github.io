@@ -5,14 +5,14 @@ excerpt: "STREET Lab: Team projects"
 sitemap: false
 permalink: /research/Accessibility/AccessibilityInfrastructure.html
 ---
-<div class="row" style="display: flex;">
+<div class="row">
 
 
-<!--<div class="col-sm-5 clearfix" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-reponsive" width="100%" style="float: left" />
+<!--<div class="col-12 col-md-5 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-fluid" width="100%" style="float: left" />
 </div>-->
 
-<div class="container-fluid">
+<div class="col-12 sl-content">
   <h1>Accessibility Infrastructure in Universities</h1>
   <h3>Carolyn Ly, Trevor Cross, Ishani Pandey, Adrian Petterson, Jocelyn Mattka, Selin Naz Tasman </h3>
   <h4>Ongoing</h4>
@@ -20,14 +20,11 @@ permalink: /research/Accessibility/AccessibilityInfrastructure.html
 
 </div>
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
-<div class="row" style="display: flex;">
+<div class="row">
 
-<div class=" col-sm-12">
+<div class="col-12">
 <h3>Summary</h3>
 The project looks at the socio-technical, economic, cultural, and organizational factors that shape the inclusion of students with disabilities in post-secondary institutions. Specifically, how do existing organizational structures, processes, and policies address accessibility and inclusion of students with disabilities in universities, and how might these policies unintentionally create barriers to access? Further, what are the mismatches and gaps in existing systems of accessibility as experienced by students with disabilities, and how do their experiences differ based on their individual identities?
 

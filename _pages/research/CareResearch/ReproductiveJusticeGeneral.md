@@ -5,14 +5,14 @@ excerpt: "STREET Lab: Team projects"
 sitemap: false
 permalink: /research/CareResearch/ReproJustice.html
 ---
-<div class="row" style="display: flex;">
+<div class="row">
 
 
-<!--<div class="col-sm-5 clearfix" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-reponsive" width="100%" style="float: left" />
+<!--<div class="col-12 col-md-5 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-fluid" width="100%" style="float: left" />
 </div>-->
 
-<div class="container-fluid">
+<div class="col-12 sl-content">
   <h1>Designing Sustainable Reproductive Justice Futures</h1>
   <h3>Adrian Petterson, Priyank Chandra</h3>
   <h4>Ongoing</h4>
@@ -20,14 +20,11 @@ permalink: /research/CareResearch/ReproJustice.html
 
 </div>
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
-<div class="row" style="display: flex;">
+<div class="row">
 
-<div class=" col-sm-12">
+<div class="col-12">
   <h3>Summary</h3>
 This project looks at the ways that technologies are being used by reproductive health organizations to ensure people can exercise their human right to reproductive autonomy. This includes the right to have a child, the right not to have a child, and the right to raise children in a safe and healthful environment (Ross, 2017).
   

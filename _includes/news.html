@@ -1,19 +1,22 @@
-<!-- _includes/news.html -->
-<section class="well" aria-labelledby="news-heading">
-  <h3 id="news-heading">News</h3>
-  <ul class="list-unstyled">
-    {% assign recent = site.data.news | sort: "date" | reverse %}
-    {% for article in recent limit:5 %}
-      {% assign label = article.title | default: article.headline %}
-      <p>
-        <b>{{ article.date | date: "%B %d, %Y" }}</b><br>
-        {% if article.url and article.url != "" %}
-          <a href="{{ article.url }}">{{ label }}</a>
-        {% else %}
-          {{ label }}
-        {% endif %}
-      </p>
-    {% endfor %}
-  </ul>
-  <h5><a href="{{ "/news/" | relative_url }}">... see all News</a></h5>
+<section class="card sl-surface sl-news-card border-0" aria-labelledby="news-heading">
+  <div class="card-body">
+    <h3 id="news-heading" class="h4 mb-3">News</h3>
+    {% assign recent = site.data.news | sort: 'date' | reverse %}
+    <div class="sl-news-list">
+      {% for article in recent limit:5 %}
+        {% assign label = article.title | default: article.headline %}
+        <article class="sl-news-list-item">
+          <p class="mb-1"><strong>{{ article.date | date: "%B %d, %Y" }}</strong></p>
+          <p class="mb-0">
+            {% if article.url and article.url != '' %}
+              <a href="{{ article.url }}">{{ label }}</a>
+            {% else %}
+              {{ label }}
+            {% endif %}
+          </p>
+        </article>
+      {% endfor %}
+    </div>
+    <p class="mb-0 mt-3"><a href="{{ '/news/' | relative_url }}">... see all News</a></p>
+  </div>
 </section>

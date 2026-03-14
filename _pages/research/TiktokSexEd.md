@@ -5,9 +5,9 @@ excerpt: "STREET Lab: Team projects"
 sitemap: false
 permalink: /research/SexEdCensorship.html
 ---
-<div class="row" style="display: flex;">
+<div class="row">
 
-<div class="container-fluid">
+<div class="col-12 sl-content">
   <h1>Sex Ed Creators' Strategies for Circumventing Censorship</h1>
   <h3>Emily Weckend</h3>
   <h4>Completed</h4>
@@ -16,14 +16,11 @@ permalink: /research/SexEdCensorship.html
 
 </div>
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
-<div class="row" style="display: flex;">
+<div class="row">
 
-<div class=" col-sm-12">
+<div class="col-12">
   <h3>Summary</h3>
 The purpose of this project is to investigate what strategies creators on the social media platform TikTok use to circumvent censorship and produce sexual education content by maneuvering the application's affordances.
   <h3>Description</h3>

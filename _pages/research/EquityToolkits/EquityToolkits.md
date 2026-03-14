@@ -5,14 +5,14 @@ excerpt: "STREET Lab: Team projects"
 sitemap: false
 permalink: /research/EquityToolkits/EquityToolkits.html
 ---
-<div class="row" style="display: flex;">
+<div class="row">
 
 
-<!--<div class="col-sm-5 clearfix" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-reponsive" width="100%" style="float: left" />
+<!--<div class="col-12 col-md-5 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-fluid" width="100%" style="float: left" />
 </div>-->
 
-<div class="container-fluid">
+<div class="col-12 sl-content">
   <h1>Design Equity Resources</h1>
   <h3>Adrian Petterson, Carolyn Ly, Trevor Cross, Priyank Chandra</h3>
   <h4>Completed</h4>
@@ -20,14 +20,11 @@ permalink: /research/EquityToolkits/EquityToolkits.html
 
 </div>
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
-<div class="row" style="display: flex;">
+<div class="row">
 
-<div class=" col-sm-12">
+<div class="col-12">
   <h3>Summary</h3>
 This project looks into artifacts, toolkits and frameworks targeted towards the design of more equitable products and systems. We mix critical approaches to analyzing these artifacts against theories of justice, with participatory research in partnership with artifact creators. We ask, how can designers incorporate these artifacts into their practice to shift systems of design towards more equitable futures?
   

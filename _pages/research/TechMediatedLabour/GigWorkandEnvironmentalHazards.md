@@ -5,14 +5,14 @@ excerpt: "STREET Lab: Team projects"
 sitemap: false
 permalink: /research/TechMediatedLabour/GigWork_EnvironmentalHazards.html
 ---
-<div class="row" style="display: flex;">
+<div class="row">
 
 
-<!--<div class="col-sm-5 clearfix" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-reponsive" width="100%" style="float: left" />
+<!--<div class="col-12 col-md-5 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-fluid" width="100%" style="float: left" />
 </div>-->
 
-<div class="container-fluid">
+<div class="col-12 sl-content">
   <h1>Gig Work and Environmental Hazards </h1>
   <h3>Ashique Ali T, Siddhant Shinde, Isabella Jaimes Rodríguez, Dipsita Dhar, Priyank Chandra</h3>
   <h4>Ongoing</h4>
@@ -21,14 +21,11 @@ permalink: /research/TechMediatedLabour/GigWork_EnvironmentalHazards.html
 
 </div>
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
-<div class="row" style="display: flex;">
+<div class="row">
 
-<div class=" col-sm-12">
+<div class="col-12">
   <h2>Summary</h2>
 Workers in location-based digital labour platforms (DLPs) are among the most exposed to environmental hazards and among the most climate-vulnerable groups, yet research on the impacts of climate change on them remains scant (Vu & Nguyen, 2024). In recent years, environmental and climate-related risks, including heat-related illnesses, air pollution and extreme weather events, have disproportionately affected delivery workers and ride-sourcing drivers (Baker & Macon, 2023; Kaye, 2023). This project seeks to examine how environmental hazards and climate change shapes the working conditions, health risks, and resistance strategies of DLP workers. In doing so, the project seeks to work with worker organizations and unions in advancing protections and collective responses.
   

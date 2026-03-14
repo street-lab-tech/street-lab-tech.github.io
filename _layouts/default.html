@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {% include head.html %}
-
   <body>
-    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <a class="visually-hidden-focusable skip-link" href="#main-content">Skip to main content</a>
     {% include header.html %}
 
-    <main id="main-content" class="container-fluid">
-      <div class="row">
+    <main id="main-content" class="container-fluid sl-container sl-page-wrap">
+      <div class="row g-4">
         {{ content }}
       </div>
     </main>
 
     {% include footer.html %}
-
   </body>
-
 </html>

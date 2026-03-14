@@ -1,54 +1,73 @@
-<div class="row" style="margin-bottom:0; margin-right:0%">
-  {% if include.member.photo %}
-    <img
-      src="{{ '/images/teampic/' | append: include.member.photo | relative_url }}"
-      class="img-responsive" width="25%" style="float:left"
-      alt="{{ include.member.alt_text | default: include.member.name }}">
-  {% endif %}
+<article class="sl-team-card">
+  <div class="sl-team-card-header">
+    {% if include.member.photo %}
+      <img
+        src="{{ '/images/teampic/' | append: include.member.photo | relative_url }}"
+        class="img-fluid sl-team-photo"
+        alt="{{ include.member.alt_text | default: include.member.name }}">
+    {% endif %}
 
-  <h4>{{ include.member.name }}</h4>
+    <div class="sl-team-card-copy">
+      <h3 class="sl-team-name">{{ include.member.name }}</h3>
 
-  {% if include.section == 'director' %}
-    {% if include.member.info1 %}{{ include.member.info1 }}{% endif %}
-    {% if include.member.info2 %}<br>{{ include.member.info2 }}{% endif %}
-  {% else %}
-    {% if include.member.info %}<i>{{ include.member.info }}</i>{% endif %}
-    {% if include.member.topics %}<br>Topics: {{ include.member.topics }}{% endif %}
-  {% endif %}
+      {% if include.section == 'director' %}
+        {% if include.member.info1 %}<p class="sl-team-meta mb-1">{{ include.member.info1 }}</p>{% endif %}
+        {% if include.member.info2 %}<p class="sl-team-meta mb-1">{{ include.member.info2 }}</p>{% endif %}
+      {% else %}
+        {% if include.member.info %}<p class="sl-team-meta mb-1"><em>{{ include.member.info }}</em></p>{% endif %}
+        {% if include.member.topics %}<p class="sl-team-topics mb-1">Topics: {{ include.member.topics }}</p>{% endif %}
+      {% endif %}
 
-  {% if include.member.email %}
-    <br><i>email: <a href="mailto:{{ include.member.email }}">{{ include.member.email }}</a></i>
-  {% endif %}
-  {% if include.member.website %}
-    <br><i>website: <a href="{{ include.member.website }}">{{ include.member.website }}</a></i>
-  {% endif %}
-</div>
+      {% if include.member.email or include.member.website %}
+        <p class="sl-team-links mb-0">
+          {% if include.member.email %}<span><a href="mailto:{{ include.member.email }}">{{ include.member.email }}</a></span>{% endif %}
+          {% if include.member.email and include.member.website %}<span aria-hidden="true"> · </span>{% endif %}
+          {% if include.member.website %}<span><a href="{{ include.member.website }}">Website</a></span>{% endif %}
+        </p>
+      {% endif %}
+    </div>
+  </div>
 
-<div class="row" style="margin-bottom:0; margin-right:0%">
-  <ul style="overflow:hidden">
-    {% if include.member.number_educ %}
-      {% for i in (1..include.member.number_educ) %}
+  {% assign has_education = false %}
+  {% for i in (1..5) %}
+    {% assign key = 'education' | append: i %}
+    {% if include.member[key] %}{% assign has_education = true %}{% endif %}
+  {% endfor %}
+
+  {% if has_education %}
+    <ul class="sl-team-edu">
+      {% for i in (1..5) %}
         {% assign key = 'education' | append: i %}
         {% assign val = include.member[key] %}
         {% if val %}<li>{{ val }}</li>{% endif %}
       {% endfor %}
-    {% endif %}
+    </ul>
+  {% endif %}
 
-    {% if include.member.number_proj %}
-      <h5><strong>Projects</strong></h5>
-      {% for i in (1..include.member.number_proj) %}
-        {% assign pkey = 'link_project' | append: i %}
-        {% assign proj = include.member[pkey] %}
-        {% if proj %}
-          <p><strong>
-            {% if proj.url and proj.url != '' %}
-              <a href="{{ proj.url | relative_url }}">{{ proj.display }}</a>
-            {% else %}
-              {{ proj.display }}
-            {% endif %}
-          </strong></p>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  </ul>
-</div>
+  {% assign has_projects = false %}
+  {% for i in (1..5) %}
+    {% assign key = 'link_project' | append: i %}
+    {% if include.member[key] %}{% assign has_projects = true %}{% endif %}
+  {% endfor %}
+
+  {% if has_projects %}
+    <div class="sl-team-projects">
+      <h4 class="h6 mb-2">Projects</h4>
+      <ul class="list-unstyled mb-0">
+        {% for i in (1..5) %}
+          {% assign key = 'link_project' | append: i %}
+          {% assign proj = include.member[key] %}
+          {% if proj %}
+            <li class="mb-1">
+              {% if proj.url and proj.url != '' %}
+                <a href="{{ proj.url | relative_url }}">{{ proj.display }}</a>
+              {% else %}
+                {{ proj.display }}
+              {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+</article>

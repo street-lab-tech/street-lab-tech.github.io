@@ -1,0 +1,27 @@
+:root {
+  --bs-body-font-family: var(--font-serif);
+  --bs-body-line-height: 1.6;
+  --bs-body-color: #1f2937;
+  --bs-heading-color: var(--sl-navy);
+  --bs-link-color: var(--sl-link);
+  --bs-link-hover-color: var(--sl-link-hover);
+  --bs-primary: var(--sl-navy);
+  --bs-primary-rgb: 0, 37, 84;
+  --bs-secondary-color: var(--sl-muted);
+  --bs-border-color: var(--sl-border);
+  --bs-focus-ring-color: rgba(255, 184, 28, .5);
+}
+
+.sl-navbar {
+  --bs-navbar-padding-y: .75rem;
+  --bs-navbar-brand-font-size: 1rem;
+  --bs-navbar-color: rgba(255, 255, 255, .95);
+  --bs-navbar-hover-color: var(--sl-accent);
+  --bs-navbar-active-color: var(--sl-accent);
+  --bs-navbar-brand-color: #fff;
+  --bs-navbar-brand-hover-color: var(--sl-accent);
+  --bs-navbar-toggler-border-color: rgba(255, 255, 255, .35);
+  --bs-navbar-toggler-focus-width: 0.125rem;
+  background-color: var(--sl-navy);
+  border-bottom: 1px solid var(--sl-navy-700);
+}

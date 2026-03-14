@@ -7,14 +7,14 @@ permalink: /research/TechMediatedLabour/
 ---
 {% for project in site.data.research.TechMediatedLabour %}
 
-<div class="row" style="display: flex;">
+<div class="row">
 
 
-<!--<div class="col-sm-5 clearfix" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-reponsive" width="100%" style="float: left" />
+<!--<div class="col-12 col-md-5 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.photo }}" class="img-fluid" width="100%" style="float: left" />
 </div>-->
 
-<div class="h-100 col-sm-12">
+<div class="col-12 h-100">
   <h1>{{ project.title }}</h1>
   <h3>{{project.authors}}</h3>
   <h4>{{project.date}}</h4>
@@ -23,24 +23,18 @@ permalink: /research/TechMediatedLabour/
 
 </div>
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
-<div class="row" style="display: flex;">
+<div class="row">
 
-<div class=" col-sm-12">
+<div class="col-12">
   <h2>Summary</h2>
   {{project.highlight}}
   <h3>Description</h3>
  <p>{{ project.description }}</p>
 
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
 {% if project.subprojects != 0 %}  
 
@@ -79,10 +73,7 @@ permalink: /research/TechMediatedLabour/
   {% endif %}
 
 
-<hr style="margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  border: 0;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);"/>
+<hr class="sl-rule">
 
   
 {% if project.number_papers != 0 %}   
