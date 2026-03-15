@@ -16,7 +16,7 @@ Jump to [PhD students](#phd-students), [master and bachelor students](#master-an
 <div class="row g-4" markdown="0">
   {% for member in site.data.team.director %}
     <div class="col-12 col-md-6">
-      {% include team_card.html member=member section='director' %}
+      {% include team_card.html member=member %}
     </div>
   {% endfor %}
 </div>
@@ -25,7 +25,7 @@ Jump to [PhD students](#phd-students), [master and bachelor students](#master-an
 <div class="row g-4" markdown="0">
   {% for member in site.data.team.phd_students %}
     <div class="col-12 col-md-6">
-      {% include team_card.html member=member section='phd_students' %}
+      {% include team_card.html member=member %}
     </div>
   {% endfor %}
 </div>
@@ -34,7 +34,7 @@ Jump to [PhD students](#phd-students), [master and bachelor students](#master-an
 <div class="row g-4" markdown="0">
   {% for member in site.data.team.students %}
     <div class="col-12 col-md-6">
-      {% include team_card.html member=member section='students' %}
+      {% include team_card.html member=member %}
     </div>
   {% endfor %}
 </div>
@@ -43,7 +43,7 @@ Jump to [PhD students](#phd-students), [master and bachelor students](#master-an
 <div class="row g-4" markdown="0">
   {% for member in site.data.team.external %}
     <div class="col-12 col-md-6">
-      {% include team_card.html member=member section='external' %}
+      {% include team_card.html member=member %}
     </div>
   {% endfor %}
 </div>
@@ -52,7 +52,7 @@ Jump to [PhD students](#phd-students), [master and bachelor students](#master-an
 <div class="row g-4" markdown="0">
   {% for member in site.data.team.collaborators %}
     <div class="col-12 col-md-6">
-      {% include team_card.html member=member section='collaborators' %}
+      {% include team_card.html member=member %}
     </div>
   {% endfor %}
 </div>
@@ -62,7 +62,7 @@ Jump to [PhD students](#phd-students), [master and bachelor students](#master-an
   <div class="col-12 col-md-8">
     <ul class="sl-alumni-list">
       {% for member in site.data.team.alumni %}
-        <li>{{ member.name }}</li>
+        <li>{{ member.name }}{% if member.position %}, <em>{{ member.position }}</em>{% endif %}</li>
       {% endfor %}
     </ul>
   </div>

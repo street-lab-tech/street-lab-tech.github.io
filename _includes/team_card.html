@@ -10,13 +10,8 @@
     <div class="sl-team-card-copy">
       <h3 class="sl-team-name">{{ include.member.name }}</h3>
 
-      {% if include.section == 'director' %}
-        {% if include.member.info1 %}<p class="sl-team-meta mb-1">{{ include.member.info1 }}</p>{% endif %}
-        {% if include.member.info2 %}<p class="sl-team-meta mb-1">{{ include.member.info2 }}</p>{% endif %}
-      {% else %}
-        {% if include.member.info %}<p class="sl-team-meta mb-1"><em>{{ include.member.info }}</em></p>{% endif %}
-        {% if include.member.topics %}<p class="sl-team-topics mb-1">Topics: {{ include.member.topics }}</p>{% endif %}
-      {% endif %}
+      {% if include.member.info %}<p class="sl-team-meta mb-1"><em>{{ include.member.info }}</em></p>{% endif %}
+      {% if include.member.topics %}<p class="sl-team-topics mb-1">Topics: {{ include.member.topics }}</p>{% endif %}
 
       {% if include.member.email or include.member.website %}
         <p class="sl-team-links mb-0">

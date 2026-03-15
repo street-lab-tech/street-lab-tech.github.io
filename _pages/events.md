@@ -1,7 +1,7 @@
 ---
 title: "STREET Lab: Events"
 layout: homelay
-excerpt: "SS"
+excerpt: "Upcoming and past events at the STREET Lab including talks and workshops."
 sitemap: false
 permalink: /events.html
 ---

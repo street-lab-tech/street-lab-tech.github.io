@@ -15,8 +15,9 @@ function toggleAbstract(id, button) {
   button.textContent = isVisible ? "Show Abstract" : "Hide Abstract";
 }
 
-function copyBibTeX(bibtexContent) {
-  navigator.clipboard.writeText(bibtexContent).then(() => {
+function copyBibTeX(el) {
+  var bibtex = el.getAttribute('data-bibtex');
+  navigator.clipboard.writeText(bibtex).then(() => {
     alert("BibTeX copied to clipboard!");
   }).catch(err => {
     console.error("Error copying BibTeX: ", err);
@@ -35,12 +36,12 @@ function copyBibTeX(bibtexContent) {
 
 {% for publi in site.data.publist %}
 <p>
-  <strong>{{ publi.title }}</strong><em> | {{ publi.award }}</em><br />
+  <strong>{{ publi.title }}</strong>{% if publi.award %}<em> | {{ publi.award }}</em>{% endif %}<br />
   {{ publi.authors }}<br />
   <em>{{ publi.venue }}</em><br />
   <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a>
   |
-  <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
+  <a href="javascript:void(0);" onclick="copyBibTeX(this)" data-bibtex="{{ publi.bibtex | escape }}">Copy BibTeX</a>
 </p>
 
 {% assign abs_id = 'abs-peer-' | append: forloop.index %}
@@ -62,13 +63,12 @@ function copyBibTeX(bibtexContent) {
 
 {% for publi in site.data.nonpublist %}
 <p>
-  <strong>{{ publi.title }}</strong>
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  <strong>{{ publi.title }}</strong>{% if publi.link.url and publi.link.url != '' and publi.link.url != 'https://' %} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% endif %}<br />
   {{ publi.authors }}<br />
   <em>{{ publi.venue }}</em><br />
   <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a>
   |
-  <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
+  <a href="javascript:void(0);" onclick="copyBibTeX(this)" data-bibtex="{{ publi.bibtex | escape }}">Copy BibTeX</a>
 </p>
 
 {% assign abs_id = 'abs-short-' | append: forloop.index %}
@@ -90,13 +90,12 @@ function copyBibTeX(bibtexContent) {
 
 {% for publi in site.data.workshops %}
 <p>
-  <strong>{{ publi.title }}</strong>
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  <strong>{{ publi.title }}</strong>{% if publi.link.url and publi.link.url != '' and publi.link.url != 'https://' %} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% endif %}<br />
   {{ publi.authors }}<br />
   <em>{{ publi.venue }}</em><br />
   <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a>
   |
-  <a href="javascript:void(0);" onclick="copyBibTeX('bibtex{{ publi.bibtex }}')">Copy BibTeX</a>
+  <a href="javascript:void(0);" onclick="copyBibTeX(this)" data-bibtex="{{ publi.bibtex | escape }}">Copy BibTeX</a>
 </p>
 
 {% assign abs_id = 'abs-work-' | append: forloop.index %}

@@ -93,7 +93,7 @@
   authors: "Thuppilikkat, Ashique Ali, Dipsita Dhar, and Priyank Chandra. 2024."
   doi: "https://doi.org/10.1145/3687002"
   link:
-    url: "https://"
+    url:
     display: "(link)"
   highlight: 1
   bibtex: "@article{ashiqueunions2024, title={Union Makes Us Strong: Space, Technology, and On-Demand Ride-Sourcing Digital Labour Platforms}, author={Thuppilikkat, Ashique Ali and Dhar, Dipsita and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={8}, number={CSCW2}, pages={1--36}, year={2024}, doi={https://doi.org/10.1145/3687002}}"
@@ -107,7 +107,7 @@
   award: "Honorable Mention 🎖️"
   doi: "https://doi.org/10.1145/3613904.3642263"
   link:
-    url: "https://"
+    url:
     display: "(link)"
   highlight: 1
   bibtex: "@inproceedings{doggett2024migrant, title={Migrant Farmworkers' Experiences of Agricultural Technologies: Implications for Worker Sociality and Desired Change}, author={Doggett, Olivia and Ratto, Matt and Chandra, Priyank}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, pages={1--23}, year={2024}, doi={https://doi.org/10.1145/3613904.3642263}}"
@@ -119,7 +119,7 @@
   authors: "Jit, Sophia S., Jennifer Spinney, Priyank Chandra, Lydia B. Chilton, and Robert Soden. 2024."
   doi: "https://doi.org/10.1145/3613904.3641926"
   link:
-    url: "https://"
+    url:
     display: "(link)"
   highlight: 1
   bibtex: "@inproceedings{jit2024writing, title={Writing out the Storm: Designing and Evaluating Tools for Weather Risk Messaging}, author={Jit, Sophia S. and Spinney, Jennifer and Chandra, Priyank and Chilton, Lydia B. and Soden, Robert}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, pages={1--16}, year={2024}, doi={https://doi.org/10.1145/3613904.3641926}}"
@@ -131,7 +131,7 @@
   authors: "Petterson, Adrian, Isabella Rodriguez, Olivia Doggett, and Priyank Chandra. 2024."
   doi: "https://doi.org/10.1145/3613904.3642200"
   link:
-    url: "https://"
+    url:
     display: "(link)"
   highlight: 1
   bibtex: "@inproceedings{petterson2024networks, title={Networks of care in digital domestic labour economies}, author={Petterson, Adrian and Rodriguez, Isabella Jaimes and Doggett, Olivia and Chandra, Priyank}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, pages={1--16}, year={2024}, doi={https://doi.org/10.1145/3613904.3642200}}"
@@ -144,7 +144,7 @@
   authors: "Caidi, Nadia, Cansu Ekmekcioglu, Rojin Jamali, and Priyank Chandra. 2023."
   doi: "https://doi.org/10.1145/3610040"
   link:
-    url: "https://"
+    url:
     display: "(link)"
   highlight: 1
   bibtex: "@article{caidi2023re, title={(Re) Capturing the Spirit of Ramadan: Techno-Religious Practices in the Time of COVID-19}, author={Caidi, Nadia and Ekmekcioglu, Cansu and Jamali, Rojin and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={7}, number={CSCW2}, pages={1--25}, year={2023}, doi={https://doi.org/10.1145/3610040}}"
@@ -157,7 +157,7 @@
   authors: "Petterson, Adrian, Keith Cheng, and Priyank Chandra. 2023."
   doi: "https://doi.org/10.1145/3544548.3581490"
   link:
-    url: "/papers/Playing_with_Power_Tools.pdf"
+    url: "/files/papers/Playing_with_Power_Tools.pdf"
     display: "(link)"
   highlight: 1
   bibtex: "@inproceedings{petterson2023playing, title={Playing with Power Tools: Design Toolkits and the Framing of Equity}, author={Petterson, Adrian and Cheng, Keith and Chandra, Priyank}, booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems}, pages={1--24}, year={2023}, doi={https://doi.org/10.1145/3544548.3581490}}"
@@ -171,7 +171,7 @@
   award: "DEI Recognition 🌍"
   doi: "https://doi.org/10.1145/3555547"
   link:
-    url: "https://"
+    url:
     display: "(link)"
   highlight: 1
   bibtex: "@article{gupta2022ladange, title={Ladange, Adange, Jeetange: The Farmers' Movement and Its Virtual Spaces}, author={Gupta, Paridhi and Petterson, Adrian and Motla, Divyani and Chandra, Priyank}, journal={Proceedings of the ACM on Human-Computer Interaction}, volume={6}, number={CSCW2}, pages={1--34}, year={2022}, doi={https://doi.org/10.1145/3555547}}"
@@ -197,7 +197,7 @@
   authors: "Caidi, Nadia, Cansu Ekmekcioglu, Rojin Jamali, and Priyank Chandra. 2022."
   doi: "https://doi.org/10.47989/irisic2235"
   link:
-    url: "https://"
+    url:
     display: "(link)"
   highlight: 1
   bibtex: "@article{caidi2022socially, title={Socially-distant fasting: Information practices of young Muslims during the COVID-19 pandemic}, author={Caidi, Nadia and Ekmekcioglu, Cansu and Jamali, Rojin and Chandra, Priyank}, journal={Journal of Information Research}, year={2022}, doi={https://doi.org/10.47989/irisic2235}}"

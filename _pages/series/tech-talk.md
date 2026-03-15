@@ -4,7 +4,7 @@ title: "Tech Talks Podcast"
 description: "A podcast series"
 date: 2025-03-10
 thumbnail: "images/series/tech_talks.jpg"
-permalink: series/tech-talk.html
+permalink: /series/tech-talk.html
 ---
 
 Welcome to the ** Podcast** series.

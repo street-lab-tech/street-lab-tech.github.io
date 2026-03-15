@@ -29,10 +29,10 @@
   description: The use of digital technologies in grassroots community organizing has multifaceted implications. It has extended the scope of sharing information and experiences, building solidarities and coordination, and fostering common identities to enable participation and amplify the voice of diverse actors in social movements. However, the rise of surveillance technologies, computational propaganda and internet shutdowns are creating novel barriers to democratic action, particularly affecting the participatory parity of marginalized grassroots groups. This one-day hybrid workshop will invite conversations on the complex interrelation between ICTs and social movements and devise ways to support grassroots movements by bringing together HCI researchers, activists and designers. We invite formal position papers to participate in workshop and encourage participants to ideate and contribute to creating zines that can serve as a helpful resource for supporting grassroots movements.
   venue: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
   authors: Petterson, Adrian, Ashique Ali Thuppilikkat,  Paridhi and Gupta, Shamika Klassen, Margaret C Jack, Jun Liu, and Priyank Chandra (2023)
-  doi: https://doi.org/10.1145/3411763.3451822
+  doi: https://doi.org/10.1145/3544549.3573812
   link:
-    url: 
-    display: 
+    url:
+    display:
   highlight: 1
   bibtex: "@inproceedings{10.1145/3544549.3573812, author = {Petterson, Adrian and Thuppilikkat, Ashique Ali and Gupta, Paridhi and Klassen, Shamika and Jack, Margaret C and Liu, Jun and Chandra, Priyank}, title = {Supporting Social Movements Through HCI and Design}, year = {2023}, isbn = {9781450394222}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3544549.3573812}, doi = {10.1145/3544549.3573812}, abstract = {}, booktitle = {Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems}, articleno = {364}, numpages = {5}, keywords = {Activism, Design, Social Movements},location = {Hamburg, Germany}, series = {CHI EA '23}}"
 

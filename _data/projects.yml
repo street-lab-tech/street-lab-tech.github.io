@@ -33,8 +33,8 @@
     url: 
     display: 
   highlight: 1
-  subprojects: 3
-  subprojects1: 
+  subprojects: 4
+  subprojects1:
     name: Gig Work and Unions
     url: /research/TechMediatedLabour/GigWorkUnions.html
   subprojects2: 
@@ -42,7 +42,7 @@
     url: /research/TechMediatedLabour/HousecleanersToronto.html
   subprojects3: 
     name: Solidarity Economy
-    url: /research/TechMediatedLabour/SolidarityEconomy.html
+    url: /research/TechMediatedLabour/SolidarityEconomies.html
   subprojects4: 
     name: Gig Work and Environmental Hazards
     url: /research/TechMediatedLabour/GigWork_EnvironmentalHazards.html

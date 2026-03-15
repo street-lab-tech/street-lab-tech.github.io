@@ -126,6 +126,10 @@ hr,
 
 .sl-team-card {
   margin-bottom: 1rem;
+  background: var(--sl-navy-050);
+  border: 1px solid var(--sl-border);
+  border-radius: 0.375rem;
+  padding: 1rem;
 }
 
 .sl-team-card-header {
@@ -194,6 +198,14 @@ hr,
   padding-right: 0;
 }
 
+.sl-status-ongoing {
+  color: #1d6c3e;
+}
+
+.sl-status-completed {
+  color: var(--sl-muted);
+}
+
 .sl-project img {
   max-width: 100%;
   height: auto;
@@ -238,6 +250,10 @@ hr,
   flex-direction: column;
   height: 100%;
   gap: 1rem;
+  background: var(--sl-navy-050);
+  border: 1px solid var(--sl-border);
+  border-radius: 0.375rem;
+  padding: 1rem;
 }
 
 .media-series-item-copy {

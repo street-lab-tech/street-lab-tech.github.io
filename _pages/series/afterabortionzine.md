@@ -4,7 +4,7 @@ title: "After Abortion Support"
 description: "This zine is for people who want to help others getting abortions"
 date: 2025-02-15
 thumbnail: "images/series/afterabortionzine.jpg"
-permalink: series/afterabortionzine.html
+permalink: /series/afterabortionzine.html
 pdf_files:
   - title: "After Abortion Support"
     file: "/files/media/afterabortionzine.pdf"
