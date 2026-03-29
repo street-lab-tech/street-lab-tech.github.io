@@ -33,7 +33,7 @@ phd_students:
   photo: Ashique.jpg
   alt_text: Headshot of Ashique Ali Thuppilikkat
   info: PhD student - Faculty of Information, University of Toronto
-  topics: Technology and resistance, labour platforms, social movements, caste, marginality
+  topics: Labour platforms, social movements, caste, marginality
   email: ashique.thuppilikkat@mail.utoronto.ca
   website: https://ashiquealit.my.canva.site/
   education1: M.Phil and MA in Political Science from the Centre for Political Studies, Jawaharlal Nehru University, New Delhi, India
@@ -102,7 +102,7 @@ students:
 external:
 - name: Carolyn Kim Ly
   photo: Carolyn.jpg
-  info: Masters - Faculty of Information, University of Toronto
+  info: Masters - Faculty of Information, University of Toronto (Graduated)
   topics: Design thinking and race, accessibility
   email: ck.ly@mail.utoronto.ca
   education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
@@ -111,19 +111,9 @@ external:
     url: /research/Accessibility/AccessibilityInfrastructure.html
     display: Accessibility Infrastructure in Universities
 
-- name: Jaydon Brown
-  photo: Jaydon_Brown_Photo.jpg
-  info: Master of Information (MI), Faculty of Information, University of Toronto
-  topics: Social movements, Black diaspora, platform governance
-  education1: Master of Information at the University of Toronto, Toronto, Canada
-  education2: Bachelor of Arts, University of Toronto, Scarborough, Canada
-  link_project1:
-    url: /research/
-    display: The Afterlife of Black Lives Matter (BLM) Coalitions
-
 - name: Trevor Cross
   photo: trevor_img.jpg
-  info: Masters - Faculty of Information, University of Toronto
+  info: Masters - Faculty of Information, University of Toronto (Graduated)
   topics: Gerontology, participatory design, accessibility
   email: trevor.cross@mail.utoronto.ca
   education1: Master of Information in User Experience Design at the University of Toronto
@@ -137,36 +127,13 @@ external:
 
 - name: Marco Chan
   photo: marco-pikachu.png
-  info: Masters Student in Human-Centered Data Science and Information Systems and Design (2nd Year)
+  info: Masters - Faculty of Information, University of Toronto (Graduated)
   topics: ICTs, Transnational Social Movements, Resistance
   education1: Master of Information at the University of Toronto, Toronto, Canada
   education2: Bachelor of Business Administration at City University of Hong Kong
   link_project1:
     url: /research/
     display: HongKong Diaspora and Protests
-
-- name: Janna Akimova
-  photo: Janna.jpeg
-  info: RA studying the Belarusian Social Movement
-  education1: Bachelor of Liberal Arts (BLA), focus on Visual Studies & Psychology, The Schools of Public Engagement, The New School, NYC, USA
-  education2: APP in Documentary Film, focus on Visual Theory, The Film and TV School of the Academy of Performing Arts (FAMU), Prague, Czech Republic
-  link_project1:
-    url: /research/SocialMovements/BelarusianSocialMovement.html
-    display: ICTs and Belarusian Social Movement
-
-- name: Ishani Pandey
-  photo: Ishani.jpg
-  info: Masters student in User Experience Design (1st Year) - Faculty of Information, University of Toronto
-  topics: Accessibility, instructional design
-  email: ishani.pandey@mail.utoronto.ca
-  education1: Master of Information, User Experience Design, University of Toronto, Toronto, Canada
-  education2: Bachelor of Design, CEPT University, Ahmedabad, India
-  link_project1:
-    url: /research/Accessibility/AccessibilityInfrastructure.html
-    display: Accessibility Infrastructure in Universities
-  link_project2:
-    url: /research/Accessibility/AIDE.html
-    display: Accessible & Inclusive Data Science (AIDE)
 
 - name: Thaksha Krishnagumar
   photo: thaksha.jpg
@@ -224,6 +191,9 @@ collaborators:
 
 
 alumni:
+- name: Ishani Pandey
+- name: Janna Akimova
+- name: Jaydon Brown
 - name: Gozie Nwaka
   position: Masters, Harvard Graduate School of Education
 - name: Keith Cheng
@@ -232,6 +202,7 @@ alumni:
   position: Ontario Ministry of Transportation
 - name: Alex Parent
   position: PhD, NYU
+- name: Kit Haehnal
 - name: Azhagu Meena
   position: PhD, Faculty of Information
 - name: Moria (Masha) Piroshkova

@@ -22,27 +22,17 @@ Some broad research projects that we currently work on:
         <p>{{ projects.description }}</p>
         <p><strong>Researchers:</strong> {{ projects.authors }}</p>
 
-        {% assign has_sp = false %}
-        {% for i in (1..12) %}
-          {% assign key = 'subprojects' | append: i %}
-          {% if projects[key] %}{% assign has_sp = true %}{% endif %}
-        {% endfor %}
-
-        {% if has_sp %}
+        {% if projects.subprojects and projects.subprojects.size > 0 %}
           <p class="mb-2"><strong>Subprojects:</strong></p>
           <ul class="list-unstyled mb-3">
-            {% for i in (1..12) %}
-              {% assign key = 'subprojects' | append: i %}
-              {% assign sp = projects[key] %}
-              {% if sp %}
-                <li class="mb-1">
-                  {% if sp.url and sp.url != '' %}
-                    <a href="{{ sp.url | relative_url }}">{{ sp.name }}</a>
-                  {% else %}
-                    {{ sp.name }}
-                  {% endif %}
-                </li>
-              {% endif %}
+            {% for sp in projects.subprojects %}
+              <li class="mb-1">
+                {% if sp.url and sp.url != '' %}
+                  <a href="{{ sp.url | relative_url }}">{{ sp.name }}</a>
+                {% else %}
+                  {{ sp.name }}
+                {% endif %}
+              </li>
             {% endfor %}
           </ul>
         {% endif %}

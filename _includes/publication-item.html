@@ -1,0 +1,21 @@
+<p>
+  <strong>{{ include.publi.title }}</strong>{% if include.publi.award %}<em> | {{ include.publi.award }}</em>{% endif %}<br />
+  {{ include.publi.authors }}<br />
+  <em>{{ include.publi.venue }}</em><br />
+  {% if include.publi.doi and include.publi.doi != '' %}<a href="{{ include.publi.doi }}" target="_blank">{{ include.publi.doi }}</a>{% endif %}{% if include.publi.doi and include.publi.doi != '' and include.publi.bibtex and include.publi.bibtex != '' %} | {% endif %}{% if include.publi.bibtex and include.publi.bibtex != '' %}<a href="javascript:void(0);" onclick="copyBibTeX(this)" data-bibtex="{{ include.publi.bibtex | escape }}">Copy BibTeX</a>{% endif %}{% if include.publi.link.url and include.publi.link.url != '' %} | <a href="{{ include.publi.link.url }}" target="_blank" class="sl-pdf-link">PDF</a>{% endif %}
+</p>
+{% if include.publi.description and include.publi.description != '' %}
+<p>
+  <button type="button"
+          class="sl-abstract-toggle"
+          onclick="toggleAbstract('{{ include.abs_id }}', this)"
+          aria-expanded="false"
+          aria-controls="{{ include.abs_id }}">
+    Show Abstract
+  </button>
+</p>
+<div id="{{ include.abs_id }}" class="sl-abstract" style="display:none" role="region" aria-live="polite">
+  <p>{{ include.publi.description | strip }}</p>
+</div>
+{% endif %}
+{% if include.publi.projects %}{% assign proj_names = '' %}{% for proj_id in include.publi.projects %}{% assign proj = site.data.projects | where: "id", proj_id | first %}{% if proj %}{% if proj_names == '' %}{% assign proj_names = proj.title %}{% else %}{% assign proj_names = proj_names | append: ' · ' | append: proj.title %}{% endif %}{% endif %}{% endfor %}{% if proj_names != '' %}<p class="sl-pub-project">Project: {{ proj_names }}</p>{% endif %}{% endif %}

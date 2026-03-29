@@ -1,50 +1,100 @@
 - title: "Reimagining Social Media and Social Movements in Crisis: A Workshop on Empirics, Theory and Research Guidance"
-  image: 
   description: We propose hosting a design workshop style sprint to create a list of guidance for researchers who study the links between social media and social movements, based on the collective knowledge-making of researchers and practitioners interested in varied social movements across global contexts. The guidance will be split into current empirical/tactical knowledge of social media use in social movements, theoretical provocations, and best practices for ethical and safety considerations for researchers working in this field.
   venue: Adjunct Proceedings of the Sixth Decennial Aarhus Conference - Computing X Crisis
-  authors: Petterson, Adrian, Priyank Chandra, Alex Jiahong Lu, and Margaret Jack (2025)
+  year: "2025"
+  authors: Petterson, Adrian, Priyank Chandra, Alex Jiahong Lu, and Margaret Jack
   doi: https://doi.org/10.1145/3737609.3747090
+  projects:
+    - tech-social-movement
   link:
-    url: https://
+    url: 
     display: 
-  research:
-  highlight: 1
   bibtex: "@inproceedings{10.1145/3737609.3747090, author = {Petterson, Adrian and Chandra, Priyank and Lu, Alex Jiahong and Jack, Margaret}, title = {Reimagining Social Media and Social Movements in Crisis: A Workshop on   Empirics, Theory and Research Guidance}, year = {2025}, isbn = {9798400719684}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3737609.3747090}, doi = {10.1145/3737609.3747090}, booktitle = {Adjunct Proceedings of the Sixth Decennial Aarhus Conference: Computing X Crisis}, articleno = {28}, numpages = {4}, keywords = {social movement, social media}, location = {}, series = {AAR Adjunct '25}}"
 
 - title: "(Re)working for Sustainable Futures: Climate Change and Platform Economies"
-  image: 
   description: From HCI and CSCW to labour studies and human geography, disciplines are expanding their scholarly focus to address the increasingly dire consequences of climate change. At the same time, there is growing attention being paid to the rise and ubiquity of platform companies across societal sectors, such as communication, transportation, and work. However, although climate change and platform economies affect one another, they are rarely examined in relation to each other. This multi-part workshop aims to build an interdisciplinary research foundation for critical studies of climate change and platform economies. Participants will critically engage with three intersecting themes in discourses on climate change and platform economies—labour, data, and infrastructure. Through activities such as lightning talks, mapping exercises, and reflective discussions, participants will collaboratively develop a living syllabus and a shared resource database to (re)work and design pathways toward more sustainable futures.
   venue: Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies
-  authors: Thuppilikkat, Ashique Ali, Hiu-Fung Chung, Kaushar Mahetaji, Anubha Singh, Nussara Tieanklin, Isabella Jaimes Rodriguez, Jen Liu, Noopur Raval, and Priyank Chandra (2025)
+  year: "2025"
+  authors: Thuppilikkat, Ashique Ali, Hiu-Fung Chung, Kaushar Mahetaji, Anubha Singh, Nussara Tieanklin, Isabella Jaimes Rodriguez, Jen Liu, Noopur Raval, and Priyank Chandra
   doi: https://doi.org/10.1145/3715335.3737685
+  projects:
+    - tech-labour-practices
   link:
-    url: https://
+    url: 
     display:
-  research:
-  highlight: 1
   bibtex: "@inproceedings{10.1145/3715335.3737685, author = {Thuppilikkat, Ashique Ali and Chung, Hiu-Fung and Mahetaji, Kaushar and Singh, Anubha and Tieanklin, Nussara and Rodriguez, Isabella Jaimes and Liu, Jen and Raval, Noopur and Chandra, Priyank}, title = {(Re)working for Sustainable Futures: Climate Change and Platform Economies}, year = {2025}, isbn = {9798400714849}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3715335.3737685}, doi = {10.1145/3715335.3737685}, booktitle = {Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies}, pages = {848–852}, numpages = {5}, keywords = {Climate Change, Platform Economies, Labour, Data, Infrastructure.}, location = {}, series = {COMPASS '25}}"
 
-- title: "Supporting Social Movements Through HCI and Design"
-  image: 
-  description: The use of digital technologies in grassroots community organizing has multifaceted implications. It has extended the scope of sharing information and experiences, building solidarities and coordination, and fostering common identities to enable participation and amplify the voice of diverse actors in social movements. However, the rise of surveillance technologies, computational propaganda and internet shutdowns are creating novel barriers to democratic action, particularly affecting the participatory parity of marginalized grassroots groups. This one-day hybrid workshop will invite conversations on the complex interrelation between ICTs and social movements and devise ways to support grassroots movements by bringing together HCI researchers, activists and designers. We invite formal position papers to participate in workshop and encourage participants to ideate and contribute to creating zines that can serve as a helpful resource for supporting grassroots movements.
-  venue: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
-  authors: Petterson, Adrian, Ashique Ali Thuppilikkat,  Paridhi and Gupta, Shamika Klassen, Margaret C Jack, Jun Liu, and Priyank Chandra (2023)
-  doi: https://doi.org/10.1145/3544549.3573812
+- title: "Conducting Research in Oppressive Settings"
+  description: As justice-related research faces increasing transnational and domestic repression, researchers working on topics such as reproductive justice, LGBTQ2SIA+ equity, decolonization, climate justice, and social movements face increasing constraints and risks. Although the CSCW community has increasingly advocated for research in these domains, the current political climate exacerbates the precarity experienced by scholars engaged in this work. Institutional mechanisms such as ethics approvals frequently fail to address researchers' safety concerns, particularly those from marginalized communities themselves. Collaborators within the same project experience varying levels of risk based on location, career stage, and identity. This Special Interest Group (SIG) will facilitate dialogue on practical strategies for conducting research in oppressive contexts, drawing on the expertise of researchers who have developed survival and safety tactics. The discussions will address data storage practices, visibility considerations, transnational collaboration strategies, and psychological safety mechanisms. Our goal is to establish a collaboratively curated resource collection that supports researchers as they navigate oppressions in their collaborations, recognizing that these threats continue to grow in scale and intensity.
+  venue: Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing
+  year: "2025"
+  authors: Petterson, Adrian, Benedetta Lusi, Cristina Bosco, Ashique Ali Thuppilikkat, Anupriya Tuli, Catherine Wieczorek, Robert Soden, Emily Tseng, and Priyank Chandra
+  doi:
+  link:
+    url: https://programs.sigchi.org/cscw/2025
+    display:
+  bibtex: "@inproceedings{petterson2025conducting, title={Conducting Research in Oppressive Settings}, author={Petterson, Adrian and Lusi, Benedetta and Bosco, Cristina and Thuppilikkat, Ashique Ali and Tuli, Anupriya and Wieczorek, Catherine and Soden, Robert and Tseng, Emily and Chandra, Priyank}, booktitle={Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing}, pages={88--91}, year={2025}}"
+
+- title: "Activism Theory, Activist Practice: Bridging Boundaries Between Researching and Doing Activism"
+  description:
+  venue: International Communication Association (ICA) 2025
+  year: "2025"
+  authors: Liu, Jun, Guobin Yang, Chris Chao Su, Priyank Chandra, and Mads Skovgaard
+  doi:
+  projects:
+    - tech-social-movement
   link:
     url:
     display:
-  highlight: 1
+  bibtex:
+
+- title: "Organizing for More Just and Inclusive Futures: A Community Discussion"
+  description: This Special Interest Group brings together researchers and practitioners to examine the critical questions, innovative methods and emerging possibilities that arise from an orientation toward disability justice within CSCW research particularly and HCI research more broadly. We will focus on how digital technologies influence the ways disabled people organize and advocate for their rights, and how disabled people influence and configure technologies as well. By attending to the intersections of technology, disability justice, and social movements, we aim to explore how HCI and CSCW research can support the organizing efforts of disabled communities. This SIG emphasizes the ways in which disabled people and communities have been organizing and are continuing to organize in response to various forms of oppression. The SIG will provide a platform for scholars and activists to engage in conversations around technologies, disability justice, and social movements. By centering disability justice as a framework, we hope to foster a deeper understanding of how HCI and CSCW research can support and amplify the efforts of disabled communities. Participants will share their insights, collaborate on research ideas, and contribute to a collective vision of a more inclusive and justice-oriented HCI and CSCW. Through these discussions, we aim to generate actionable strategies for future research and practice in supporting organizing efforts.
+  venue: Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing
+  year: "2024"
+  authors: Fernandes, Kim, Rahaf Alharbi, Cella Sum, Vaishnav Kameswaran, Franchesca Spektor, Ashique Ali Thuppilikkat, Adrian Petterson, Megh Marathe, Foad Hamidi, and Priyank Chandra
+  doi:
+  link:
+    url: https://programs.sigchi.org/cscw/2024
+    display:
+  bibtex: "@inproceedings{fernandes2024organizing, title={Organizing for More Just and Inclusive Futures: A Community Discussion}, author={Fernandes, Kim and Alharbi, Rahaf and Sum, Cella and Kameswaran, Vaishnav and Spektor, Franchesca and Thuppilikkat, Ashique Ali and Petterson, Adrian and Marathe, Megh and Hamidi, Foad and Chandra, Priyank}, booktitle={Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing}, pages={689--692}, year={2024}}"
+
+- title: "Reimagining Digital Activism: Navigating Complexities and Forging New Perspectives"
+  description:
+  venue: International Communication Association (ICA) 2024
+  year: "2024"
+  authors: Liu, Jun, Guobin Yang, Chris Chao Su, Giuliana Sorce, Delia Dumitrica, Priyank Chandra, and Joyce Nip
+  doi:
+  projects:
+    - tech-social-movement
+  link:
+    url:
+    display:
+  bibtex:
+
+- title: "Supporting Social Movements Through HCI and Design"
+  description: The use of digital technologies in grassroots community organizing has multifaceted implications. It has extended the scope of sharing information and experiences, building solidarities and coordination, and fostering common identities to enable participation and amplify the voice of diverse actors in social movements. However, the rise of surveillance technologies, computational propaganda and internet shutdowns are creating novel barriers to democratic action, particularly affecting the participatory parity of marginalized grassroots groups. This one-day hybrid workshop will invite conversations on the complex interrelation between ICTs and social movements and devise ways to support grassroots movements by bringing together HCI researchers, activists and designers. We invite formal position papers to participate in workshop and encourage participants to ideate and contribute to creating zines that can serve as a helpful resource for supporting grassroots movements.
+  venue: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
+  year: "2023"
+  authors: Petterson, Adrian, Ashique Ali Thuppilikkat,  Paridhi and Gupta, Shamika Klassen, Margaret C Jack, Jun Liu, and Priyank Chandra
+  doi: https://doi.org/10.1145/3544549.3573812
+  projects:
+    - tech-social-movement
+  link:
+    url:
+    display:
   bibtex: "@inproceedings{10.1145/3544549.3573812, author = {Petterson, Adrian and Thuppilikkat, Ashique Ali and Gupta, Paridhi and Klassen, Shamika and Jack, Margaret C and Liu, Jun and Chandra, Priyank}, title = {Supporting Social Movements Through HCI and Design}, year = {2023}, isbn = {9781450394222}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3544549.3573812}, doi = {10.1145/3544549.3573812}, abstract = {}, booktitle = {Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems}, articleno = {364}, numpages = {5}, keywords = {Activism, Design, Social Movements},location = {Hamburg, Germany}, series = {CHI EA '23}}"
 
 
 - title: "Outsourcing Artificial Intelligence: Responding to the Reassertion of the Human Element into Automation"
-  image: 
   description: Science fiction imaginaries and Silicon Valley innovators have long envisioned a workerless future. However, this industrial ambition has often outpaced technological realities in robotics and artificial intelligence, leading to a reassertion of human skills to cover untenable gaps in autonomous systems. This one-day workshop will invite discussion on this recent retrograde trend toward precarious (and often concealed) human labour across such domains as agriculture, transportation, and caregiving through paper presentations and design activities. Throughout, we will ask how this phenomenon speaks to engineering and design challenges and, subsequently, encourage participants to ideate new cybernetic arrangements that centre the agency and well-being of essential workers.
   venue: Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems
-  authors: Iantorno, Mathew, Olivia Doggett, Priyank Chandra, Julie Yujie Chen, Rosemary Steup, Noopur Raval, Vera Khovanskaya, Laura Lam, Anubha Singh, Sarah Rotz, and Matt Ratto (2022)
+  year: "2022"
+  authors: Iantorno, Mathew, Olivia Doggett, Priyank Chandra, Julie Yujie Chen, Rosemary Steup, Noopur Raval, Vera Khovanskaya, Laura Lam, Anubha Singh, Sarah Rotz, and Matt Ratto
   doi: https://doi.org/10.1145/3491101.3503720
+  projects:
+    - tech-labour-practices
   link:
     url: 
     display: 
-  highlight: 1
   bibtex: "@inproceedings{10.1145/3491101.3503720, author = {Iantorno, Mathew and Doggett, Olivia and Chandra, Priyank and Yujie Chen, Julie and Steup, Rosemary and Raval, Noopur and Khovanskaya, Vera and Lam, Laura and Singh, Anubha and Rotz, Sarah and Ratto, Matt}, title = {Outsourcing Artificial Intelligence: Responding to the Reassertion of the Human Element into Automation}, year = {2022}, isbn = {9781450391566}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3491101.3503720}, doi = {10.1145/3491101.3503720}, abstract = {}, booktitle = {Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems}, articleno = {103}, numpages = {5}, location = {New Orleans, LA, USA}, series = {CHI EA '22}}"

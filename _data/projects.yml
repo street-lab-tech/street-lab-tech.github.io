@@ -1,128 +1,106 @@
 - id: tech-social-movement
   title: "Technology Use in Social Movements"
-  image: 
   description: How are social movements using technologies? How can we support them?
   authors: Ashique Ali T, Paridhi Gupta, Cagdas Dedeoglu, Cansu Ekmekcioglu, Janna Akimova, Jaydon Brown, Marco Chan
   link:
     url:
     display:
   highlight: 1
-  subprojects: 5
-  subprojects1: 
-    name: Turkey Bogazici Protests
-    url: /research/SocialMovements/TurkeyBogaziciProtests.html
-  subprojects2: 
-    name: Indian Farmer Protests
-    url: /research/SocialMovements/IndianFarmersProtests.html
-  subprojects3: 
-    name: Belarusian Social Movement
-    url: /research/SocialMovements/BelarusianSocialMovement.html
-  subprojects4:
-    name: Hong Kong Diaspora and Protests
-    url: 
-  subprojects5:
-    name: The Afterlife of Black Lives Matter (BLM) Coalitions
-    url: 
+  subprojects:
+    - name: Turkey Bogazici Protests
+      url: /research/SocialMovements/TurkeyBogaziciProtests.html
+    - name: Indian Farmer Protests
+      url: /research/SocialMovements/IndianFarmersProtests.html
+    - name: Belarusian Social Movement
+      url: /research/SocialMovements/BelarusianSocialMovement.html
+    - name: Hong Kong Diaspora and Protests
+      url:
+    - name: The Afterlife of Black Lives Matter (BLM) Coalitions
+      url:
 
 - id: tech-labour-practices
   title: "Tech-mediated Labour Practices"
-  image: 
   description: How do technologies (and algorithmic management) shape labour experiences?
   authors: Ashique Ali T, Siddhant Shinde, Adrian Petterson, Isabella Rodriguez, Olivia Doggett
   link:
-    url: 
-    display: 
+    url:
+    display:
   highlight: 1
-  subprojects: 4
-  subprojects1:
-    name: Gig Work and Unions
-    url: /research/TechMediatedLabour/GigWorkUnions.html
-  subprojects2: 
-    name: Latino Housecleaners in Toronto
-    url: /research/TechMediatedLabour/HousecleanersToronto.html
-  subprojects3: 
-    name: Solidarity Economy
-    url: /research/TechMediatedLabour/SolidarityEconomies.html
-  subprojects4: 
-    name: Gig Work and Environmental Hazards
-    url: /research/TechMediatedLabour/GigWork_EnvironmentalHazards.html
-  
+  subprojects:
+    - name: Gig Work and Unions
+      url: /research/TechMediatedLabour/GigWorkUnions.html
+    - name: Latino Housecleaners in Toronto
+      url: /research/TechMediatedLabour/HousecleanersToronto.html
+    - name: Solidarity Economy
+      url: /research/TechMediatedLabour/SolidarityEconomies.html
+    - name: Gig Work and Environmental Hazards
+      url: /research/TechMediatedLabour/GigWork_EnvironmentalHazards.html
+
 - id: accessibility
   title: "Accessibility-related Research"
-  image: 
   description: How can we build more inclusive systems and processes?
-  authors: Carolyn Ly, Trevor Cross, Ishani Pandey, Adrian Petterson, Sid Shinde
+  authors: Carolyn Ly, Trevor Cross, Ishani Pandey, Adrian Petterson, Sid Shinde, Thaksha Krishnagumar
   link:
-    url: 
-    display: 
+    url:
+    display:
   highlight: 1
-  subprojects: 3
-  subprojects1: 
-    name: Accessibility Infrastructure in Universities
-    url: /research/Accessibility/AccessibilityInfrastructure.html
-  subprojects2: 
-    name: Accessible and Inclusive Data sciencE (AIDE)
-    url: /research/Accessibility/AIDE.html
-  subprojects3: 
-    name: Visual Impairment and Risk Communication
-    url: /research/Accessibility/VIRisk.html
-
+  subprojects:
+    - name: Accessibility Infrastructure in Universities
+      url: /research/Accessibility/AccessibilityInfrastructure.html
+    - name: Accessible and Inclusive Data sciencE (AIDE)
+      url: /research/Accessibility/AIDE.html
+    - name: Visual Impairment and Risk Communication
+      url: /research/Accessibility/VIRisk.html
 
 - id: caredesign
   title: "Designing For/With Care"
-  image: 
   description: Exploring how we can design for/with care and supporting existing care organizations
   authors: Adrian Petterson
   link:
     url:
     display:
   highlight: 1
-  subprojects: 2
-  subprojects1: 
-    name: Designing Sustainable Reproductive Justice Futures
-    url: /research/CareResearch/ReproJustice.html
-  subprojects2: 
-    name: Conceptualizing Care in HCI
-    url: /research/CareResearch/careinhci.html
+  subprojects:
+    - name: Designing Sustainable Reproductive Justice Futures
+      url: /research/CareResearch/ReproJustice.html
+    - name: Conceptualizing Care in HCI
+      url: /research/CareResearch/careinhci.html
 
 - id: designequity
   title: "Design Equity"
-  image: 
   description: How can we help designers shift systems of oppression?
-  authors: Adrian Petterson, Trevor Cross, Carolyn Ly
+  authors: Adrian Petterson, Trevor Cross, Carolyn Ly, Ashique Ali T
   link:
-    url: /research/EquityToolkits/EquityToolkits.html
+    url:
     display: More Details
   highlight: 1
-  subprojects: 0
+  subprojects:
+    - name: Design Equity Toolkits
+      url: /research/EquityToolkits/EquityToolkits.html
+    - name: Caste and Design
+      url:
 
 - id: posthumanhci
   title: "Posthumanism, Design, and HCI"
-  image: 
   description: How are notions of the Posthuman used in HCI and Design fields?
-  authors: Cagdas Dedeoglu, Kit Haehnal
+  authors: Cagdas Dedeoglu
   link:
     url: /research/PostHumanAndHCI.html
     display: More Details
   highlight: 1
-  subprojects: 0
 
 - title: "Sex Ed Creators' Strategies of Circumventing Censorship"
-  image: 
   description: What strategies do creators on the social media platform TikTok use to circumvent censorship when producing sex ed content?
   authors: Emily Weckend
   link:
     url: /research/SexEdCensorship.html
     display: More Details
   highlight: 1
-  subprojects: 0
 
 - title: "Designing Research Tools"
-  image: 
   description: Designing research tools to help qualitative researchers
   authors: Emily Su, Carmen Chau
   link:
     url: /research/ResearchTools.html
-    display: 
+    display:
   highlight: 1
-  subprojects: 0

@@ -329,6 +329,32 @@ hr,
   }
 }
 
+.sl-pub-project {
+  margin: .2rem 0 1.75rem;
+  font-size: .8rem;
+  color: var(--sl-muted);
+}
+
+.sl-year-divider {
+  display: flex;
+  align-items: center;
+  gap: .85rem;
+  margin: 2.25rem 0 .75rem;
+  color: var(--sl-muted);
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.sl-year-divider::before,
+.sl-year-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--sl-border);
+}
+
 .sl-abstract {
   margin: .75rem 0 1.5rem;
   padding: .9rem 1rem;
@@ -353,4 +379,25 @@ hr,
 
 .sl-abstract-toggle:hover {
   background: #f8f9fa;
+}
+
+.sl-pdf-link {
+  display: inline-block;
+  padding: .1rem .45rem;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  border: 1px solid currentColor;
+  border-radius: .25rem;
+  color: #1a5276;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.sl-pdf-link:hover {
+  background: var(--sl-accent);
+  color: #000;
+  border-color: var(--sl-accent);
+  text-decoration: none;
 }

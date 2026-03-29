@@ -34,81 +34,33 @@ function copyBibTeX(el) {
 
 ## Peer Reviewed Publications {#peer-reviewed-publications}
 
+{% assign prev_year = '' %}
 {% for publi in site.data.publist %}
-<p>
-  <strong>{{ publi.title }}</strong>{% if publi.award %}<em> | {{ publi.award }}</em>{% endif %}<br />
-  {{ publi.authors }}<br />
-  <em>{{ publi.venue }}</em><br />
-  <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a>
-  |
-  <a href="javascript:void(0);" onclick="copyBibTeX(this)" data-bibtex="{{ publi.bibtex | escape }}">Copy BibTeX</a>
-</p>
-
+{% if publi.year != prev_year %}{% assign prev_year = publi.year %}{% if publi.year == 'pre2021' %}{% assign year_label = 'Before 2021' %}{% else %}{% assign year_label = publi.year %}{% endif %}
+<div class="sl-year-divider" markdown="0">{{ year_label }}</div>
+{% endif %}
 {% assign abs_id = 'abs-peer-' | append: forloop.index %}
-<p>
-  <button type="button"
-          class="sl-abstract-toggle"
-          onclick="toggleAbstract('{{ abs_id }}', this)"
-          aria-expanded="false"
-          aria-controls="{{ abs_id }}">
-    Show Abstract
-  </button>
-</p>
-<div id="{{ abs_id }}" class="sl-abstract" style="display:none" role="region" aria-live="polite" markdown="0">
-  <p>{{ publi.description | strip }}</p>
-</div>
+{% include publication-item.html publi=publi abs_id=abs_id %}
 {% endfor %}
 
-## Short Papers {#short-papers}
+## Short Papers and Abstracts {#short-papers}
 
+{% assign prev_year = '' %}
 {% for publi in site.data.nonpublist %}
-<p>
-  <strong>{{ publi.title }}</strong>{% if publi.link.url and publi.link.url != '' and publi.link.url != 'https://' %} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% endif %}<br />
-  {{ publi.authors }}<br />
-  <em>{{ publi.venue }}</em><br />
-  <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a>
-  |
-  <a href="javascript:void(0);" onclick="copyBibTeX(this)" data-bibtex="{{ publi.bibtex | escape }}">Copy BibTeX</a>
-</p>
-
+{% if publi.year != prev_year %}{% assign prev_year = publi.year %}{% if publi.year == 'pre2021' %}{% assign year_label = 'Before 2021' %}{% else %}{% assign year_label = publi.year %}{% endif %}
+<div class="sl-year-divider" markdown="0">{{ year_label }}</div>
+{% endif %}
 {% assign abs_id = 'abs-short-' | append: forloop.index %}
-<p>
-  <button type="button"
-          class="sl-abstract-toggle"
-          onclick="toggleAbstract('{{ abs_id }}', this)"
-          aria-expanded="false"
-          aria-controls="{{ abs_id }}">
-    Show Abstract
-  </button>
-</p>
-<div id="{{ abs_id }}" class="sl-abstract" style="display:none" role="region" aria-live="polite" markdown="0">
-  <p>{{ publi.description | strip }}</p>
-</div>
+{% include publication-item.html publi=publi abs_id=abs_id %}
 {% endfor %}
 
 ## Workshops {#workshops}
 
+{% assign prev_year = '' %}
 {% for publi in site.data.workshops %}
-<p>
-  <strong>{{ publi.title }}</strong>{% if publi.link.url and publi.link.url != '' and publi.link.url != 'https://' %} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% endif %}<br />
-  {{ publi.authors }}<br />
-  <em>{{ publi.venue }}</em><br />
-  <a href="{{ publi.doi }}" target="_blank">{{ publi.doi }}</a>
-  |
-  <a href="javascript:void(0);" onclick="copyBibTeX(this)" data-bibtex="{{ publi.bibtex | escape }}">Copy BibTeX</a>
-</p>
-
+{% if publi.year != prev_year %}{% assign prev_year = publi.year %}{% if publi.year == 'pre2021' %}{% assign year_label = 'Before 2021' %}{% else %}{% assign year_label = publi.year %}{% endif %}
+<div class="sl-year-divider" markdown="0">{{ year_label }}</div>
+{% endif %}
 {% assign abs_id = 'abs-work-' | append: forloop.index %}
-<p>
-  <button type="button"
-          class="sl-abstract-toggle"
-          onclick="toggleAbstract('{{ abs_id }}', this)"
-          aria-expanded="false"
-          aria-controls="{{ abs_id }}">
-    Show Abstract
-  </button>
-</p>
-<div id="{{ abs_id }}" class="sl-abstract" style="display:none" role="region" aria-live="polite" markdown="0">
-  <p>{{ publi.description | strip }}</p>
-</div>
+{% include publication-item.html publi=publi abs_id=abs_id %}
 {% endfor %}
