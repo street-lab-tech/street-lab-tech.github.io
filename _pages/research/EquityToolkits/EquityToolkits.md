@@ -28,6 +28,7 @@ permalink: /research/EquityToolkits/EquityToolkits.html
 <p>This project is now completed.</p>
 
 <h2>Papers</h2>
+<p>Petterson, Adrian, Carolyn Kim Ly, Trevor Cross, Richmond Wong, and Priyank Chandra. 2026. "Tooling Justice: Articulating Equity Work Through Design Toolkits." In <em>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems</em> (CHI '26). <a href="https://doi.org/10.1145/3772318.3790783">https://doi.org/10.1145/3772318.3790783</a></p>
 <p>Petterson, Adrian, Keith Cheng, and Priyank Chandra. 2023. "Playing with Power Tools: Design Toolkits and the Framing of Equity." In <em>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</em>, 1–24. <a href="https://doi.org/10.1145/3544548.3581490">https://doi.org/10.1145/3544548.3581490</a></p>
 
 </div>

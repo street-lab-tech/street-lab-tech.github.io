@@ -9,7 +9,7 @@ permalink: /research/Accessibility/AIDE.html
 <div class="col-12 sl-content">
   <h1>Accessible & Inclusive Data sciencE (AIDE)</h1>
   <h3>Priyank Chandra · Keiran Campbell (Lunefield) · Thaksha Krishnagumar · Sid Shinde · Ishani Pandey</h3>
-  <h4 class="sl-status-ongoing">Ongoing</h4>
+  <h4 class="sl-status-completed">Completed</h4>
 </div>
 </div>
 
