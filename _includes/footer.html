@@ -29,5 +29,13 @@
   (function () {
     var y = document.getElementById('year');
     if (y) y.textContent = new Date().getFullYear();
+
+    document.querySelectorAll('.sl-email').forEach(function (el) {
+      var addr = el.dataset.u + '@' + el.dataset.d;
+      var a = document.createElement('a');
+      a.href = 'mailto:' + addr;
+      a.textContent = addr;
+      el.parentNode.replaceChild(a, el);
+    });
   })();
 </script>

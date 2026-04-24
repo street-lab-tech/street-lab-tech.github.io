@@ -15,7 +15,7 @@
 
       {% if include.member.email or include.member.website %}
         <p class="sl-team-links mb-0">
-          {% if include.member.email %}<span><a href="mailto:{{ include.member.email }}">{{ include.member.email }}</a></span>{% endif %}
+          {% if include.member.email %}{% assign email_parts = include.member.email | split: '@' %}<span><span class="sl-email" data-u="{{ email_parts[0] }}" data-d="{{ email_parts[1] }}" aria-label="email address"></span></span>{% endif %}
           {% if include.member.email and include.member.website %}<span aria-hidden="true"> · </span>{% endif %}
           {% if include.member.website %}<span><a href="{{ include.member.website }}">Website</a></span>{% endif %}
         </p>
